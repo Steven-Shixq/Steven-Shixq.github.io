@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Shixq</title>
+  <title>衷深学习</title>
   <icon>https://www.gravatar.com/avatar/1a78ec769217974f51d40169d81d53e1</icon>
   <subtitle>追求卓越，勇于尝试，活在当下</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://steven-shixq.github.io/</id>
   
   <author>
-    <name>Shixq</name>
+    <name>石晓强</name>
     <email>2583551979@qq.com</email>
   </author>
   
