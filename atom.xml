@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://steven-shixq.github.io/"/>
-  <updated>2020-02-25T08:07:28.241Z</updated>
+  <updated>2020-02-26T05:48:01.473Z</updated>
   <id>https://steven-shixq.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每日外闻20</title>
+    <link href="https://steven-shixq.github.io/2020/02/26/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB20/"/>
+    <id>https://steven-shixq.github.io/2020/02/26/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB20/</id>
+    <published>2020-02-26T02:43:40.000Z</published>
+    <updated>2020-02-26T05:48:01.473Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://www.newscientist.com/article/2235009-animal-that-doesnt-need-oxygen-to-survive-discovered/" target="_blank" rel="noopener">Animal that doesn’t need oxygen to survive discovered</a></p></blockquote><p>能呼吸氧气一直以来都被当做是多细胞生物的一项基本特征，但科学家最近发现了一种动物不能呼吸氧气，它们没有线粒体这个细胞器，丧失了呼吸氧气的能力。</p><p>这种感染鲑鱼的寄生虫如何在没有氧气的情况下获得所需的能量，仍然是一个谜，科学家猜测寄生虫可能通过宿主来获取所需的氧气。</p><p>所有动植物都是使用氧气来产生ATP，ATP为细胞提供所需的能量。细胞通过利用氧气产生ATP的过程发生在线粒体中。线粒体中存在和细胞核分开的基因组，但科学家使用DNA染料对该寄生虫（<em>Henneguya salminicola</em>）的细胞进行染色时，没有在除了细胞核以外的细胞质区域发现该荧光染料。相比之下，在该寄生虫的近亲中进行DNA染色时，可以看到该寄生虫近亲细胞中的线粒体的存在。</p><p>虽然<em>Henneguya salminicola</em>的细胞有看起来像线粒体的结构，但它们不能制造利用氧气产生ATP所需的酶，这些结构不是真正的线粒体。这以为着其作为一种多细胞动物，可以在没有氧气的情况下存活。</p><p>2010年，意大利马尔凯理工大学的Roberto Danovaro报道说，生活在深海沉积物中的一群名为loriciferans的小动物在显微镜下观察不到线粒体，必须依赖其他能源，例如氢硫化物代替。但是该结论还需要进行基因组测序来进一步确认。</p><hr><p><em>See you tomorrow</em></p>]]></content>
+    
+    <summary type="html">
+    
+      NewScientist-Animal that doesn&#39;t need oxygen to survive discovered
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+    
+      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+      <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
+    
+      <category term="science" scheme="https://steven-shixq.github.io/tags/science/"/>
+    
+  </entry>
   
   <entry>
     <title>每日外闻19</title>
@@ -37,9 +68,9 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
     
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
     
@@ -70,9 +101,9 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
     
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
     
@@ -105,9 +136,9 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
     
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
     
@@ -169,9 +200,9 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
     
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
     
@@ -204,9 +235,9 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
     
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
     
@@ -239,9 +270,9 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
     
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
     
@@ -272,9 +303,9 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
     
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
     
@@ -307,9 +338,9 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
     
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
     
@@ -371,9 +402,9 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
     
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
     
@@ -404,9 +435,9 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
     
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
     
@@ -464,9 +495,9 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
     
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
     
@@ -495,9 +526,9 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
     
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
     
@@ -561,9 +592,9 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
     
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
     
@@ -592,9 +623,9 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
     
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="IELTS" scheme="https://steven-shixq.github.io/tags/IELTS/"/>
     
@@ -621,44 +652,13 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
     
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="career" scheme="https://steven-shixq.github.io/tags/career/"/>
     
       <category term="nature" scheme="https://steven-shixq.github.io/tags/nature/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>每日外闻4</title>
-    <link href="https://steven-shixq.github.io/2020/02/10/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB4/"/>
-    <id>https://steven-shixq.github.io/2020/02/10/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB4/</id>
-    <published>2020-02-10T05:03:09.000Z</published>
-    <updated>2020-02-22T02:26:34.857Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><a href="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/The_Economist.png" data-fancybox="group" data-caption="undefined" class="fancybox"><img data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/The_Economist.png" class="lazyload"></a><blockquote><p><a href="https://www.economist.com/leaders/2020/02/06/what-it-takes-to-be-a-ceo-in-the-2020s" target="_blank" rel="noopener">What it takes to be a CEO in the 2020s</a></p></blockquote><h1 id="What-it-takes-to-be-a-CEO-in-the-2020s"><a href="#What-it-takes-to-be-a-CEO-in-the-2020s" class="headerlink" title="What it takes to be a CEO in the 2020s"></a>What it takes to be a CEO in the 2020s</h1><p>On paper this is <u>a gold age for</u> bosses. Chief executives have vast power. The people who run America’s largest <u>listed firms</u> (上市公司) hold swag (统治) over 26m (百万缩写) staff. Profits are high and <u>the economy is purring</u> (发出咕噜声，表示经济在发展). The pay is fantastic: the median of those CEOs pockets $13m a year. The risks are tolerable: your chances of being fired or retiring in any year are about 10%. CEOs often get away with a dreadful (糟糕的) performance. The only big drawback is all those meetings, which eat up two-thirds of the typical boss’s working hours.</p><p>CEO say the job has got harder under the situation that competition is more intense. But they have been saying that for years. In fact the evidence suggests that, as America’s economy has become more <strong>sclerotic</strong> (固化的), big firms have been able to <u>count on</u> (依靠) cranking out (制造出) high profits for longer.</p><p>Studies suggest that the quality of an American firm’s leadership explains about 15% of the variance in profitability. But boards (董事会) and headhunters struggle to (很难) identify who will do a good job. <strong>About  80% of CEOs come from within the company and over half are engineers or have MBAS. Most are white and male, although that is changing slowly.</strong></p><p>This tiny elite faces big changes, starting with how they control their firms. The main tool that CEOs have <strong>wielded</strong> (行使) is the control of physical investment (实物投资), a process known as capital allocation. The firm and the CEO have had clear <strong>jurisdiction</strong> (管辖权) over a defined set of assets, staff, products and <strong>proprietary</strong> information (专有资料). </p><p>Today, however, 32% of firms in the s&amp;p 500 (标普500) of big American firms invest more in <u>intangible assets</u> (无形资产) than physical ones (有形资产), and 61% of the market value of the s&amp;p 500 sits in intangibles such as <u>research and development</u> (r&amp;d) (研发), customers linked by network effects, brands and data. </p><p>Meanwhile the boundaries of the firm, and the CEO’s authority, are blurring. Generations of bosses have obeyed the call to “go global”(走出去). But in the past decade the profitability of multinational investment abroad has soured (酸的，令人失望的), so that <u>returns on capital</u> (资本回报率) are a puny (微小的) 7%.</p><p>The last change is over the purpose of the firm.  Politicians call on CEOs to favour staff, suppliers and clients interests more. In a dynamic economy some firms have to shrink (缩减规模) and <u>shed workers</u> (裁员). It is silly to pretend there are no trade-offs. Higher wages and more cash for suppliers mean lower profits or higher prices for consumers.</p><p><strong><u>The very model of</u>  (模型，典范) a modern CEO</strong></p><p>What, then, does it take to be a corporate leader in the 2020s?</p><p>那么，要成为2020年代的企业领导者又需要做什么？</p><p>Mastering the tricky, creative and more collaborative game of allocating intangible capital is essential. A CEO must be able to marshal (排列，整理) the data flowing between companies and their counterparts, redistributing (重新分配) who earns profits and bears risk. Last, bosses need to be clear that a firm should be run in the long-term interest of its owners. That does not mean being crusty (执拗的) or myopic (近视，目光短浅的).</p><p>corruption scandal: 腐败丑闻</p><hr><p><em>See you tomorrow</em></p>]]></content>
-    
-    <summary type="html">
-    
-      The Economist-What it takes to be a CEO in the 2020s
-    
-    </summary>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
-    
-      <category term="管理" scheme="https://steven-shixq.github.io/tags/%E7%AE%A1%E7%90%86/"/>
-    
-      <category term="The Economist" scheme="https://steven-shixq.github.io/tags/The-Economist/"/>
     
   </entry>
   
