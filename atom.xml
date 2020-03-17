@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://steven-shixq.github.io/"/>
-  <updated>2020-03-17T07:06:29.274Z</updated>
+  <updated>2020-03-17T07:10:18.791Z</updated>
   <id>https://steven-shixq.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://steven-shixq.github.io/2020/03/17/%E5%AD%A6%E4%B9%A0%E4%B9%8B%E9%81%93-The-Art-of-Learning/"/>
     <id>https://steven-shixq.github.io/2020/03/17/%E5%AD%A6%E4%B9%A0%E4%B9%8B%E9%81%93-The-Art-of-Learning/</id>
     <published>2020-03-17T06:55:02.000Z</published>
-    <updated>2020-03-17T07:06:29.274Z</updated>
+    <updated>2020-03-17T07:10:18.791Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>《学习之道-The Art of Learning》- [美] <em>Josh Waitzkin</em></p>]]></content>
     
@@ -32,9 +32,11 @@
     </summary>
     
     
-      <category term="读书，学习如何学习" scheme="https://steven-shixq.github.io/categories/%E8%AF%BB%E4%B9%A6%EF%BC%8C%E5%AD%A6%E4%B9%A0%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0/"/>
+      <category term="读书" scheme="https://steven-shixq.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
     
-      <category term="读书，自转" scheme="https://steven-shixq.github.io/categories/%E8%AF%BB%E4%B9%A6%EF%BC%8C%E8%87%AA%E8%BD%AC/"/>
+      <category term="学习如何学习" scheme="https://steven-shixq.github.io/categories/%E8%AF%BB%E4%B9%A6/%E5%AD%A6%E4%B9%A0%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="自转" scheme="https://steven-shixq.github.io/categories/%E8%AF%BB%E4%B9%A6/%E8%87%AA%E8%BD%AC/"/>
     
     
       <category term="回忆录" scheme="https://steven-shixq.github.io/tags/%E5%9B%9E%E5%BF%86%E5%BD%95/"/>
