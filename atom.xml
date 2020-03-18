@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://steven-shixq.github.io/"/>
-  <updated>2020-03-17T09:29:36.131Z</updated>
+  <updated>2020-03-18T04:05:05.090Z</updated>
   <id>https://steven-shixq.github.io/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每日外闻41</title>
+    <link href="https://steven-shixq.github.io/2020/03/18/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB41/"/>
+    <id>https://steven-shixq.github.io/2020/03/18/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB41/</id>
+    <published>2020-03-18T02:39:45.000Z</published>
+    <updated>2020-03-18T04:05:05.090Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em>2020年发表于nature正刊上的一篇论文</em></p><p><a href="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/202003181203181.png" data-fancybox="group" data-caption="Tobacco smoking and somatic mutations in human bronchial epithelium" class="fancybox"><img alt="Tobacco smoking and somatic mutations in human bronchial epithelium" title="Tobacco smoking and somatic mutations in human bronchial epithelium" data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/202003181203181.png" class="lazyload"></a></p><p><strong>吸烟与人体支气管上皮细胞的体细胞突变</strong></p><p>吸烟会导致肺癌，这一致癌过程是由香烟烟雾中60多种致癌物驱动的，这些致癌物会直接破坏和突变DNA。已经有很多的文献证明烟草对肺癌细胞基因组的深远影响，但吸烟对正常支气管细胞的影响知之甚少。本研究对来自16个参与者的632个单个支气管上皮细胞的全基因组进行了测序。发现吸烟是突变负荷的主要影响因素，通常每个细胞会增加1000~10000个突变。这与正常受试者的突变差异是巨大的。这些突变中会有替代、插入和缺失突变（会导致编码的氨基酸改变，最终会影响蛋白质的功能）。戒烟者有的细胞的突变负荷和从未吸烟者差不多，这些细胞受到烟草导致的突变损害较小，而且其数量是吸烟者的四倍，在戒烟者中这些突变负荷较小的细胞端粒比吸烟者中突变负荷大的细胞长。驱动基因突变的频率随着年龄的增长而增加，在从未吸烟的中年受试者中，有4 - 14%的细胞受到影响。但在（当前）吸烟者中，至少25%的细胞带有驱动基因突变，0 - 6%的细胞有两个或三个驱动基因突变。研究证明，吸烟增加了细胞的突变负担、细胞间的异质性和驱动基因突变（一类吸烟所导致的基因突变），戒烟促进了有丝分裂静止的细胞补充支气管上皮细胞，这有效避免了戒烟者在以前吸烟时突变的细胞进一步突变的风险。</p><p>文章主要有两个重要的结论：</p><ol><li>吸烟者的支气管上皮细胞突变远大于非吸烟者，尽早戒烟可以有效的减少烟草所导致的体细胞基因突变。及时戒烟仍能大大下调细胞基因突变负荷，减低癌变风险。</li><li>研究中部分戒烟者的部分细胞端粒更长，端粒更长表明这些细胞没有经历过多次分裂。文中作者推测这些细胞可能是长期休眠的干细胞（有丝分裂静止的细胞）分裂而来，该推测仍需进一步研究证实。</li></ol><p>References:</p><p>Yoshida K, Gowers KHC, Lee-Six H, et al. Tobacco smoking and somatic mutations in human bronchial epithelium. <strong><em>Nature</em></strong>. 2020;578(7794):266–272. doi:10.1038/s41586-020-1961-1</p><hr><p><em>See you tomorrow</em></p>]]></content>
+    
+    <summary type="html">
+    
+      吸烟导致支气管上皮细胞的DNA突变，及时戒烟仍能大大下调细胞基因突变负荷，降低癌变风险
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+      <category term="精准医学" scheme="https://steven-shixq.github.io/categories/%E7%B2%BE%E5%87%86%E5%8C%BB%E5%AD%A6/"/>
+    
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="Smoking" scheme="https://steven-shixq.github.io/tags/Smoking/"/>
+    
+      <category term="吸烟" scheme="https://steven-shixq.github.io/tags/%E5%90%B8%E7%83%9F/"/>
+    
+      <category term="基因突变" scheme="https://steven-shixq.github.io/tags/%E5%9F%BA%E5%9B%A0%E7%AA%81%E5%8F%98/"/>
+    
+  </entry>
   
   <entry>
     <title>成功万花筒</title>
@@ -657,39 +692,6 @@
       <category term="Biology" scheme="https://steven-shixq.github.io/tags/Biology/"/>
     
       <category term="生物" scheme="https://steven-shixq.github.io/tags/%E7%94%9F%E7%89%A9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>每日外闻26</title>
-    <link href="https://steven-shixq.github.io/2020/03/03/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB26/"/>
-    <id>https://steven-shixq.github.io/2020/03/03/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB26/</id>
-    <published>2020-03-03T02:34:21.000Z</published>
-    <updated>2020-03-03T06:43:47.101Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://media.gatesnotes.com/-/media/Images/Books/Life-is-What-You-Make-It/life-is-what-you-make-it_2010_780px.ashx" target="_blank" rel="noopener">Peter Buffett on What He Learned Growing Up</a></p></blockquote><p><em>Life Is What You Make It: Find Your Own Path to Fulfillment</em></p><p>中文书名：《做你自己》</p><p>Peter was passionate about music. He’s an Emmy-Award-winning musician and songwriter, has composed (作曲) for film and television, and released more than 15 albums. But the focus of his book is a reflection of his broader life experiences—in particular the values, work ethic (职业道德)and commitment to social action that he learned growing up in the modest Buffett family home in Omaha, Nebraska.</p><p>Contrary to what many people might assume, Peter won’t inherit great wealth from his father. Instead, he was encouraged by his parents to find his own path. The book is a chronicle of that journey—and the wisdom and <strong>perceptions</strong> (认知，观念) he has developed along the way.</p><p>In particular, Peter’s insights about the four core values he “absorbed” growing up in the Buffett home really <u>resonated with me</u> (与我产生共鸣). They are:</p><ul><li>Trust in the belief that the world is fundamentally a good place and that all people, however, flawed, are—at the core—well-intentioned (好意的，善意的)</li><li>Tolerance for other people’s viewpoints and perspectives</li><li>A passion for education—not in the traditional sense but as a way to approach life with curiosity and an openness to what others have to teach us</li><li>A personal work ethic grounded in self-discovery and a commitment to finding something that you wake up every morning looking forward to</li></ul><hr><p><em>See you tomorrow</em></p>]]></content>
-    
-    <summary type="html">
-    
-      Gates-Life is What You Make It Find Your Own Path to Fulfillment
-    
-    </summary>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
-    
-      <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
-    
-      <category term="Book" scheme="https://steven-shixq.github.io/tags/Book/"/>
-    
-      <category term="Autobiography" scheme="https://steven-shixq.github.io/tags/Autobiography/"/>
     
   </entry>
   
