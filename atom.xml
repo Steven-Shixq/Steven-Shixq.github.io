@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://steven-shixq.github.io/"/>
-  <updated>2020-03-20T16:26:39.940Z</updated>
+  <updated>2020-03-21T03:02:56.169Z</updated>
   <id>https://steven-shixq.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每日外闻44</title>
+    <link href="https://steven-shixq.github.io/2020/03/21/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB44/"/>
+    <id>https://steven-shixq.github.io/2020/03/21/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB44/</id>
+    <published>2020-03-21T02:14:40.000Z</published>
+    <updated>2020-03-21T03:02:56.169Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://www.gatesnotes.com/Books/Capitalism-Without-Capital" target="_blank" rel="noopener">Not enough people are paying attention to this economic trend</a></p></blockquote><p>The supply and demand diagram, at the time I was in college (which was longer ago than I like to admit), was basically how the global economy worked:</p><p><a href="https://media.gatesnotes.com/-/media/Images/Books/Capitalism-Without-Capital/capitalism-without-capital_2018_inline-drawn-graphic_800x494_v2.ashx" data-fancybox="group" data-caption="supply and demand diagram" class="fancybox"><img alt="supply and demand diagram" title="supply and demand diagram" data-src="https://media.gatesnotes.com/-/media/Images/Books/Capitalism-Without-Capital/capitalism-without-capital_2018_inline-drawn-graphic_800x494_v2.ashx" class="lazyload"></a></p><p>There are two assumptions you can make based on this chart. The first is still more or less true today: as demand for a product goes up, supply increases, and price goes down. If the price gets too high, demand falls. The sweet spot where the two lines intersect is called equilibrium. Equilibrium is magical, because it maximizes value to society. Goods are affordable, plentiful, and profitable. Everyone wins.</p><p>The second assumption this chart makes is that the total cost of production increases as supply increases. This is true for the things that dominated the world’s economy for most of the 20th century.</p><p>Software doesn’t work like this. Microsoft might spend a lot of money to develop the first unit of a new program, but every unit after that is virtually free to produce. Unlike the goods that powered our economy in the past, software is an intangible asset. And software isn’t the only example: data, insurance, e-books, even movies work in similar ways.</p><p>The portion of the world’s economy that doesn’t fit the old model just keeps getting larger. <em>Capitalism Without Capital</em> by Jonathan Haskel and Stian Westlake is about as good an explanation for why this matter. They start by defining intangible assets as “something you can’t touch.” It sounds obvious, but it’s an important distinction because intangible industries work differently than tangible industries. Products you can’t touch have a very different set of dynamics in terms of competition and risk and how you value the companies that make them.</p><p>Haskel and Westlake outline four reasons why intangible investment behaves differently:</p><ol><li><strong>It’s a sunk cost.</strong> If your investment doesn’t pan out, you don’t have physical assets like machinery that you can sell off to recoup some of your money.</li><li><strong>It tends to create spillovers that can be taken advantage of by rival companies.</strong> Uber’s biggest strength is its network of drivers, but it’s not uncommon to meet an Uber driver who also picks up rides for Lyft.</li><li><strong>It’s more scalable than a physical asset.</strong> After the initial expense of the first unit, products can be replicated ad infinitum for next to nothing.</li><li><strong>It’s more likely to have valuable synergies with other intangible assets.</strong> Haskel and Westlake use the iPod as an example: it combined Apple’s MP3 protocol, miniaturized hard disk design, design skills, and licensing agreements with record labels.</li></ol><p>The book is eye opening, but it’s not for everyone. Although Haskel and Westlake are good about explaining things, you need some familiarity with economics to follow what they’re saying.</p><p>What the book reinforced for me is that lawmakers need to adjust their economic policymaking to reflect these new realities. Measurement isn’t the only area where we’re falling behind—there are a number of big questions about policy that lots of countries should be debating right now.</p><p>It took time for the investment world to embrace companies built on intangible assets. In the early days of Microsoft, I felt like I was explaining something completely foreign to people. Our business plan involved a different way of looking at assets than investors were used to. They couldn’t imagine what returns we would generate over the long term.</p><p>The idea today that anyone would need to be pitched on why software is a legitimate investment seems unimaginable, but a lot has changed since the 1980s. It’s time the way we think about the economy does, too.s</p><hr><p><em>See you tomorrow</em></p>]]></content>
+    
+    <summary type="html">
+    
+      Gates-Capitalism Without Capital explains how things we can’t touch are reshaping the economy
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
+    
+      <category term="Economy" scheme="https://steven-shixq.github.io/tags/Economy/"/>
+    
+  </entry>
   
   <entry>
     <title>每日外闻43</title>
@@ -647,39 +678,6 @@
     <summary type="html">
     
       HBR-Success That Lasts 3
-    
-    </summary>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
-    
-      <category term="Harvard Business Review" scheme="https://steven-shixq.github.io/tags/Harvard-Business-Review/"/>
-    
-      <category term="管理" scheme="https://steven-shixq.github.io/tags/%E7%AE%A1%E7%90%86/"/>
-    
-      <category term="Management" scheme="https://steven-shixq.github.io/tags/Management/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>每日外闻29</title>
-    <link href="https://steven-shixq.github.io/2020/03/06/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB29/"/>
-    <id>https://steven-shixq.github.io/2020/03/06/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB29/</id>
-    <published>2020-03-06T06:00:25.000Z</published>
-    <updated>2020-03-07T02:47:11.521Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script> <div align="left">     <a href="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/HBR_logo_black.svg" data-fancybox="group" data-caption="undefined" class="fancybox"><img data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/HBR_logo_black.svg" class="lazyload"></a> </div>*翻译哈佛商业评论经典文章*<h1 id="万花筒里看成功2"><a href="#万花筒里看成功2" class="headerlink" title="万花筒里看成功2"></a>万花筒里看成功2</h1><p><strong>什么是可持续的成功</strong></p><p>我们的研究重新审视了成功背后的假设。我们对那些真正的、可持续的成功感兴趣-得偿所愿带来的回报对你和你所关心的人来说都是可持续的。这种了类型的成就能传递给人一种合法性和重要性。它给你带来的满足感远胜于奖金或者是新职位带来的瞬时的快乐。持久的成功能不断更新一个人正面的情绪，而不会使人患得患失。</p><p>与制定一个成功的市场战略不同，没有人或者公司能为他人制定成功的方案。每个人（或者每个公司）都有自己独一无二的成功视角，而且这种观念会随着时间为改变。一个以家庭为导向的人，很难认为一个缺席家庭生活的高管是成功的，但他们也可能在孩子长大后发现，旅行和冒险才是他们的最佳选择。一个天生的投资银行家几乎不会把搅拌水泥视为一个成功的职业，而一个刚刚建完一座非凡桥梁的建筑工人可能会在他或她的余生里都对建成这座桥梁而感到自豪。但是，没有人能无限制的取得成功，即使是最明显的赢家也是如此。随着时间的推移，不断的理解和发展自己对成功的独特理解是非常重要的，鉴于此，我们也不会只选择一两个成功的范例来作为我们的成功的完美模型。</p><p>尽管如此，出于研究目的，我们提出了五个在大多数标准中都是持久成功型的特征：</p><ol><li>高成就</li><li>多个目标</li><li>体验愉悦的能力</li><li>建立积极的人际关系的能力</li><li>对获得持久成功的渴望</li></ol><p>我们和60多位成功的专业人士进行了访谈，调查了90位参加哈佛商学院管理项目的高管，非正式的观察了我们生活和工作中的高成就人士。我们进行了十多个模型的测试，每个测试都会有50-110个高管参与。这些团体中的大多数来自哈佛商学院的毕业生或青年总裁组织的当前成员。我们还研究了普通大众所报道的关于成功的问题-有来自媒体报道的，还有与朋友、学生、同事的对话。我们还采访了处于经济的各个阶层，各行各业（all different walks of life）的人士。他们中有一些人是曾经全职工作，现在待在家里的父母；其他人则处于事业的顶峰。</p><hr><h1 id="Success-That-Lasts-2"><a href="#Success-That-Lasts-2" class="headerlink" title="Success That Lasts 2"></a><a href="https://hbr.org/2004/02/success-that-lasts" target="_blank" rel="noopener">Success That Lasts 2</a></h1><p><strong>What Is Enduring Success?</strong></p><p>Our research took a fresh look at the assumptions behind success. We were interested in real, enduring success—where getting what you want has rewards that are sustainable for you and those you care about. This type of attainment delivers a sense of legitimacy and importance; its satisfactions endure far beyond the momentary rewards of a bonus or a new position. Lasting success is emotionally renewing, not anxiety provoking.</p><p>Unlike an equation for a successful market strategy, no one person or company can fully embody lasting success for others. Everyone (and every business) has a unique vision of real success, and that notion changes over time. A family-oriented person would hardly call the absentee life of a top executive a success but might find travel and adventure just the ticket after the kids grow up. A born investment banker would hardly regard mixing cement as a successful career, whereas a construction worker who just completed an extraordinary bridge might point to the structure with pride for the rest of his or her life. No one, however, has unreserved success, not even the most obvious winner. Recognizing how important it is for each person to understand and develop his or her unique definition of success over time, we chose not to report on one or two well-known examples of success as the perfect model to follow.</p><p>Nonetheless, for the purposes of research, we posited five common characteristics of individuals who by most standards had achieved enduring success: high achievement, multiple goals, the ability to experience pleasure, the ability to create positive relationships, and a value on accomplishments that endure.</p><p>We held more than 60 interviews with successful professionals, surveyed 90 top executives attending Harvard Business School management programs, and informally observed high achievers with whom we live and work. We conducted more than a dozen model-testing sessions with between 50 and 110 executives in each. Most of these groups were drawn from HBS graduates or current members of the Young Presidents’ Organization. We also reviewed the problems that the general population has reported about success, using sources that ranged from media reports to conversations with friends, students, and colleagues. We talked to people from all different walks of life, at every level of the economy, both in and out of business careers. Some of them were stay-at-home parents who had once worked full time; others were at the pinnacle of their careers.</p><hr><p><em>See you tomorrow</em></p>]]></content>
-    
-    <summary type="html">
-    
-      HBR-Success That Lasts 2
     
     </summary>
     
