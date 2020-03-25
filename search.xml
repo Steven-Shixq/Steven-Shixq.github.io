@@ -4,6 +4,49 @@
   
     
     <entry>
+      <title>每日外闻48</title>
+      <link href="/2020/03/25/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB48/"/>
+      <url>/2020/03/25/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB48/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="AI-finds-microbial-signatures-in-tumours-and-blood-across-cancer-types"><a href="#AI-finds-microbial-signatures-in-tumours-and-blood-across-cancer-types" class="headerlink" title="AI finds microbial signatures in tumours and blood across cancer types"></a>AI finds microbial signatures in tumours and blood across cancer types</h1><p><em>来自人类癌症的核酸序列，以及相邻组织和血液样本的分析显示，肿瘤和血液中存在微生物。</em></p><p>世界上到处都是微生物，它们对生命的许多方面都有着深远的影响。这些微生物</p><p>对癌症有影响吗？人体的大部分微生物都生活在肠道中，很多研究都是针对肠道微生物的。有研究显示肠道菌群可能通过免疫系统来发挥对肿瘤的影响。另外，有研究表明，微生物的特异核酸序列，可以在人体内其他部位的肿瘤、健康人的组织或者血液中找到<a href="https://www.nature.com/articles/d41586-020-00637-w#ref-CR5" target="_blank" rel="noopener">5</a>,<a href="https://www.nature.com/articles/d41586-020-00637-w#ref-CR6" target="_blank" rel="noopener">6</a> 。在这些研究的基础上， Poore <em>et al.</em><a href="https://www.nature.com/articles/d41586-020-00637-w#ref-CR9" target="_blank" rel="noopener">9</a> 在多种人类癌症中识别肿瘤和血液中微生物DNA和RNA的特征。这些发现可能会增强现有的癌症诊断工具，未来该领域还需要进一步的工作来推动这种癌症早期诊断的方法。</p><p>作者使用了公共数据库的数据（TCGA）分析了33种癌症，这些数据来自约10000个患者超过17000个样本。使用多种计算机模型，包括AI，分析这些癌和癌旁还有血液样本的测序数据，最后分出了占总序列 7.2%的非人类基因序列。在这之中大约有三分之一属于已知的细菌、古细菌或病毒的序列，其中这些类别序列的12.6%可归结为一个特定的属。</p><p>作者随后训练了机器学习模型，利用这些序列来区分癌症类型、同一癌症类型的不同阶段以及肿瘤和正常组织。总体而言，这些模型在区分癌症类型、癌症和正常组织方面表现良好，但在区分癌症不同阶段方面存在变异性。</p><p>Poore等人随后利用人工智能模型分析了TCGA人群的全基因组序列，探索了癌症患者血液中的微生物特征。他们发现，血源微生物DNA (mbDNA)可以用来区分癌症类型。该小组试图在一个单独的队列中验证其mbDNA模型与现有的肿瘤游离DNA (ctDNA)分析的有效性做比较，该队列包括69名健康人和100名患有前列腺癌、肺癌或一种名为黑素瘤的皮肤癌患者(图1)。尽管有一些局限性，模型通常在区分癌症类型方面表现很好。未来需要使用专门的方法在更大的癌症类型人群中对这些结果进行进一步的验证。</p><p><a href="https://media.nature.com/lw800/magazine-assets/d41586-020-00637-w/d41586-020-00637-w_17780650.png" data-fancybox="group" data-caption="Figure 1" class="fancybox"><img alt="Figure 1" title="Figure 1" data-src="https://media.nature.com/lw800/magazine-assets/d41586-020-00637-w/d41586-020-00637-w_17780650.png" class="lazyload"></a></p><p><strong>Figure 1 | Microbial signatures of cancer.</strong> Microorganisms can inhabit various tissues. Traces of these microbes’ DNA and RNA can be found in various tissues, including the blood (here, only DNA is shown, for simplicity). Poore <em>et al.</em><a href="https://www.nature.com/articles/d41586-020-00637-w#ref-CR9" target="_blank" rel="noopener">9</a> built on previous findings<a href="https://www.nature.com/articles/d41586-020-00637-w#ref-CR6" target="_blank" rel="noopener">6</a> to show that microbial DNA and RNA can also be found in tumours and act as a signature of cancer. Artificial-intelligence programs can use these nucleic-acid signatures from tissue or blood samples to discriminate between types of cancer, and between healthy individuals and those who have certain cancers.</p><p>这项研究和类似的研究虽然令人感到兴奋，但也存在一些局限性。</p><p>比如TCGA的样本采集方式不能控制微生物或者mbDNA的污染。这种污染可能在样品采集和测序之间的任何时间被引入。Poore等人试图通过对潜在污染物的严格过滤来控制;然而，这种方法可能会限制我们对肿瘤中全部微生物的检测。此外，用于人类研究的DNA和RNA测序可能无法完全表征所有的微生物。在当前工作的基础上，未来的研究应该使用适当的测序技术对严格控制污染的组织和血液样本进行分析，以便对微生物特征进行表征。</p><p>除了确认这些微生物在肿瘤和癌症血液中的存在，了解它们的分布和功能也很重要。Poore等人在核酸序列的基础上鉴定了肿瘤中的微生物特征;然而，我们不知道这些微生物的位置(在肿瘤细胞内或周围，在免疫细胞内或在被称为基质的结缔组织内)，也不知道它们是否存活。还需要做更多的工作来确定这些微生物是否有致癌作用，或只是改变了的肿瘤微环境中的过客。有明确的案例表明，肿瘤中的微生物可能有助于癌症的发展和对癌症治疗的耐药<a href="https://www.nature.com/articles/d41586-020-00637-w#ref-CR3" target="_blank" rel="noopener">3</a>,<a href="https://www.nature.com/articles/d41586-020-00637-w#ref-CR10" target="_blank" rel="noopener">10</a>。然而，也有其他数据表明，肿瘤中微生物的存在与更好的治疗预后结果相关。这可能说明了其中不同的微生物在起不同的作用。</p><p>最后，我们还需要进一步了解微生物如何进入并持久存在于癌变组织的机理，以及研究如何以最佳方式靶向微生物进行治疗甚至预防癌症。这类策略需要细致入微，必须考虑到对所有微生物生态的潜在影响，因为人体中的许多常驻微生物在整体生理机能中起着至关重要的作用。尽管一些临床前研究表明，联合抗生素靶向微生物、化学疗法靶向肿瘤细胞的疗法与肿瘤延迟生长有关，但有其他研究表明，使用广谱抗生素进行治疗可能会使接受免疫治疗的患者病情恶化，这可能是由于肠道微生物群受到了破坏。所以，必须考虑到微生物菌群的生态平衡。尽管如此，监测和操纵微生物群落的能力所带来的临床进展和基础研究的机会还是如此的诱人。</p><p>References:</p><p><a href="https://www.nature.com/articles/d41586-020-00637-w" target="_blank" rel="noopener">https://www.nature.com/articles/d41586-020-00637-w</a></p><hr><p><em>See you tomorrow</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> English </category>
+          
+          <category> 每日外闻 </category>
+          
+          <category> 精准医学 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 每日外闻 </tag>
+            
+            <tag> English </tag>
+            
+            <tag> Nature news &amp; views </tag>
+            
+            <tag> 癌症 </tag>
+            
+            <tag> 肿瘤 </tag>
+            
+            <tag> 微生物 </tag>
+            
+            <tag> AI </tag>
+            
+            <tag> 人工智能 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>每日外闻47</title>
       <link href="/2020/03/24/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB47/"/>
       <url>/2020/03/24/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB47/</url>
@@ -309,6 +352,10 @@
             <tag> 基因突变 </tag>
             
             <tag> Nature news &amp; views </tag>
+            
+            <tag> 癌症 </tag>
+            
+            <tag> 肺癌 </tag>
             
         </tags>
       
