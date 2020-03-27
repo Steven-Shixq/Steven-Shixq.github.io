@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Github page 疑似遭受中间人攻击</title>
+      <link href="/2020/03/27/Github-page-%E7%96%91%E4%BC%BC%E9%81%AD%E5%8F%97%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%94%BB%E5%87%BB/"/>
+      <url>/2020/03/27/Github-page-%E7%96%91%E4%BC%BC%E9%81%AD%E5%8F%97%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%94%BB%E5%87%BB/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>昨天下午访问我的博客时，提示证书过期:</p><p><a href="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/77631149-2594d380-6f87-11ea-8c7a-a09c4a378d30.png" data-fancybox="group" data-caption="错误网页" class="fancybox"><img alt="错误网页" title="错误网页" data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/77631149-2594d380-6f87-11ea-8c7a-a09c4a378d30.png" class="lazyload"></a></p><p>发现要翻墙才能访问，我一直以为是我自己建站的问题，捣鼓了一段时间。</p><p>后来发现有人也有类似的问题：<a href="https://www.v2ex.com/t/656367#reply115" target="_blank" rel="noopener">Github pages 的 HTTPS 是不是出问题了？</a></p><p>最后在知乎上也看到有人讨论：<a href="https://www.zhihu.com/question/382718053/answer/1106888043" target="_blank" rel="noopener">知乎-如何看待2020 年 3 月 26 日 GitHub 疑似遭受中间人攻击？</a>，然后访问了一些别人的博客，才发现大家的博客也都访问不了了，这才确定不是我自己的网站出问题了，是github的问题。</p><p>今天使用国内的网络也可以正常访问了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+            <tag> 证书劫持 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>每日外闻49</title>
       <link href="/2020/03/26/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB49/"/>
       <url>/2020/03/26/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB49/</url>
@@ -2198,7 +2225,7 @@
       
       <categories>
           
-          <category> 图床 </category>
+          <category> 博客 </category>
           
       </categories>
       

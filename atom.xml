@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://steven-shixq.github.io/"/>
-  <updated>2020-03-26T08:39:25.040Z</updated>
+  <updated>2020-03-27T05:11:36.543Z</updated>
   <id>https://steven-shixq.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Github page 疑似遭受中间人攻击</title>
+    <link href="https://steven-shixq.github.io/2020/03/27/Github-page-%E7%96%91%E4%BC%BC%E9%81%AD%E5%8F%97%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%94%BB%E5%87%BB/"/>
+    <id>https://steven-shixq.github.io/2020/03/27/Github-page-%E7%96%91%E4%BC%BC%E9%81%AD%E5%8F%97%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%94%BB%E5%87%BB/</id>
+    <published>2020-03-27T05:00:17.000Z</published>
+    <updated>2020-03-27T05:11:36.543Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>昨天下午访问我的博客时，提示证书过期:</p><p><a href="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/77631149-2594d380-6f87-11ea-8c7a-a09c4a378d30.png" data-fancybox="group" data-caption="错误网页" class="fancybox"><img alt="错误网页" title="错误网页" data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/77631149-2594d380-6f87-11ea-8c7a-a09c4a378d30.png" class="lazyload"></a></p><p>发现要翻墙才能访问，我一直以为是我自己建站的问题，捣鼓了一段时间。</p><p>后来发现有人也有类似的问题：<a href="https://www.v2ex.com/t/656367#reply115" target="_blank" rel="noopener">Github pages 的 HTTPS 是不是出问题了？</a></p><p>最后在知乎上也看到有人讨论：<a href="https://www.zhihu.com/question/382718053/answer/1106888043" target="_blank" rel="noopener">知乎-如何看待2020 年 3 月 26 日 GitHub 疑似遭受中间人攻击？</a>，然后访问了一些别人的博客，才发现大家的博客也都访问不了了，这才确定不是我自己的网站出问题了，是github的问题。</p><p>今天使用国内的网络也可以正常访问了。</p>]]></content>
+    
+    <summary type="html">
+    
+      昨天我的博客网站访问不了了
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="https://steven-shixq.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="博客" scheme="https://steven-shixq.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="证书劫持" scheme="https://steven-shixq.github.io/tags/%E8%AF%81%E4%B9%A6%E5%8A%AB%E6%8C%81/"/>
+    
+  </entry>
   
   <entry>
     <title>每日外闻49</title>
@@ -672,39 +697,6 @@
       <category term="编程" scheme="https://steven-shixq.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
     
       <category term="R语言" scheme="https://steven-shixq.github.io/tags/R%E8%AF%AD%E8%A8%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>每日外闻37</title>
-    <link href="https://steven-shixq.github.io/2020/03/14/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB37/"/>
-    <id>https://steven-shixq.github.io/2020/03/14/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB37/</id>
-    <published>2020-03-14T01:39:06.000Z</published>
-    <updated>2020-03-15T05:31:03.371Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script> <div>     <a href="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/HBR_logo_black.svg" data-fancybox="group" data-caption="undefined" class="fancybox"><img data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/HBR_logo_black.svg" class="lazyload"></a> </div><p><em>翻译哈佛商业评论经典文章</em></p><h1 id="万花筒里看成功10"><a href="#万花筒里看成功10" class="headerlink" title="万花筒里看成功10"></a>万花筒里看成功10</h1><p><strong>打造你自己的“万花筒”3</strong></p><p>分辨出自己的事情处于万花筒的哪个领域，有助于约翰快速找到自己的想要寻找生什么、想从自己的努力中获得什么。为了有效的将你的努力引导到你真正想从成功中获得的东西上，将你自己最想成为的状态与你现在的自己做个对比，这种方法至关重要。你希望你日后在这四个维度的成是如何？</p><p><strong>适可而止</strong></p><p>如果你仔细留意过这四个维度以及它们之间的联系，你就可以充分挖掘各种活动的潜力，在工作中、休闲活动或是生活的其他方面满足多个维度的需求。在我们的研究中，那些高成就的人能很好的认识到他们有多个对自己成功至关重要的目标，并通过全身心的投入到他们所从事的那些活动中，以此来成就自己和他人。他们能将注意力集中在一项任务上，而当有其他紧迫的需求时，他们能转而专注于需要关注的事情，并迅速调整自己的状态来适应它。他们不会因为得不到所有的东西而感到生活欺骗了自己，而是通过在不同的类别中不断的获得满足感来重获新生。</p><p>你怎么知道什么时候该停止在一个类别上的工作，把注意力转移到另一个类别上呢?这就是“适可而止”之所以重要的地方。传统认为的“足够”不能说明这个问题。人们所说的“足够了”是一种还未达到满意程度的词，人们通常会说：“就这样吧，我受够了！”，在另外一些情况下“足够了”或作为一种平庸、被动的表达。我们所说的足够指的是其他的事物，更加的接近它的原本定义：以足够的数量或质量来满足需求或者需要。如果你对自己万花筒里的成功蓝图有一个坚定的想法，你就会更容易下“足够了”的决定，并以欣赏的眼光看待这种决定。在设定了可达到的理想目标的同时，你不会失去追求理想的热情和精力。“刚刚好”是在当今社会沉迷于无止境欲望的解药。从这个角度来看，它成为了一种积极做出选择的工具，通过在生活中更多的领域里获得满足，你可以做得更多，得到更多，而不是更少。</p><hr><h1 id="Success-That-Lasts-10"><a href="#Success-That-Lasts-10" class="headerlink" title="Success That Lasts 10"></a><a href="https://hbr.org/2004/02/success-that-lasts" target="_blank" rel="noopener">Success That Lasts 10</a></h1><p><strong>Building Your Own Kaleidoscope 3</strong> </p><p>Identifying where his activities were located in the kaleidoscope gave John immediate insight into what he was seeking and getting from his efforts—as well as what was lacking. In channeling your efforts effectively toward what you really seek from success, it’s critical to test your profile against your idealized view of yourself. What do you want your profile of accomplishments in each of the four categories to look like tomorrow? Next month? Over your lifetime?</p><p><strong>Getting to “Just Enough”</strong></p><p>If you pay attention to the four categories and their relation to one another, you can enrich the potential for any activity to satisfy you on numerous dimensions, whether at work, in your leisure time, or in some other aspect of your life. The high achievers in our study were able to accomplish great things for themselves and others by recognizing they had multiple goals that were critical to their idea of real success and by being fully committed to whatever activity they were engaged in. By switching and linking, they limited their attention to one task, and when other needs pressed, they were able to make lightning fast changes of focus and emotional energy. Instead of feeling cheated because they couldn’t get it all, they were renewed by following the cycle of attention to each category.</p><p>How do you know when it’s time to stop your work in one category and switch your attention to another? That’s where the concept of “just enough” becomes critical. Conventional interpretations of “enough” don’t capture its full potential. People tend to use the term to express dissatisfaction, as in, “That’s it! I’ve had enough!” or as a code for mediocrity or passivity, as in, “If I’m just happy every day, that’s enough.” We mean something else by enough, closer to its root definition: occurring in sufficient quantity or quality to satisfy demands or needs. If you have a firm idea of the big picture in your kaleidoscope of success, it becomes easier to determine and appreciate “enough” in any one activity. Without losing your energy for high aspirations, you set reachable goals. “Just enough” is the antidote to society’s addiction to the infinite “more.” Seen in that light, it becomes a vehicle for actively making choices that allow you to do and get more, not less, through achieving satisfaction in more areas of your life.</p><p><strong>“Just enough” is the antidote to society’s addiction to the infinite “more.”</strong></p><hr><p><em>See you tomorrow</em></p>]]></content>
-    
-    <summary type="html">
-    
-      HBR-Success That Lasts 10
-    
-    </summary>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-      <category term="Harvard Business Review" scheme="https://steven-shixq.github.io/tags/Harvard-Business-Review/"/>
-    
-      <category term="管理" scheme="https://steven-shixq.github.io/tags/%E7%AE%A1%E7%90%86/"/>
-    
-      <category term="Management" scheme="https://steven-shixq.github.io/tags/Management/"/>
     
   </entry>
   
