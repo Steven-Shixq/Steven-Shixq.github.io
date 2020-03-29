@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://steven-shixq.github.io/"/>
-  <updated>2020-03-28T17:13:03.048Z</updated>
+  <updated>2020-03-29T13:58:41.849Z</updated>
   <id>https://steven-shixq.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每日外闻52</title>
+    <link href="https://steven-shixq.github.io/2020/03/29/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB52/"/>
+    <id>https://steven-shixq.github.io/2020/03/29/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB52/</id>
+    <published>2020-03-29T13:18:44.000Z</published>
+    <updated>2020-03-29T13:58:41.849Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>How digital financial services can prey upon the poor</strong></p><p>Their data can be used to exploit as well as help them</p><p>For those seeking to help the worst-off in poor countries, the mobile phone has been a magic wand. Mobile-money accounts have helped deliver “financial inclusion”—making financial services accessible to the tens of millions with a phone but no bank account. But they have downsides too.</p><p>The most obvious way digital financial services harm poor people is by laying them more open to fraud. Research from 2016 cited in a new report by the Consultative Group to Assist the Poor (CGAP), a consortium of donors affiliated to the World Bank, found that in the Philippines 83% of people surveyed had been targets of mobile-phone scams, with 17% losing money. In Tanzania, 27% had been targeted and 17% fleeced; in Ghana, 56% and 12%.</p><p>For the most basic deceptions, a thief needs only a phone number. A text message might offer congratulations on winning a prize, requiring only a small contribution to unlock it. Your identity might be stolen to make you responsible for repaying a loan disbursed to somebody else. An impersonator might steal your mobile-money account when registering a new sim card. Or your account’s security code—the pin—might be leaked by a mobile-money agent (one of the millions of small traders whose business includes turning mobile money into hard cash).</p><p>The poor may be especially susceptible to such scams. They are more likely to be relatively new both to the online world and to formal financial services. And they are less likely to have smartphones with sophisticated security software.</p><p>It is not just money that can be stolen. So too can all the other data stored on a phone. Often, however, much has already been given away freely by its owners. Many “free” apps are in fact paid for in customer data. In every country people gaily sign away their rights to privacy by clicking consent buttons without having understood or even read what they are agreeing to.</p><p>Indeed, in financial services the implicit sale of personal data is seen as a way in which the poor can be “levelled up”. With low, unreliable incomes and few assets, they have been unable to borrow formally. Now lenders are learning to rely on other data to make credit judgments, notably payment records, such as from a mobile-money account, which can show a history of reliability.</p><p>But such data can also be abused. Predatory lenders and vendors might learn when a costly loan or product would be hard to refuse. Or an algorithm might (by design or accident) be biased against certain borrowers because, say, of their race or creed.</p><p>CGAP makes three policy recommendations. The first is to accept that the “consumer-consent” model is irretrievably broken, and to put the onus for looking after the data on the service-provider. The second is to give consumers full legal rights over their data, allowing them to view, correct and move them without charge. The third is to appoint “privacy representatives”, who, among other tasks, would check algorithms for signs of bias.</p><p>Many countries, from America to India, are looking at improving data-protection regulation. But CGAP’s suggestions seem very ambitious. “Free” financial services, such as those offered already by the Chinese giants, Ant Financial and WeChat, have an obvious appeal.</p><p>It is often assumed that the poor are relaxed about surrendering some privacy in return for access to borrowing and other services. In fact, concern about privacy is not a preserve of the rich. Research in India and Kenya has shown that even very poor borrowers would be willing to pay a higher interest rate—or join a much slower queue—for a loan that came with more guarantees that the data provided to the lender would be kept private. Persuading the tech giants that improved data security for the poor is in their business interests might be the best hope. But that will take a lot more work.</p><p>Reference:</p><p><a href="https://www.economist.com/finance-and-economics/2020/01/30/how-digital-financial-services-can-prey-upon-the-poor" target="_blank" rel="noopener">https://www.economist.com/finance-and-economics/2020/01/30/how-digital-financial-services-can-prey-upon-the-poor</a></p><hr><p><em>See you tomorrow</em></p>]]></content>
+    
+    <summary type="html">
+    
+      The economics-How digital financial services can prey upon the poor
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+    
+      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+      <category term="The economics" scheme="https://steven-shixq.github.io/tags/The-economics/"/>
+    
+      <category term="Poverty and privacy" scheme="https://steven-shixq.github.io/tags/Poverty-and-privacy/"/>
+    
+  </entry>
   
   <entry>
     <title>R语言学习笔记7</title>
@@ -640,45 +671,6 @@
       <category term="自转" scheme="https://steven-shixq.github.io/tags/%E8%87%AA%E8%BD%AC/"/>
     
       <category term="《学习之道》" scheme="https://steven-shixq.github.io/tags/%E3%80%8A%E5%AD%A6%E4%B9%A0%E4%B9%8B%E9%81%93%E3%80%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>指数基金定投方法初探</title>
-    <link href="https://steven-shixq.github.io/2020/03/17/%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91%E5%AE%9A%E6%8A%95%E6%96%B9%E6%B3%95%E5%88%9D%E6%8E%A2/"/>
-    <id>https://steven-shixq.github.io/2020/03/17/%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91%E5%AE%9A%E6%8A%95%E6%96%B9%E6%B3%95%E5%88%9D%E6%8E%A2/</id>
-    <published>2020-03-17T06:16:43.000Z</published>
-    <updated>2020-03-17T06:40:20.428Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    <summary type="html">
-    
-      银行螺丝钉-《指数基金投资指南》
-    
-    </summary>
-    
-    
-      <category term="读书" scheme="https://steven-shixq.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
-    
-      <category term="经济学" scheme="https://steven-shixq.github.io/categories/%E8%AF%BB%E4%B9%A6/%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
-    
-      <category term="理财" scheme="https://steven-shixq.github.io/categories/%E7%90%86%E8%B4%A2/"/>
-    
-    
-      <category term="读书" scheme="https://steven-shixq.github.io/tags/%E8%AF%BB%E4%B9%A6/"/>
-    
-      <category term="理财" scheme="https://steven-shixq.github.io/tags/%E7%90%86%E8%B4%A2/"/>
-    
-      <category term="理财入门" scheme="https://steven-shixq.github.io/tags/%E7%90%86%E8%B4%A2%E5%85%A5%E9%97%A8/"/>
-    
-      <category term="银行螺丝钉" scheme="https://steven-shixq.github.io/tags/%E9%93%B6%E8%A1%8C%E8%9E%BA%E4%B8%9D%E9%92%89/"/>
-    
-      <category term="《指数基金定投指南》" scheme="https://steven-shixq.github.io/tags/%E3%80%8A%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91%E5%AE%9A%E6%8A%95%E6%8C%87%E5%8D%97%E3%80%8B/"/>
-    
-      <category term="指数基金" scheme="https://steven-shixq.github.io/tags/%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91/"/>
-    
-      <category term="基金" scheme="https://steven-shixq.github.io/tags/%E5%9F%BA%E9%87%91/"/>
     
   </entry>
   
