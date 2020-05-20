@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://steven-shixq.github.io/about/index.html</loc>
+    
+    <lastmod>2020-05-20T08:48:19.607Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://steven-shixq.github.io/2020/05/19/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB103/</loc>
     
-    <lastmod>2020-05-19T17:07:29.652Z</lastmod>
+    <lastmod>2020-05-20T08:39:45.959Z</lastmod>
     
   </url>
   
@@ -957,13 +964,6 @@
     <loc>https://steven-shixq.github.io/2020/02/08/ClusterProfiler%E5%AF%8C%E9%9B%86%E5%88%86%E6%9E%90/</loc>
     
     <lastmod>2020-02-08T15:27:27.389Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://steven-shixq.github.io/about/index.html</loc>
-    
-    <lastmod>2020-02-06T06:09:11.292Z</lastmod>
     
   </url>
   
