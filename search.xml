@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>R语言学习笔记19</title>
+      <link href="/2020/06/20/R%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B019/"/>
+      <url>/2020/06/20/R%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B019/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="axis"><a href="#axis" class="headerlink" title="axis()"></a>axis()</h4><p>&#x5728;<code>plot()</code>&#x51FD;&#x6570;&#x4E2D;&#x7528;</p><p><code>axes=FALSE</code>&#x53EF;&#x4EE5;&#x53D6;&#x6D88;&#x81EA;&#x52A8;&#x7684;&#x5750;&#x6807;&#x8F74;&#x3002; </p><p>&#x7528;<code>box()</code>&#x51FD;&#x6570;&#x753B;&#x5750;&#x6807;&#x8FB9;&#x6846;&#x3002; </p><p>&#x7528;<code>axis</code>&#x51FD;&#x6570;&#x5355;&#x72EC;&#x7ED8;&#x5236;&#x5750;&#x6807;&#x8F74;&#x3002; </p><p><code>axis</code>&#x7684;&#x7B2C;&#x4E00;&#x4E2A;&#x53C2;&#x6570;&#x53D6;1&#xFF0C;2&#xFF0C;3&#xFF0C;4&#xFF0C; &#x5206;&#x522B;&#x8868;&#x793A;&#x6A2A;&#x8F74;&#x3001;&#x7EB5;&#x8F74;&#x3001;&#x4E0A;&#x65B9;&#x548C;&#x53F3;&#x65B9;&#x3002; <code>axis</code>&#x7684;&#x53C2;&#x6570;<code>at</code>&#x4E3A; &#x523B;&#x5EA6;&#x7EBF;&#x4F4D;&#x7F6E;&#xFF0C;<code>labels</code>&#x4E3A;&#x6807;&#x7B7E;&#x3002; </p><figure class="highlight r"><table><tr><td class="code"><pre><span class="line">plot(seq(along=d.class$weight), d.class$weight, axes=<span class="literal">FALSE</span>,</span><br><span class="line">     type=<span class="string">&apos;b&apos;</span>, lwd=<span class="number">3</span>,</span><br><span class="line">     main=<span class="string">&apos;&#x8EAB;&#x9AD8;&#x4F53;&#x91CD;&#x66F2;&#x7EBF;&#x56FE;&apos;</span>,</span><br><span class="line">     xlab=<span class="string">&apos;&#x8EAB;&#x9AD8;&#x5206;&#x5C42;&apos;</span>, ylab=<span class="string">&apos;&#x4F53;&#x91CD;&apos;</span>,</span><br><span class="line">     col=<span class="string">&quot;blue&quot;</span>)</span><br><span class="line">box(); axis(<span class="number">2</span>)</span><br><span class="line">axis(<span class="number">1</span>, at=seq(along=d.class$weight), seq(along=d.class$weight))</span><br></pre></td></tr></table></figure><p>&#x6570;&#x5B66;&#x7B26;&#x53F7;&#xFF1A;</p><figure class="highlight r"><table><tr><td class="code"><pre><span class="line">x &lt;- seq(<span class="number">0</span>, <span class="number">2</span>*pi, length=<span class="number">200</span>)</span><br><span class="line">y1 &lt;- sin(x)</span><br><span class="line">plot(x, y1, type=<span class="string">&apos;l&apos;</span>, lwd=<span class="number">2</span>,</span><br><span class="line">     axes=<span class="literal">FALSE</span>,</span><br><span class="line">     xlab=<span class="string">&apos;x&apos;</span>, ylab=<span class="string">&apos;&apos;</span>)</span><br><span class="line">abline(h=<span class="number">0</span>, col=<span class="string">&apos;gray&apos;</span>)</span><br><span class="line">box()</span><br><span class="line">axis(<span class="number">2</span>)</span><br><span class="line">axis(<span class="number">1</span>, at=(<span class="number">0</span>:<span class="number">4</span>)/<span class="number">2</span>*pi,</span><br><span class="line">     <span class="comment"># &#x4E0D;&#x7528;&#x6570;&#x5B66;&#x7B26;&#x53F7;&#x65F6;&#xFF1A;labels=c(&apos;0&apos;, &apos;pi/2&apos;, &apos;pi&apos;, &apos;3pi/2&apos;, &apos;2pi&apos;))</span></span><br><span class="line">     labels=c(<span class="number">0</span>, expression(pi/<span class="number">2</span>), </span><br><span class="line">     expression(pi), expression(<span class="number">3</span>*pi/<span class="number">2</span>), </span><br><span class="line">     expression(<span class="number">2</span>*pi)))</span><br></pre></td></tr></table></figure><figure class="highlight r"><table><tr><td class="code"><pre><span class="line">demo(plotmath)</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机 </category>
+          
+          <category> R语言 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机 </tag>
+            
+            <tag> 编程 </tag>
+            
+            <tag> R语言 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>每日外闻135</title>
       <link href="/2020/06/20/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB135/"/>
       <url>/2020/06/20/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB135/</url>
@@ -11,6 +42,37 @@
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
       
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>每日外闻134</title>
+      <link href="/2020/06/19/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB134/"/>
+      <url>/2020/06/19/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB134/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://www.gatesnotes.com/Books/The-Best-We-Could-Do" target="_blank" rel="noopener">The mystery of mom and dad</a></p></blockquote><hr><p>How well do we really know our parents?</p><p>That&#x2019;s the question Thi Bui grapples with in her stunning graphic novel <em>The Best We Could Do</em>. Bui is the daughter of Vietnamese <strong>refugees (&#x96BE;&#x6C11;)</strong> who came to America after the fall of Saigon. She knew that her parents were deeply traumatized by their past but never felt comfortable asking them about their experiences.</p><p>Everything changed when Bui&#x2019;s son was born. The book&#x2014;which is autobiographical&#x2014;opens with the author giving birth as her mother slips out the door, unable to watch the delivery for reasons she doesn&#x2019;t yet understand. As Bui holds her new baby, she begins to appreciate the immense responsibility that comes with parenthood&#x2014;and decides to learn more about the sacrifices her parents made for her and her siblings.</p><p>What she discovers is heartbreaking. I don&#x2019;t want to spoil anything, but both of her parents <u><strong>get sucked into &#xFF08;&#x9677;&#x5165;&#xFF09;</strong></u> the turmoil created by the foreign forces present in their country (first the French, and later the Americans). The book jumps around from family member to family member, exploring different time periods. It&#x2019;s a bit confusing, but I don&#x2019;t think it takes away from the powerful story. </p><p><strong><img src="/" class="lazyload" data-src="https://media.gatesnotes.com/-/media/Images/Books/The-Best-We-Could-Do/end-of-year-books_2017_the-best-we-could-do_inline_800px_v1.ashx"  alt="The Best We Could Do: An Illustrated Memoir - Book Review"></strong></p><p>I was struck by how the experiences Bui illustrates manage to be both universal and specific to their circumstances. Any parent will recognize many of the challenges her mom and dad faced raising their four kids. I thought she did a great job capturing how daunting it feels to be responsible for your family. At the same time, her family&#x2019;s experience is different from most (and certainly mine). It&#x2019;s clear that a lot of the dysfunction surrounding her childhood is a direct result of what happened in Vietnam.</p><p>After <a href="https://www.gatesnotes.com/Books/The-Sympathizer" target="_blank" rel="noopener">finishing <em>The Sympathizer</em></a>, I was eager to read more books written from the Vietnamese perspective. <em>The Best We Could Do</em> covers more of the past than <em>The Sympathizer</em>, which doesn&#x2019;t really get into the French occupation. Bui&#x2019;s memoir is more personal and a lot quicker to read.</p><p>But both books helped me better understand how Vietnam&#x2019;s history shaped its people. When you grow up in the United States, it&#x2019;s hard to escape the <em>Good Morning, Vietnam</em> view of the war&#x2014;to understand how the war was awful for reasons that go beyond the draft, the protests, and even the soldiers who died on the battlefield. It was a completely horrific situation for the people who lived there, many of whom weren&#x2019;t combatants on either side. In different ways, <em>The Best We Could Do</em> and <em>The Sympathizer</em> are cautionary tales about the collateral damage of war.</p><p>Despite covering such heavy subject matter, <em>The Best We Could Do</em> is ultimately a hopeful book. After learning what happened to her parents, Bui concludes that&#x2014;even though &#x201C;being their child&#x2026; means that I will always feel the weight of the past&#x201D;&#x2014;her son doesn&#x2019;t have to share the same burden. And she finally understands what&#x2019;s true for all parents: when it comes to raising our kids, we simply do the best we can do. </p><p>get sucked into&#xFF1A;&#x9677;&#x5165;</p><hr><p><em>See you tomorrow</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> English </category>
+          
+          <category> 每日外闻 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 每日外闻 </tag>
+            
+            <tag> English </tag>
+            
+            <tag> Gatesnotes </tag>
+            
+        </tags>
       
     </entry>
     
