@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://steven-shixq.github.io/"/>
-  <updated>2020-06-20T17:16:46.360Z</updated>
+  <updated>2020-06-21T03:39:24.849Z</updated>
   <id>https://steven-shixq.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每日外闻136</title>
+    <link href="https://steven-shixq.github.io/2020/06/21/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB136/"/>
+    <id>https://steven-shixq.github.io/2020/06/21/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB136/</id>
+    <published>2020-06-21T03:39:24.000Z</published>
+    <updated>2020-06-21T03:39:24.849Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>R语言学习笔记19</title>
@@ -45,6 +67,35 @@
       <category term="编程" scheme="https://steven-shixq.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
     
       <category term="R语言" scheme="https://steven-shixq.github.io/tags/R%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日外闻135</title>
+    <link href="https://steven-shixq.github.io/2020/06/20/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB135/"/>
+    <id>https://steven-shixq.github.io/2020/06/20/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB135/</id>
+    <published>2020-06-19T16:35:25.000Z</published>
+    <updated>2020-06-21T12:25:31.429Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="http://www.en-journal.org/journal/view.html?doi=10.5607/en.2019.28.6.709" target="_blank" rel="noopener">Three-Dimensional Analysis of Mouse Habenula Subnuclei Reveals Reduced Volume and Gene Expression in the Lipopolysaccharide-mediated Depression Model</a></p></blockquote><p><img src="/" class="lazyload" data-src="https://pdf.medrang.co.kr/EN/2019/028/EN028-06-06_PF.jpg"  alt="img"></p><p>&#x8111;&#x90E8;&#x7684;&#x50F5;&#x6838;&#x6838;&#x56E2;&#x7531;&#x5185;&#x4FA7;&#x50F5;&#x6838;&#xFF08;MHb&#xFF09;&#x548C;&#x5916;&#x4FA7;&#x50F5;&#x6838;&#xFF08;LHb&#xFF09;&#x7EC4;&#x6210;&#x3002;&#x8BB8;&#x591A;&#x7814;&#x7A76;&#x90FD;&#x5F3A;&#x8C03;&#x4E86;LHb&#x4E0E;&#x6291;&#x90C1;&#x7684;&#x5173;&#x7CFB;&#xFF0C;&#x800C;&#x5173;&#x6CE8;MHb&#x7684;&#x7814;&#x7A76;&#x8F83;&#x5C11;&#x3002;&#x8FD1;&#x5E74;&#x6765;&#x5173;&#x6CE8;MHb&#x7684;&#x7814;&#x7A76;&#x5F00;&#x59CB;&#x589E;&#x591A;&#xFF0C;MHb&#x5728;&#x5F62;&#x6001;&#x4E0E;&#x529F;&#x80FD;&#x4E0A;&#x90FD;&#x4E0E;&#x811A;&#x95F4;&#x6838;&#xFF08;IPN&#xFF09;&#x76F8;&#x5173;&#x8054;&#x3002;MHb-IPN&#x901A;&#x8DEF;&#x5728;&#x8C03;&#x8282;&#x8111;&#x7684;&#x9AD8;&#x7EA7;&#x529F;&#x80FD;&#xFF08;&#x5982;&#x8BA4;&#x77E5;&#x3001;&#x5956;&#x52B1;&#x3001;&#x505A;&#x51B3;&#x5B9A;&#xFF09;&#x4E2D;&#x8D77;&#x91CD;&#x8981;&#x7684;&#x4F5C;&#x7528;&#x3002;&#x8FD9;&#x8868;&#x660E;MHb&#x5728;&#x6291;&#x90C1;&#x53D1;&#x75C5;&#x673A;&#x7406;&#x4E2D;&#x8D77;&#x7740;&#x4F5C;&#x7528;&#x3002;&#x672C;&#x6587;&#x4E3B;&#x8981;&#x5C31;&#x662F;&#x7814;&#x7A76;MHb-IPN&#x901A;&#x8DEF;&#x5728;&#x6291;&#x90C1;&#x4E2D;&#x7684;&#x4F5C;&#x7528;&#x3002;&#x5728;&#x6162;&#x6027;&#x4E0D;&#x53EF;&#x9884;&#x77E5;&#x8F7B;&#x5EA6;&#x5E94;&#x6FC0;&#x538B;&#x529B;&#x6A21;&#x578B;&#xFF08;CUMS&#xFF09;&#x66B4;&#x9732;&#x7684;&#x5927;&#x9F20;&#x4E2D;&#xFF0C;MHb&#x7684;&#x4EE3;&#x8C22;&#x6D3B;&#x6027;&#x589E;&#x52A0;&#x3002;&#x66B4;&#x9732;&#x4E8E;CUMS&#x7684;&#x5927;&#x9F20;&#x7684;MHb&#x635F;&#x4F24;&#x9006;&#x8F6C;&#x4E86;&#x7C7B;&#x4F3C;&#x5FEB;&#x611F;&#x7F3A;&#x4E4F;&#x7684;&#x884C;&#x4E3A;&#xFF08;&#x7CD6;&#x6C34;&#x6D4B;&#x8BD5;&#x4E2D;&#xFF09;&#xFF0C;&#x5E76;&#x663E;&#x7740;&#x4E0B;&#x8C03;&#x4E86;&#x589E;&#x52A0;&#x7684;IPN&#x4EE3;&#x8C22;&#x6D3B;&#x52A8;&#x3002;MHb&#x4E2D;&#x542B;&#x6709;P&#x7269;&#x8D28;&#xFF08;SP&#xFF09;&#x7684;&#x795E;&#x7ECF;&#x5143;&#x53EF;&#x652F;&#x914D;IPN&#xFF0C;&#x5E76;&#x4E14;&#x662F;IPN&#x4E2D;SP&#x7684;&#x4E3B;&#x8981;&#x6765;&#x6E90;&#x3002;&#x66B4;&#x9732;&#x4E8E;CUMS&#x7684;&#x5927;&#x9F20;IPN&#x7EC4;&#x7EC7;&#x4E2D;SP&#x542B;&#x91CF;&#x589E;&#x52A0;&#xFF0C;MHb&#x635F;&#x4F24;&#x9006;&#x8F6C;&#x4E86;&#x8FD9;&#x4E00;&#x53D8;&#x5316;&#x3002;&#x5728;&#x4F53;&#x5916;&#x5B9E;&#x9A8C;&#x4E2D;&#xFF0C;&#x653E;&#x7535;&#x901F;&#x7387;&#x8BB0;&#x5F55;&#x663E;&#x793A;SP&#x704C;&#x6CE8;&#x589E;&#x52A0;&#x4E86;IPN&#x795E;&#x7ECF;&#x5143;&#x7684;&#x6D3B;&#x6027;&#x3002;&#x672C;&#x6587;&#x7684;&#x7814;&#x7A76;&#x7ED3;&#x679C;&#x4E3B;&#x8981;&#x8868;&#x660E;&#x4E86;MHb-IPN&#x73AF;&#x8DEF;&#x7684;&#x6781;&#x5EA6;&#x6D3B;&#x8DC3;&#x53C2;&#x4E0E;&#x5230;&#x4E86;&#x6291;&#x90C1;&#x7684;&#x5FEB;&#x611F;&#x7F3A;&#x5931;&#x6837;&#x884C;&#x4E3A;&#x4E2D;&#xFF0C;&#x800C;P&#x7269;&#x8D28;&#x4ECB;&#x5BFC;&#x4E86;MHb&#x5BF9;IPN&#x795E;&#x7ECF;&#x5143;&#x7684;&#x4F5C;&#x7528;&#x3002;</p><hr><p>The habenula (Hb) is small but important brain structure, anatomically and functionally links the forebrain with the midbrain to modulate various neuropsychiatric functions associated with drug addiction and emotion-associated dysfunctions. Several reports suggested that the dysfunction of Hb-related functions affected the Hb structurally and functionally. However, the technical limitation has awaited the solid conclusion of whether Hb change due to depression is likely to occur in certain subnuclei of the Hb. To probe this possibility, we developed 3-dimensional reconstruction methods for the high-resolution volumetric analysis of Hb and the mRNA levels at the given volume in normal or lipopolysaccharide (LPS)-mediated mouse model of depression. Notably, we discovered that the volume reduction was prominent in medial Hb but not in lateral Hb after LPS treatments. On the other hand, the RNA expression levels of known Hb regional markers such as Tac1 (dorsal part of medial Hb), ChAT (ventral part of medial Hb), and Tacr1 (medial and lateral Hb) were all decreased in all Hb subnuclei in LPS-injected mice. Accordingly, accurate volumetry with marker labeling was not feasible. Collectively, these established 3D analyses of mouse Hb successfully and precisely determine the volume-based changes of small brain structure, which should be applicable in a wider range of mouse models or pathological specimens.</p><hr><p><em>See you tomorrow</em></p>]]></content>
+    
+    <summary type="html">
+    
+      Three-Dimensional Analysis of Mouse Habenula Subnuclei Reveals Reduced Volume and Gene Expression in the Lipopolysaccharide-mediated Depression Model
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="Journal" scheme="https://steven-shixq.github.io/tags/Journal/"/>
     
   </entry>
   
@@ -538,62 +589,6 @@
       <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
     
       <category term="GatesNotes" scheme="https://steven-shixq.github.io/tags/GatesNotes/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>每日外闻118</title>
-    <link href="https://steven-shixq.github.io/2020/06/03/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB118/"/>
-    <id>https://steven-shixq.github.io/2020/06/03/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB118/</id>
-    <published>2020-06-03T15:55:18.000Z</published>
-    <updated>2020-06-06T07:41:10.910Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://www.forbes.com/sites/jacquelynsmith/2013/04/18/8-ways-to-achieve-better-work-life-balance/" target="_blank" rel="noopener">8 Ways To Achieve Better Work-Life Balance</a></p></blockquote><p>For most people, juggling the demands of a career and a personal life is an ongoing challenge, especially at a time when many companies have slashed their ranks&#x2013;and expect more from the survivors.</p><p>Achieving the elusive &#x201C;work-life balance&#x201D; can often feel like an impossible goal, especially for people who strive to give everything 100%. In today&#x2019;s &#x201C;do more with less&#x201D; competitive reality, how can we manage careers and families, and feel satisfied with both?</p><p>People who study workplace culture emphasize that someone&#x2019;s best individual work-life balance will vary over time. The right balance for you when you&#x2019;re single will change when you marry or have children. Experts also say that a few small steps can go a long way toward staying sane at work and home.</p><p>First, prioritize. &#x201C;If you want balance&#x2013;and not everybody does&#x2013;you have to force yourself to edit yourself personally and professionally,&#x201D; says Jody Greenstone Miller, an <a href="http://www.businesstalentgroup.com/pdf/HBR_SupertempArticle_r1-1.pdf" target="_blank" rel="noopener">author</a> and chief executive of <a href="http://www.businesstalentgroup.com/" target="_blank" rel="noopener">Business Talent Group</a>, a supplier of high-end business talent for consulting and project-based roles.</p><p>Consider all the things that compete for your time, and decide what to keep and what to discard. If you volunteer with three nonprofit organizations, select the most meaningful one, focus on it, and stop scattering your attention among all three.</p><p>&#x201C;Focus on the things that are important to you, and don&#x2019;t do the extraneous stuff,&#x201D; says Miller. &#x201C;It&#x2019;s a discipline that doesn&#x2019;t come too naturally to most of us.&#x201D;</p><p>If your firm allows staffers to telecommute, consider working from home a few days a week. When discussing this option with your boss, approach it from a position of strength. Describe how the flexibility could ultimately help your company. Consider saying: &#x201C;I like my job, and feel that I&#x2019;m an asset. I&#x2019;d like to talk about ways I can make my work here as productive as possible. I&#x2019;m in a not-so-unique situation of caring for my elderly parents (or whatever your situation may be), and working from home once or twice a week would give me much-needed extra time. I believe I&#x2019;d be able to give you better work, since I&#x2019;d be less distracted.&#x201D;</p><p>You might be surprised to find your boss sympathetic&#x2013;particularly if you&#x2019;re a top performer&#x2013;because he or she is in a similar situation. In this economy, employers that can&#x2019;t give raises might be willing to offer other benefits. They want to treat their best employees well, so that when the economy does turn around those employees don&#x2019;t flee to other companies.</p><p>Technology is a good servant, but a bad master. Remember that BlackBerrys, iPhones and other devices exist to make your life easier, not to rule it. Identify certain times, like dinner, when your household must remain tech-free. Mention this window to your manager and co-workers. &#x201C;Set up your rules and adhere to them,&#x201D; says Barbara Wankoff, director of workplace solutions for the professional services firm <a href="http://www.kpmg.com/US/en/Pages/default.aspx" target="_blank" rel="noopener">KPMG</a>. &#x201C;This doesn&#x2019;t make you inflexible or unresponsive; it just allows you to be more in control of how you work. Be a role model to your staff and colleagues.&#x201D;</p><p>Loretta Penn, former president of <a href="http://www.spherion.com/" target="_blank" rel="noopener">Spherion Staffing Services</a>, takes it a step further: &#x201C;You don&#x2019;t have to respond to every e-mail or voicemail as soon as it comes in. Just because someone else deems something a priority doesn&#x2019;t mean you should too.&#x201D;</p><p><em>Here are 8 ways to achieve better work life balance:</em></p><p><strong>Learn Your Employer&#x2019;s Policies.</strong> Inquire about your company&#x2019;s policies on flextime and working from home. If you&#x2019;re a strong performer, you have a better chance of negotiating an arrangement that works for both you and your employer.</p><p><strong>Communicate.</strong> If you won&#x2019;t be available for certain hours during the day or weekend because you&#x2019;re dealing with family issues, let your manager and colleagues know, and get their full support.</p><p><strong>Use Technology to Your Advantage.</strong> Technology should help make your life easier, not control it. Ban technology at certain times so that you can focus on your family or friends.</p><p><strong>Telecommute.</strong> Telecommuting a few times a week could help free up valuable hours. You&#x2019;ll be able to focus on work for long stretches at a time and use the extra hours to meet personal responsibilities.</p><p><strong>Learn to Say &#x201C;No.&#x201D;</strong> Remember that you can respectfully decline offers to run the PTA or serve on an extra committee at work. When you stop doing things out of guilt, you&#x2019;ll find more time to focus on the activities that truly bring you joy.</p><p><strong>Fight the Guilt.</strong> Superwoman&#x2013;and Superman&#x2013;are fictional characters. Real people can&#x2019;t devote 100% to everything they do. Stop feeling guilty if you miss an occasional soccer game or bail on a colleague&#x2019;s going-away party.</p><p><strong>Rethink Your Idea of &#x201C;Clean.&#x201D;</strong> Unmade beds or dusty moldings are not signs of failure. Try to get used to a little messiness and spend more time enjoying your life. If you can afford to outsource help, pay someone else to clean your house.</p><p><strong>Protect Your Private Time.</strong> Allow yourself to daydream in the subway or appreciate good weather on your walk to work. If you don&#x2019;t allow yourself pockets of personal time, you&#x2019;ll become too burned out to fully appreciate any part of your life.</p><hr><p><em>See you tomorrow</em></p>]]></content>
-    
-    <summary type="html">
-    
-      8 Ways To Achieve Better Work-Life Balance
-    
-    </summary>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>每日外闻117</title>
-    <link href="https://steven-shixq.github.io/2020/06/02/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB117/"/>
-    <id>https://steven-shixq.github.io/2020/06/02/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB117/</id>
-    <published>2020-06-02T15:05:06.000Z</published>
-    <updated>2020-06-13T13:13:41.273Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center> <strong>Public libraries in China </strong> </center><p>China <strong>pays increasing intension</strong> to public libraries and encourages people to <strong>make full use of</strong> them. <strong>The recently released statistics indicate</strong> that the number of public libraries in China <strong>increase year by year</strong>. Many libraries have created a quieter and more comfortable environment for readers through <u>renovation</u> and <u>expansion</u>. Not only large-scale libraries provide <strong>various of reference materials</strong>, but they also <u>regularly</u> hold lectures, exhibitions and other activities. <strong>In recent years</strong>, many digital libraries appeared, thus space needed to store books can be saved. In addition, some libraries have introduced <strong>self-service systems</strong>, which make it more convenient for reader to <strong>borrow and return books</strong>, and further <strong>meet the needs of</strong> readers.</p><hr><ul><li><p>&#x8D8A;&#x6765;&#x8D8A;&#x91CD;&#x89C6;&#xFF1A;pay increasing attention to</p></li><li><p>&#x5145;&#x5206;&#x5229;&#x7528;&#xFF1A;make full use of </p></li><li><p>&#x6700;&#x8FD1;&#x53D1;&#x5E03;&#x7684;&#x7EDF;&#x8BA1;&#x6570;&#x636E;&#x663E;&#x793A;&#xFF1A;the recently/newly released statistics indicate</p></li><li><p>&#x9010;&#x5E74;&#x589E;&#x957F;&#xFF1A;increase year by year</p></li><li><p>&#x7FFB;&#x65B0;&#x548C;&#x6269;&#x5F20;&#xFF1A;renovation and expansion</p></li><li><p>&#x8BB8;&#x591A;&#x79CD;&#x7C7B;&#x7684;&#x53C2;&#x8003;&#x8D44;&#x6599;&#xFF1A;various of reference materials</p></li><li><p>&#x8FD1;&#x5E74;&#x6765;&#xFF1A;in recent years</p></li><li><p>&#x5B9A;&#x671F;&#x7684;&#xFF1A;regularly</p></li><li><p>&#x81EA;&#x52A9;&#x670D;&#x52A1;&#x7CFB;&#x7EDF;&#xFF1A;self-service</p></li><li><p>&#x501F;&#x4E66;&#x548C;&#x8FD8;&#x4E66;&#xFF1A;borrow and return books</p></li><li><p>&#x6EE1;&#x8DB3;&#x67D0;&#x4EBA;&#x7684;&#x9700;&#x6C42;&#xFF1A;meet/satisfy the needs of sb.</p></li></ul><hr><p><em>See you tomorrow</em></p>]]></content>
-    
-    <summary type="html">
-    
-      Writing-Public libraries in China
-    
-    </summary>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
-    
-      <category term="CET6" scheme="https://steven-shixq.github.io/tags/CET6/"/>
     
   </entry>
   
