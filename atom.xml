@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://steven-shixq.github.io/"/>
-  <updated>2020-06-24T17:49:07.312Z</updated>
+  <updated>2020-06-25T02:50:48.825Z</updated>
   <id>https://steven-shixq.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每日外闻139</title>
+    <link href="https://steven-shixq.github.io/2020/06/24/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB139/"/>
+    <id>https://steven-shixq.github.io/2020/06/24/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB139/</id>
+    <published>2020-06-23T16:35:47.000Z</published>
+    <updated>2020-06-25T02:50:48.825Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://www.nature.com/articles/d41586-020-01864-x" target="_blank" rel="noopener">Mini organs reveal how the coronavirus ravages the body</a></p></blockquote><p><strong>Blood rush</strong></p><p>From the lungs, SARS-CoV-2 can spread to other organs, but researchers weren&#x2019;t sure how exactly the virus was travelling until Montserrat and her colleagues published a study in <em>Cell</em> in May<a href="https://www.nature.com/articles/d41586-020-01864-x#ref-CR4" target="_blank" rel="noopener">4</a>. In experiments in organoids, also made from pluripotent stem cells, they showed that SARS-CoV-2 can infect the <strong>endothelium (&#x5185;&#x76AE;&#x7EC6;&#x80DE;)</strong> &#x2014; the cells lining the <u>blood vessels &#xFF08;&#x8840;&#x7BA1;&#xFF09;</u> &#x2014; which then allows viral particles to leak out into the blood and circulate around the body. Pathology reports of damaged blood vessels in people with COVID-19 also support this hypothesis, says Josef Penninger, a genetic engineer at the University of British Columbia in Vancouver, Canada, and co-lead author of the study<a href="https://www.nature.com/articles/d41586-020-01864-x#ref-CR5" target="_blank" rel="noopener">5</a>.</p><p><img src="/" class="lazyload" data-src="https://media.nature.com/lw800/magazine-assets/d41586-020-01864-x/d41586-020-01864-x_18099278.jpg"  alt="SARS-CoV2 infected human intestinal organoids"></p><p><em>Human intestinal organoids infected with SARS-CoV-2 (white). Credit: Joep Beumer/Clevers group/Hubrecht Institute</em></p><p>Studies in organoids suggest that once in the blood, the virus can directly infect several organs, including the kidney, say Penninger and Montserrat. Although the virus infected kidney organoids, and some cells died, the researchers are not certain whether this is the direct cause of the kidney dysfunction observed in some patients.</p><p>Another study in liver organoids found that the virus can infect and kill cells that contribute to <strong>bile&#xFF08;&#x80C6;&#x6C41;&#xFF09;</strong> production, known as cholangiocytes&#xFF08;&#x80C6;&#x7BA1;&#x7EC6;&#x80DE;&#xFF09;. Many researchers thought that the liver damage seen in people with COVID-19 was caused by an overactive immune response or drug side effects, says Bing Zhao, a cell biologist at Fudan University in Shanghai, China, who published his results in <em>Protein &amp; Cell</em><a href="https://www.nature.com/articles/d41586-020-01864-x#ref-CR6" target="_blank" rel="noopener">6</a>. His work &#x201C;suggests that the virus can directly attack the liver tissue, which can cause liver damage&#x201D;, says Zhao.</p><p>The virus can also replicate in the cells that line the <strong><u>small and large intestines &#xFF08;&#x5C0F;&#x80A0;&#x548C;&#x5927;&#x80A0;&#xFF09;</u></strong>, known as enterocytes, according to a <em>Science</em> study that used gut organoids<a href="https://www.nature.com/articles/d41586-020-01864-x#ref-CR7" target="_blank" rel="noopener">7</a>.</p><p>Although such findings are illuminating, using organoids to study the virus&#x2013;host interaction is in its infancy, says Haagmans, who developed the gut organoids. &#x201C;It is too early to say how relevant they are,&#x201D; he says. More complex organoid systems are needed to better understand how the virus interacts with the body&#x2019;s immune system to cause damage, say researchers.</p><p>&#x201C;We are <strong>fairly&#xFF08;&#x76F8;&#x5F53;&#x5730;&#xFF09;</strong> confident now that the virus that causes COVID-19 can infect tissue outside the lung and significantly contribute to disease,&#x201D; says Penninger. But more severe outcomes, such as kidney and heart damage, are probably due to a combination of viral infection and an excessive immune response, he says.</p><p>small and large intestines&#xFF1A;&#x5C0F;&#x80A0;&#x548C;&#x5927;&#x80A0; </p><hr><p><em>See you tomorrow</em></p>]]></content>
+    
+    <summary type="html">
+    
+      Nature-Mini organs reveal how the coronavirus ravages the body-3
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="Nature news" scheme="https://steven-shixq.github.io/tags/Nature-news/"/>
+    
+  </entry>
   
   <entry>
     <title>每日外闻138</title>
@@ -567,35 +596,6 @@
       <category term="编程" scheme="https://steven-shixq.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
     
       <category term="R语言" scheme="https://steven-shixq.github.io/tags/R%E8%AF%AD%E8%A8%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>每日外闻121</title>
-    <link href="https://steven-shixq.github.io/2020/06/06/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB121/"/>
-    <id>https://steven-shixq.github.io/2020/06/06/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB121/</id>
-    <published>2020-06-06T02:39:27.000Z</published>
-    <updated>2020-06-06T17:10:02.502Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center> <strong> How to balance job responsibilities and personal interests </strong> </center><p><strong>In today&#x2019;s highly competitive environment</strong>, the <strong>heavy workload</strong> makes people <strong>out of breath</strong> and leaves them no time for their hobbies. Therefore, learning to balance job responsibilities and personal interests <strong><u>is of great significance</u></strong> for modern people.</p><p>Here are some suggestions which can help us achieve the balance. <u>In the first place</u>, we should <strong>be aware that</strong> although work duties are our <strong>first priority</strong>, it doesn&#x2019;t mean that we cannot explore personal interests. <u>Besides</u>, it&#x2019;s important to realize that beneficial activities after work help us get relaxed. We can transfer our focus from busy job by reading an interesting book or listening to a favorite song, <strong>thereby</strong> getting our intense nerves <strong>clam down</strong>. <u>What&#x2019;s more</u>, find enough time to develop our hobbies by finishing job tasks in time. When working, we should arrange our time reasonably and complete our daily work efficiently , which will give us more freedom to <strong>allocate time</strong> to pursue personal interests.</p><p><u>In a nutshell</u>, it is <strong>absolutely do-able</strong> to <strong><u>strike a balance</u></strong> between full-time work and personal bobbies <strong>as long as</strong> we realize the benefits of <strong>cultivating interests</strong> and the importance of <strong>reasonable time arrangement</strong>.</p><hr><p>&#x5728;&#x5F53;&#x4ECA;&#x7ADE;&#x4E89;&#x6781;&#x4E3A;&#x6FC0;&#x70C8;&#x7684;&#x73AF;&#x5883;&#x4E2D;: In today&#x2019;s highly competitive environment</p><p>&#x7E41;&#x91CD;&#x7684;&#x5DE5;&#x4F5C;&#xFF1A;heavy workload</p><p>&#x4F7F;&#x4EBA;&#x5598;&#x4E0D;&#x8FC7;&#x6C14;&#x6765;&#xFF1A;makes people out of breath</p><p>&#x975E;&#x5E38;&#x91CD;&#x8981;&#xFF1A;is of great significance/importance</p><p>&#x4F18;&#x5148;&#x8003;&#x8651;&#x7684;&#x4E8B;&#xFF1A;first priority</p><p>&#x56E0;&#x6B64;&#xFF1A;thereby</p><p>&#x51B7;&#x9759;&#x4E0B;&#x6765;&#xFF1A;calm down</p><p>&#x5206;&#x914D;&#x65F6;&#x95F4;&#xFF1A;allocate time</p><p>&#x7EDD;&#x5BF9;&#x53EF;&#x884C;&#x7684;&#xFF1A;absolutely do-able</p><p>&#x53D6;&#x5F97;&#x5E73;&#x8861;&#xFF1A;strike a balance</p><p>&#x610F;&#x8BC6;&#x5230;&#xFF1A;be aware that</p><p>&#x57F9;&#x517B;&#x5174;&#x8DA3;&#xFF1A;cultivate interests</p><p>&#x5408;&#x7406;&#x7684;&#x65F6;&#x95F4;&#x5B89;&#x6392;&#xFF1A;reasonable time arrangement</p><hr><p><em>See you tomorrow</em></p>]]></content>
-    
-    <summary type="html">
-    
-      Writing-How to balance job responsibilities and personal interests
-    
-    </summary>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
-    
-      <category term="CET6" scheme="https://steven-shixq.github.io/tags/CET6/"/>
     
   </entry>
   
