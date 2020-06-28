@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://steven-shixq.github.io/"/>
-  <updated>2020-06-28T13:10:17.239Z</updated>
+  <updated>2020-06-28T13:36:57.936Z</updated>
   <id>https://steven-shixq.github.io/</id>
   
   <author>
@@ -15,6 +15,63 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用AI画矢量图形-我的第一个AI作品</title>
+    <link href="https://steven-shixq.github.io/2020/06/28/%E4%BD%BF%E7%94%A8AI%E7%94%BB%E7%9F%A2%E9%87%8F%E5%9B%BE%E5%BD%A2-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AAAI%E4%BD%9C%E5%93%81/"/>
+    <id>https://steven-shixq.github.io/2020/06/28/%E4%BD%BF%E7%94%A8AI%E7%94%BB%E7%9F%A2%E9%87%8F%E5%9B%BE%E5%BD%A2-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AAAI%E4%BD%9C%E5%93%81/</id>
+    <published>2020-06-28T13:24:33.000Z</published>
+    <updated>2020-06-28T13:36:57.936Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="图像影音" scheme="https://steven-shixq.github.io/categories/%E5%9B%BE%E5%83%8F%E5%BD%B1%E9%9F%B3/"/>
+    
+      <category term="AI" scheme="https://steven-shixq.github.io/categories/%E5%9B%BE%E5%83%8F%E5%BD%B1%E9%9F%B3/AI/"/>
+    
+    
+      <category term="Adobe Illustrator" scheme="https://steven-shixq.github.io/tags/Adobe-Illustrator/"/>
+    
+      <category term="小鼠" scheme="https://steven-shixq.github.io/tags/%E5%B0%8F%E9%BC%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PR的简单使用</title>
+    <link href="https://steven-shixq.github.io/2020/06/28/PR%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/"/>
+    <id>https://steven-shixq.github.io/2020/06/28/PR%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/</id>
+    <published>2020-06-28T13:23:09.000Z</published>
+    <updated>2020-06-28T13:36:40.130Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>&#x4EE5;&#x524D;&#x89C9;&#x5F97;&#x4F1A;&#x58F0;&#x4F1A;&#x5F71;&#x4F7F;&#x7528;&#x8D77;&#x6765;&#x7B80;&#x5355;&#xFF0C;&#x88AB;PR&#x7684;&#x5168;&#x82F1;&#x6587;&#x590D;&#x6742;&#x7684;&#x754C;&#x9762;&#x5413;&#x5012;&#xFF0C;&#x6700;&#x8FD1;&#x5C1D;&#x8BD5;&#x4E86;&#x4E00;&#x4E0B;PR&#xFF0C;&#x5176;&#x5B9E;&#x5E76;&#x6CA1;&#x6709;&#x60F3;&#x8C61;&#x4E2D;&#x7684;&#x90A3;&#x4E48;&#x590D;&#x6742;&#xFF0C;&#x800C;&#x4E14;PR&#x66F4;&#x52A0;&#x7684;&#x4E13;&#x4E1A;&#xFF0C;&#x53EF;&#x4EE5;&#x5B9E;&#x73B0;&#x66F4;&#x591A;&#x7684;&#x529F;&#x80FD;&#xFF0C;&#x6B63;&#x5DE7;&#x5B66;&#x6821;&#x4E5F;&#x4E70;&#x4E86;&#x6B63;&#x7248;&#xFF0C;&#x9042;&#x8BB0;&#x5F55;&#x4E00;&#x4E0B;PR&#x7684;&#x7B80;&#x5355;&#x4F7F;&#x7528;&#x3002;</p>]]></content>
+    
+    <summary type="html">
+    
+      先从剪辑视频开始...
+    
+    </summary>
+    
+    
+      <category term="图像影音" scheme="https://steven-shixq.github.io/categories/%E5%9B%BE%E5%83%8F%E5%BD%B1%E9%9F%B3/"/>
+    
+      <category term="PR" scheme="https://steven-shixq.github.io/categories/%E5%9B%BE%E5%83%8F%E5%BD%B1%E9%9F%B3/PR/"/>
+    
+    
+      <category term="Adobe Premiere" scheme="https://steven-shixq.github.io/tags/Adobe-Premiere/"/>
+    
+      <category term="视频剪辑" scheme="https://steven-shixq.github.io/tags/%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91/"/>
+    
+  </entry>
   
   <entry>
     <title>每日外闻143</title>
@@ -416,6 +473,37 @@
   </entry>
   
   <entry>
+    <title>每日外闻131</title>
+    <link href="https://steven-shixq.github.io/2020/06/16/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB131/"/>
+    <id>https://steven-shixq.github.io/2020/06/16/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB131/</id>
+    <published>2020-06-15T16:49:22.000Z</published>
+    <updated>2020-06-28T13:21:19.923Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://www.npr.org/2020/06/17/877951588/2020-electoral-map-ratings-biden-has-an-edge-over-trump-with-5-months-to-go" target="_blank" rel="noopener"></a></p></blockquote><p><img src="/" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/20200618005737.png"  alt></p><p>President Trump is in a political hole and has a lot of ground to <u><strong>make up</strong></u> (&#x5F25;&#x8865;&#xFF0C;&#x8865;&#x507F;) over the next five months if he hopes to win another term, an NPR analysis of the Electoral College map finds.</p><p>Given his handling of the coronavirus and protests over racism and police <strong>brutality</strong> &#xFF08;&#x66B4;&#x884C;&#xFF0C;&#x6B8B;&#x9177;&#xFF09;in the first six months of this year, Trump has slipped in many of the key swing states he won in 2016, such as Michigan, which now appears to lean toward former Vice President Joe Biden. The percentage of people disapproving of the job Trump is doing is at near-record highs for his presidency, and the intensity of the opposition is higher than for any past president.</p><p>Our analysis, <a href="https://www.npr.org/2020/06/17/877951588/2020-electoral-map-ratings-biden-has-an-edge-over-trump-with-5-months-to-go#scenarios" target="_blank" rel="noopener">including six scenarios for how the election could go</a>, puts states in one of these categories:</p><ul><li><strong>Likely Republican or likely Democratic:</strong> states that appear firmly behind one candidate and are not expected to be heavily contested.</li><li><a href="https://www.npr.org/2020/06/17/877951588/2020-electoral-map-ratings-biden-has-an-edge-over-trump-with-5-months-to-go#lean" target="_blank" rel="noopener"><strong>Lean Republican or lean Democratic</strong></a><strong>:</strong> states that appear to favor one candidate but remain competitive.</li><li><a href="https://www.npr.org/2020/06/17/877951588/2020-electoral-map-ratings-biden-has-an-edge-over-trump-with-5-months-to-go#tossups" target="_blank" rel="noopener"><strong>Toss-up</strong></a> &#xFF08;&#x63B7;&#x786C;&#x5E01;&#xFF0C;&#x96BE;&#x4EE5;&#x5B9A;&#x593A;&#x7684;&#x4E8B;&#xFF09;<strong>:</strong> the most competitive states that either Trump or Biden has a good chance to win.</li></ul><p>(<a href="https://www.npr.org/2020/06/17/877951588/2020-electoral-map-ratings-biden-has-an-edge-over-trump-with-5-months-to-go#methodology" target="_blank" rel="noopener">Read more about our methodology here</a>.)</p><p>To win the presidency, a candidate needs 270 electoral votes, a majority of the 538 electoral votes available across the 50 states and Washington, D.C. Most states are not very competitive. Their demographics and partisan voting histories make them likely to go to the same party they&#x2019;ve broken for in recent elections, such as heavily Democratic California and heavily Republican Oklahoma.</p><p>In this presidential election, our analysis finds just <a href="https://www.npr.org/2020/06/17/877951588/2020-electoral-map-ratings-biden-has-an-edge-over-trump-with-5-months-to-go#tossups" target="_blank" rel="noopener">16 states are competitive</a>, in addition to two electoral votes in states that award some by individual congressional districts &#x2014; that they either only lean toward one candidate or are pure toss-ups. Just eight states and one of the congressional districts are considered pure toss-ups.</p><p>Viewed another way: About 45% of the U.S. population lives in the lean and toss-up states that will determine the presidential election, and less than a quarter of Americans live in the most competitive toss-up states.</p><p>Biden starts with a 238 to 186 advantage over Trump, when including states that lean in either candidate&#x2019;s direction or that they&#x2019;re likely to win. <u>But Biden is no shoo-in</u> &#xFF08;&#x4F46;&#x62DC;&#x767B;&#x5E76;&#x975E;&#x5341;&#x62FF;&#x4E5D;&#x7A33;&#xFF09;. The analysis finds he&#x2019;s still 32 electoral votes short of the 270 he would need, and the Democrat needs to peel off key states Trump won in 2016 to get over the line.</p><p>shoo-in : &#x5341;&#x62FF;&#x4E5D;&#x7A33;&#xFF0C;&#x7A33;&#x64CD;&#x80DC;&#x5238;&#x7684;&#x4EBA;</p><hr><p><em>See you tomorrow</em></p>]]></content>
+    
+    <summary type="html">
+    
+      NPR-2020 Electoral Map Ratings- Biden Has An Edge Over Trump, With 5 Months To Go
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+    
+      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+      <category term="NPR" scheme="https://steven-shixq.github.io/tags/NPR/"/>
+    
+      <category term="National Public Radio" scheme="https://steven-shixq.github.io/tags/National-Public-Radio/"/>
+    
+  </entry>
+  
+  <entry>
     <title>每日外闻130</title>
     <link href="https://steven-shixq.github.io/2020/06/15/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB130/"/>
     <id>https://steven-shixq.github.io/2020/06/15/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB130/</id>
@@ -503,96 +591,6 @@
       <category term="编程" scheme="https://steven-shixq.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
     
       <category term="R语言" scheme="https://steven-shixq.github.io/tags/R%E8%AF%AD%E8%A8%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>每日外闻128</title>
-    <link href="https://steven-shixq.github.io/2020/06/13/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB128/"/>
-    <id>https://steven-shixq.github.io/2020/06/13/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB128/</id>
-    <published>2020-06-13T01:55:34.000Z</published>
-    <updated>2020-06-14T16:29:13.587Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>For years, the U.S. has experienced a shortage of registered nurses. The Bureau of Labor Statistics projects that while the number of nurses will increase by 19 percent by 2022, demand will grow faster than supply, and that there will be over one million unfilled nursing jobs by then.</p><p>So what&#x2019;s the solution? Robots.</p><p>Japan is ahead of the curve when it comes to this trend. Toyohashi University of Technology has developed Terapio, a robotic medical cart that can make hospital rounds, deliver medications and other items, and retrieve records. It follows a specific individual, such as a doctor or nurse, who can use it to record and access patient data. This type of robot will likely be one of the first to be <strong>implemented (&#x5E94;&#x7528;&#xFF0C;&#x5B9E;&#x65BD;&#xFF0C;&#x6267;&#x884C;)</strong> in hospitals because it has fairly minimal patient contact.</p><p>Robots capable of social engagement help with loneliness as well as cognitive functioning, but the robot itself doesn&#x2019;t have to engage directly&#x2014;it can serve as an intermediary for human communication. Telepresence robots such as MantaroBot, Vgo, and Giraff can be controlled through a computer, smartphone, or tablet, allowing family members or doctors to remotely monitor patients or Skype them, often via a screen where the robot&#x2019;s &#x2018;face&#x2019; would be. If you can&#x2019;t get to the nursing home to visit grandma, you can use a telepresence robot to hang out with her. A 2016 study found that users had a &#x201C;consistently positive attitude&#x201D; about the Giraff robot&#x2019;s ability to enhance communication and decrease feelings of loneliness.</p><p>A robot&#x2019;s appearance affects its ability to successfully interact with humans, which is why the RIKEN-TRI Collaboration Center for Human-Interactive Robot Research decided to develop a robotic nurse that looks like a huge teddy bear. RIBA (Robot for Interactive Body Assistance), also known as &#x201C;robear&#x201D;, can help patients into and out of wheelchairs and beds with its strong arms.</p><p>On the less cute and more scary side there is Actroid F, which is so human-like that some patients may not know the difference. This conversational robot companion has cameras in its eyes, which allow it to track patients and use appropriate facial expressions and body language in its interactions. During a month-long hospital trial, researchers asked 70 patients how they felt being around the robot and &#x201C;only three or four said they didn&#x2019;t like having it around.&#x201D;                                  </p><p>It&#x2019;s important to note that robotic nurses don&#x2019;t decide courses of treatment or make diagnoses (though robot doctors and surgeons may not be <strong>far off (&#x9065;&#x8FDC;&#x7684;)</strong>). Instead, they perform routine and <strong>laborious &#xFF08;&#x8270;&#x82E6;&#x7684;&#xFF09;</strong> tasks, freeing nurses up to attend to patients with immediate needs. This is one industry where it seems the integration of robots will lead to collaboration, not replacement.</p><hr><p><em>See you tomorrow</em></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-      <category term="CET6" scheme="https://steven-shixq.github.io/tags/CET6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>每日外闻126</title>
-    <link href="https://steven-shixq.github.io/2020/06/11/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB126/"/>
-    <id>https://steven-shixq.github.io/2020/06/11/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB126/</id>
-    <published>2020-06-10T16:38:01.000Z</published>
-    <updated>2020-06-13T12:18:45.179Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://reva.edu.in/blog/4-ways-to-balance-academics-and-extracurricular-activities/" target="_blank" rel="noopener">4 Ways to Balance Academics and Extracurricular Activities</a></p></blockquote><p><img src="/" class="lazyload" data-src="https://reva.edu.in/blog/wp-content/uploads/2019/01/04_4_Ways_to_Balance_Academics_and_Extracurricular_Activitie-1024x536.jpg"  alt="img"></p><p><u>To strike the right balance between</u> academics <u>and</u> extracurricular activities, every student needs to be organized and should become an expert in time-management. <u>By prioritizing time at this stage, you will <strong>develop a habit for lifetime</strong>, to be an efficient and productive person.</u> The important factor that is worth considering here is that students should be taught to know how to manage their time so that they can have the best of both the worlds.</p><p>Here are four ways in which students can easily focus on academics while also <strong>making time to</strong> get involved in extracurricular activities:</p><p><strong>Planning is important</strong></p><p><u>Plan out your tasks in advance</u> so that you have clarity on <strong>high-priority</strong> tasks. This will enable you to complete your tasks on time and have extra time to study and even participate in extracurricular activities. You can either install a planner app that allows you to sort out your timetable in advance or maintain a written planner which you can carry in your bag.</p><p><strong>Be selective/picky about extracurricular activities</strong></p><p>Every college campus will have numerous activity clubs, but this does not necessarily mean that you have to be involved in each one of them. Be wise while selecting the ones that you wholeheartedly want to join so that your time and energy doesn&#x2019;t get <strong>drained (&#x6D41;&#x5E72;&#xFF0C;&#x8017;&#x5C3D;)</strong>. While you can <strong>indulge&#xFF08;&#x6C89;&#x6D78;&#x4E8E;&#xFF09;</strong> in three to four clubs, make sure you remember that these extracurricular activities will help you in enhancing your leadership skills.</p><p><strong>Seek your academic counselor&#x2019;s advice</strong></p><p>Your academic counselor is the right person who can help you in chalking out your daily timetable in a systematic manner. Your counselor who has expertise in this area will guide you on how you can spend time on the extracurricular activities without impacting your study time in any way. He or she will also enable you to plan <strong>in a way&#xFF08;&#x5728;&#x67D0;&#x79CD;&#x7A0B;&#x5EA6;&#x4E0A;&#xFF09;</strong> that you are prepared for any unexpected events and can easily accommodate them into your schedule.</p><p><strong>Take breaks smartly</strong></p><p><u>Effective time-management comes through an understanding of how to invest your time on the right things</u>. This also means that you should take smart breaks. Social media has its own advantages and disadvantages. <u>While&#xFF08;&#x5C3D;&#x7BA1;&#xFF0C;&#x867D;&#x7136;&#xFF09; you cannot absolutely cut yourself from social media, you should also not let it hamper your progress in any way&#xFF08;&#x867D;&#x7136;&#x4F60;&#x4E0D;&#x80FD;&#x5B8C;&#x5168;&#x8131;&#x79BB;&#x793E;&#x4EA4;&#x5A92;&#x4F53;&#xFF0C;&#x4F46;&#x4E5F;&#x4E0D;&#x8981;&#x8BA9;&#x5B83;&#x4EE5;&#x4EFB;&#x4F55;&#x65B9;&#x5F0F;&#x963B;&#x788D;&#x4F60;&#x7684;&#x8FDB;&#x6B65;&#xFF09;.</u> Therefore, take breaks that are well-planned so that you do not end up spending hours on social media, scrolling aimlessly. Instead, read a book, sip some hot cocoa, stretch &#xFF08;&#x4F38;&#x5C55;&#xFF09; and grab a quick snack during your breaks.</p><p>Time-management is among the most important aspects of a student&#x2019;s life that guarantees success in life. Certainly, academics are important <strong>but at the same time</strong>, participation in extra-curricular activities also <strong>speaks volumes &#xFF08;&#x5F88;&#x6709;&#x610F;&#x4E49;&#xFF09;</strong> about your personality. Following the above tips will certainly help you in planning your academics as well as co-curricular activities properly so that you do not feel stressed at any point. So, prioritize your activities <strong><font color="red">to transform your present-day efforts into success in the future</font></strong>.</p><hr><p>To strike the right balance between&#x2026;and&#x2026;&#xFF1A;&#x53D6;&#x5F97;&#x6B63;&#x786E;&#x7684;&#x5E73;&#x8861;</p><p><strong>making time to</strong> get involved in extracurricular activities&#xFF1A;&#x62BD;&#x7A7A;&#x53C2;&#x52A0;&#x8BFE;&#x5916;&#x6D3B;&#x52A8;</p><p>Plan out your tasks in advance&#xFF1A;&#x63D0;&#x524D;&#x8BA1;&#x5212;&#x597D;&#x4F60;&#x7684;&#x4EFB;&#x52A1;</p><p>but at the same time&#xFF1A;&#x4F46;&#x4E0E;&#x6B64;&#x540C;&#x65F6;</p><p><font color="red">to transform your present-day efforts into success in the future</font>&#xFF1A;&#x628A;&#x4F60;&#x73B0;&#x5728;&#x7684;&#x52AA;&#x529B;&#x8F6C;&#x5316;&#x4E3A;&#x672A;&#x6765;&#x7684;&#x6210;&#x529F;</p><hr><p><em>See you tomorrow</em></p>]]></content>
-    
-    <summary type="html">
-    
-      writing-4 Ways to Balance Academics and Extracurricular Activities
-    
-    </summary>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-      <category term="CET6" scheme="https://steven-shixq.github.io/tags/CET6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>每日外闻125</title>
-    <link href="https://steven-shixq.github.io/2020/06/10/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB125/"/>
-    <id>https://steven-shixq.github.io/2020/06/10/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB125/</id>
-    <published>2020-06-10T15:02:13.000Z</published>
-    <updated>2020-06-11T16:45:22.790Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center> <strong> How to Balance Extracurricular Activities &amp; Academics  </strong></center><p><img src="/" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/20200612004416.png"  alt></p><blockquote><p><a href="https://www.decadirect.org/2015/12/14/how-to-balance-extracurricular-activities-academics/" target="_blank" rel="noopener">https://www.decadirect.org/2015/12/14/how-to-balance-extracurricular-activities-academics/</a></p></blockquote><p>&#x6628;&#x5929;&#x662F;&#x4E2D;&#x56FD;&#x4EBA;&#x7684;&#x82F1;&#x8BED;&#x4F5C;&#x6587;&#xFF0C;&#x4ECA;&#x5929;&#x770B;&#x4E00;&#x4E0B;native speaker&#x9AD8;&#x4E2D;&#x751F;&#x7684;&#x4F5C;&#x6587;&#xFF0C;&#x660E;&#x5929;&#x770B;&#x4E00;&#x4E0B;&#x76F8;&#x540C;&#x4E3B;&#x9898;&#x7684;&#x56FD;&#x5916;&#x5927;&#x5B66;&#x7814;&#x7A76;&#x751F;&#x52A9;&#x7406;&#x7684;&#x6587;&#x7AE0;&#x3002;</p><p>&#x8FD9;&#x7BC7;&#x6587;&#x7AE0;&#x5F88;&#x7B26;&#x5408;CET6&#x7684;&#x5199;&#x4F5C;&#x6807;&#x51C6;&#xFF0C;&#x5F88;&#x591A;&#x90FD;&#x53EF;&#x4EE5;&#x501F;&#x9274;&#x3002;</p><p>Colleges look at more than just your high school academic transcript when you are going through the admissions process.</p><p>While being involved in extracurricular activities is vital, make sure you are balancing them with your school work to have a successful and enjoyable high school career!</p><p>Here are a few tips on how to keep that balance:</p><p><strong>1. Be choosy with your time.</strong></p><p>Pick extracurricular activities that you are truly excited to join and will remain active in all year. Make sure these activities can fit into your schedule!</p><p><strong>2. Pick activities that will develop your leadership skills.</strong></p><p>Colleges want to know what you contributed to the clubs/teams you joined in high school. By choosing activities that will develop your leadership skills, you will learn skills that will ultimately benefit your academic and career paths.</p><p><strong>3. Stay organized.</strong></p><p>Whether you keep a written planner or set reminders for yourself on your Google/iCalendar, keep your schedule up to date and to-do list prioritized.</p><p><strong>4. Take &#x201C;smart&#x201D; breaks.</strong></p><p>In today&#x2019;s world of constantly being connected through social media and feeling like you should always be working, it can feel impossible to take a break. But well-planned and <strong>well-deserved&#xFF08;&#x7406;&#x6240;&#x5E94;&#x5F97;&#x7684;&#xFF0C;&#x5F53;&#x4E4B;&#x65E0;&#x6127;&#x7684;&#xFF09;</strong> <u>breaks are necessary to help you recharge your batteries and stay focused on your</u> high school and college goals. Read a book, grab coffee with a friend or even go for a walk. Your body, mind, and overall health will greatly benefit. <u>This will help you be the most successful student and individual you can be!</u></p><p>help you recharge your batteries&#xFF1A;&#x80FD;&#x5E2E;&#x52A9;&#x4F60;&#x56DE;&#x590D;&#x80FD;&#x91CF;</p><hr><p><em>See you tomorrow</em></p>]]></content>
-    
-    <summary type="html">
-    
-      How to Balance Extracurricular Activities &amp; Academics
-    
-    </summary>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-      <category term="CET6" scheme="https://steven-shixq.github.io/tags/CET6/"/>
     
   </entry>
   
