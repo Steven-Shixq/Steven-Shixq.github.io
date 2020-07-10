@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://steven-shixq.github.io/"/>
-  <updated>2020-07-10T16:32:31.484Z</updated>
+  <updated>2020-07-10T16:50:08.493Z</updated>
   <id>https://steven-shixq.github.io/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>R语言学习笔记22</title>
-    <link href="https://steven-shixq.github.io/2020/07/11/R%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B022/"/>
-    <id>https://steven-shixq.github.io/2020/07/11/R%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B022/</id>
-    <published>2020-07-10T16:32:31.000Z</published>
-    <updated>2020-07-10T16:32:31.484Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>每日外闻155</title>
@@ -72,7 +50,7 @@
     <link href="https://steven-shixq.github.io/2020/07/09/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB154/"/>
     <id>https://steven-shixq.github.io/2020/07/09/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB154/</id>
     <published>2020-07-08T17:14:47.000Z</published>
-    <updated>2020-07-09T16:39:58.999Z</updated>
+    <updated>2020-07-10T16:52:38.802Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>&#x95FB;&#x540D;&#x4E8E;&#x4E16;&#x7684;&#x4E1D;&#x7EF8;&#x4E4B;&#x8DEF;&#x662F;&#x4E00;&#x7CFB;&#x5217;&#x8FDE;&#x63A5;&#x4E1C;&#x897F;&#x65B9;&#x7684;&#x8DEF;&#x7EBF;&#x3002;&#x4E1D;&#x7EF8;&#x4E4B;&#x8DEF;&#x5EF6;&#x4F38;6,000&#x591A;&#x516C;&#x91CC;&#xFF0C;&#x5F97;&#x540D;&#x4E8E;&#x53E4;&#x4EE3;&#x4E2D;&#x56FD;&#x7684;&#x4E1D;&#x7EF8;&#x8D38;&#x6613;&#x3002;&#x4E1D;&#x7EF8;&#x4E4B;&#x8DEF;&#x4E0A;&#x7684;&#x8D38;&#x6613;&#x5728;&#x4E2D;&#x56FD;&#x3001;&#x5357;&#x4E9A;&#x3001;&#x6B27;&#x6D32;&#x548C;&#x4E2D;&#x4E1C;&#x6587;&#x660E;&#x53D1;&#x5C55;&#x4E2D;&#x53D1;&#x6325;&#x4E86;&#x91CD;&#x8981;&#x4F5C;&#x7528;&#x3002;&#x6B63;&#x662F;&#x901A;&#x8FC7;&#x4E1D;&#x7EF8;&#x4E4B;&#x8DEF;&#xFF0C;&#x4E2D;&#x56FD;&#x7684;&#x9020;&#x7EB8;&#x3001;&#x706B;&#x836F;&#x3001;&#x6307;&#x5357;&#x9488;&#x3001;&#x5370;&#x5237;&#x672F;&#x7B49;&#x56DB;&#x5927;&#x53D1;&#x660E;&#x624D;&#x88AB;&#x5F15;&#x4ECB;&#x5230;&#x4E16;&#x754C;&#x5404;&#x5730;&#x3002;&#x540C;&#x6837;&#xFF0C;&#x4E2D;&#x56FD;&#x7684;&#x4E1D;&#x7EF8;&#x3001;&#x8336;&#x53F6;&#x548C;&#x74F7;&#x5668;&#xFF08;porcelain&#xFF09;&#x4E5F;&#x4F20;&#x904D;&#x5168;&#x7403;&#x3002;&#x7269;&#x8D28;&#x6587;&#x5316;&#x7684;&#x4EA4;&#x6D41;&#x662F;&#x53CC;&#x5411;&#x7684;&#xFF0C;&#x6B27;&#x6D32;&#x4E5F;&#x901A;&#x8FC7;&#x4E1D;&#x7EF8;&#x4E4B;&#x8DEF;&#x51FA;&#x53E3;&#x5404;&#x79CD;&#x5546;&#x54C1;&#x548C;&#x690D;&#x7269;&#xFF0C;&#x6EE1;&#x8DB3;&#x4E2D;&#x56FD;&#x5E02;&#x573A;&#x7684;&#x9700;&#x6C42;&#x3002;</p><hr><div class="hide-block"><a class="hide-button button--primary button--animated" style>Translation    </a><span class="hide-content"><p>The world-renowned Silk Road is a series of routes connecting the East and the West. It extended more than 6,000 kilometers. The Silk Road was named after ancient China&#x2019;s silk trade which played an important role in the civilization development of China, South Asia, Europe and the Middle East. It was through the Silk Road that papermaking, gunpowder, compass and printing of the four great inventions of ancient China were introduced around the world. Similarly, Chinese silk, tea and porcelain spread all over the world. Europe also exported various goods and plants through the Silk Road to meet the needs of the Chinese market.</p></span></div><hr><p><em>See you tomorrow</em></p>]]></content>
     
@@ -589,6 +567,35 @@
       <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
     
       <category term="Journal" scheme="https://steven-shixq.github.io/tags/Journal/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日外闻141</title>
+    <link href="https://steven-shixq.github.io/2020/06/26/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB141/"/>
+    <id>https://steven-shixq.github.io/2020/06/26/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB141/</id>
+    <published>2020-06-26T06:40:02.000Z</published>
+    <updated>2020-06-29T16:33:05.521Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>Translation</strong></p><p>&#x592A;&#x6E56;&#x662F;&#x4E2D;&#x56FD;&#x4E1C;&#x90E8;&#x7684;&#x4E00;&#x4E2A;&#x6DE1;&#x6C34;&#x6E56;,&#x5360;&#x5730;&#x9762;&#x79EF; 2250 &#x5E73;&#x65B9;&#x516C;&#x91CC;,&#x662F;&#x4E2D;&#x56FD;&#x7B2C;&#x4E09;&#x5927;&#x6DE1;&#x6C34;&#x6E56;,&#x4EC5;&#x6B21;&#x4E8E;&#x9131;&#x9633;&#x548C;&#x6D1E;&#x5EAD;&#x3002;&#x592A;&#x6E56;&#x7EA6;&#x6709; 90 &#x4E2A;&#x5C9B;&#x5C7F;,&#x5927;&#x5C0F;&#x4ECE;&#x51E0;&#x5E73;&#x65B9;&#x7C73;&#x5230;&#x51E0;&#x5E73;&#x65B9;&#x516C;&#x91CC;&#x4E0D;&#x7B49;&#x3002;&#x592A;&#x6E56;&#x4EE5;&#x5176;&#x72EC;&#x7279;&#x7684;&#x201C;&#x592A;&#x6E56;&#x77F3;&#x201D;&#x800C;&#x95FB;&#x540D;,&#x592A;&#x6E56;&#x77F3;&#x5E38;&#x7528;&#x4E8E;&#x88C5;&#x9970;&#x4E2D;&#x56FD;&#x4F20;&#x7EDF;&#x56ED;&#x6797;&#x3002;&#x592A; &#x6E56;&#x4E5F;&#x4EE5;&#x9AD8;&#x4EA7;&#x7684;&#x6355;&#x9C7C;&#x4E1A;&#x95FB;&#x540D;&#x3002;&#x81EA;&#x4E0A;&#x4E16;&#x7EAA; 70 &#x5E74;&#x4EE3;&#x540E;&#x671F;&#x4EE5;&#x6765;,&#x6355;&#x635E;&#x9C7C;&#x87F9;&#x5BF9;&#x6CBF;&#x6E56;&#x7684;&#x5C45;&#x6C11;&#x6765;&#x8BF4;&#x6781;&#x4E3A;&#x91CD;&#x8981;,&#x5E76;&#x5BF9;&#x5468;&#x8FB9;&#x5730;&#x533A;&#x7684;&#x7ECF;&#x6D4E;&#x4F5C; &#x51FA;&#x4E86;&#x91CD;&#x5927;&#x8D21;&#x732E;&#x3002;&#x592A;&#x6E56;&#x5730;&#x533A;&#x662F;&#x4E2D;&#x56FD;&#x9676;&#x74F7;( ceramics)&#x4E1A;&#x57FA;&#x5730;&#x4E4B;&#x4E00;,&#x5176;&#x4E2D;&#x5B9C;&#x5174;&#x7684;&#x9676;&#x74F7;&#x5382;&#x5BB6;&#x751F;&#x4EA7;&#x4E3E;&#x4E16;&#x95FB;&#x540D;&#x7684;&#x5B9C;&#x5174;&#x7D2B;&#x7802;&#x58F6;( clay teapot)&#x3002;</p><div class="hide-block"><a class="hide-button button--primary button--animated" style="background-color:  #FF7242;color: #fff %">Traslation    </a><span class="hide-content"><center> <strong> Lake Tai </strong> </center>  <p>With an area of 2&#x201A;250 <u><strong>square kilometers</strong></u>&#x201A; Lake Tai in eastern China is the third largest freshwater lake <u>after&#xFF08;&#x4EC5;&#x6B21;&#x4E8E;&#xFF09;</u> Poyang Lake and Dongting Lake. The lake houses about 90 islands&#x201A; <u>==with size ranging from==</u> a few square meters <u>==to==</u> several square kilometers. The lake <u>is renowned/famous for</u> its unique &#x201C;Taihu stones&#x201D;&#x201A; which are often employed to <strong>decorate</strong> traditional Chinese <strong>gardens</strong>. The lake is also known for its <strong>productive fishing industry</strong>. Since the <u>late 1970s</u>&#x201A; <u>Harvesting fish and crabs</u> has been invaluable to people living along the lake and has contributed significantly to the economy of the <u>surrounding area</u>. The lake is home to an extensive ceramics industry&#x201A; including the Yixing pottery <strong>factory&#xFF08;&#x5382;&#x5BB6;&#xFF09;</strong>&#x201A; which produces the world-renowned Yixing clay teapots.</p><p>square kilometers: &#x5E73;&#x65B9;&#x516C;&#x91CC;</p><p>with size ranging from &#x2026; to &#x2026;: &#x5927;&#x5C0F;&#x4ECE;&#x2026;&#x5230;&#x2026;&#x4E0D;&#x7B49;</p><p>be renowned/famous for sth: &#x4EE5;&#x67D0;&#x7269;&#x800C;&#x95FB;&#x540D;</p><p>decorate: &#x88C5;&#x9970;</p><p>garden: &#x56ED;&#x6797;</p><p>&#x9AD8;&#x4EA7;&#x7684;&#x6355;&#x9C7C;&#x4E1A;&#xFF1A;productive fishing industry</p><p>20&#x4E16;&#x7EAA;70&#x5E74;&#x4EE3;&#x540E;&#x671F;&#xFF1A;late 1970s</p><p>&#x6355;&#x635E;&#x9C7C;&#x87F9;&#xFF1A;Harvesting fish and crabs </p><p>&#x6CBF;&#x6E56;&#x7684;&#x5C45;&#x6C11;: people living along the lake</p><p>&#x5468;&#x8FB9;&#x5730;&#x533A;: surrounding area</p><p>home&#x4E5F;&#x6709;&#x57FA;&#x5730;&#x7684;&#x610F;&#x601D; base:&#x57FA;&#x5730;</p><p>&#x4E16;&#x754C;&#x95FB;&#x540D;/&#x4E3E;&#x4E16;&#x95FB;&#x540D;&#xFF1A;the world-renowned/world-famous/world famous</p></span></div><hr><p><em>See you tomorrow</em></p>]]></content>
+    
+    <summary type="html">
+    
+      Translation-Lake Tai
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+    
+      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+      <category term="CET6" scheme="https://steven-shixq.github.io/tags/CET6/"/>
     
   </entry>
   
