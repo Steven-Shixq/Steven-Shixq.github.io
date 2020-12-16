@@ -1,0 +1,164 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>免费图床 | 衷深学习</title><meta name="description" content="免费好用的图床"><meta name="keywords" content="图床"><meta name="author" content="石晓强,2583551979@qq.com"><meta name="copyright" content="石晓强"><meta name="format-detection" content="telephone=no"><link rel="shortcut icon" href="/img/avatar_reader.jpg"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="dns-prefetch" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="https://fonts.googleapis.com" crossorigin="crossorigin"/><link rel="dns-prefetch" href="https://fonts.googleapis.com"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="dns-prefetch" href="//busuanzi.ibruce.info"/><meta name="google-site-verification" content="waRRTdOh57yZHUe9jQEk5Ut_UJaUfR_pjDbIaX3yW94"/><meta name="baidu-site-verification" content="URcNfeT3p8"/><meta name="twitter:card" content="summary"><meta name="twitter:title" content="免费图床"><meta name="twitter:description" content="免费好用的图床"><meta name="twitter:image" content="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/picbed_cover.png"><meta property="og:type" content="article"><meta property="og:title" content="免费图床"><meta property="og:url" content="https://steven-shixq.github.io/2020/02/06/%E5%85%8D%E8%B4%B9%E5%9B%BE%E5%BA%8A/"><meta property="og:site_name" content="衷深学习"><meta property="og:description" content="免费好用的图床"><meta property="og:image" content="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/picbed_cover.png"><meta property="article:published_time" content="2020-02-06T13:42:49.000Z"><meta property="article:modified_time" content="2020-03-27T04:55:42.965Z"><script src="https://cdn.jsdelivr.net/npm/js-cookie/dist/js.cookie.min.js"></script><script>var autoChangeMode = '1'
+var t = Cookies.get("theme")
+if (autoChangeMode == '1'){
+  var isDarkMode = window.matchMedia("(prefers-color-scheme: dark)").matches
+  var isLightMode = window.matchMedia("(prefers-color-scheme: light)").matches
+  var isNotSpecified = window.matchMedia("(prefers-color-scheme: no-preference)").matches
+  var hasNoSupport = !isDarkMode && !isLightMode && !isNotSpecified
+
+  if (t === undefined){
+    if (isLightMode) activateLightMode()
+    else if (isDarkMode) activateDarkMode()
+    else if (isNotSpecified || hasNoSupport){
+      console.log('You specified no preference for a color scheme or your browser does not support it. I Schedule dark mode during night time.')
+      var now = new Date()
+      var hour = now.getHours()
+      var isNight = hour < 6 || hour >= 18
+      isNight ? activateDarkMode() : activateLightMode()
+  }
+  } else if (t == 'light') activateLightMode()
+  else activateDarkMode()
+
+} else if (autoChangeMode == '2'){
+  now = new Date();
+  hour = now.getHours();
+  isNight = hour < 6 || hour >= 18
+  if(t === undefined) isNight? activateDarkMode() : activateLightMode()
+  else if (t === 'light') activateLightMode()
+  else activateDarkMode() 
+} else {
+  if ( t == 'dark' ) activateDarkMode()
+  else if ( t == 'light') activateLightMode()
+}
+
+function activateDarkMode(){
+  document.documentElement.setAttribute('data-theme', 'dark')
+  if (document.querySelector('meta[name="theme-color"]') !== null){
+    document.querySelector('meta[name="theme-color"]').setAttribute('content','#000')
+  }
+}
+function activateLightMode(){
+  document.documentElement.setAttribute('data-theme', 'light')
+  if (document.querySelector('meta[name="theme-color"]') !== null){
+  document.querySelector('meta[name="theme-color"]').setAttribute('content','#fff')
+  }
+}</script><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css"><link rel="canonical" href="https://steven-shixq.github.io/2020/02/06/%E5%85%8D%E8%B4%B9%E5%9B%BE%E5%BA%8A/"><link rel="prev" title="每日外闻1" href="https://steven-shixq.github.io/2020/02/07/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB1/"><link rel="next" title="第一个相册" href="https://steven-shixq.github.io/2020/02/04/%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%9B%B8%E5%86%8C/"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Titillium+Web"><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"search.xml","languages":{"hits_empty":"找不到您查询的内容:${query}"}},
+  translate: undefined,
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  bookmark: {
+    message_prev: '按',
+    message_next: '键将本页加入书签'
+  },
+  runtime_unit: '天',
+  runtime: true,
+  copyright: undefined,
+  ClickShowText: undefined,
+  medium_zoom: false,
+  fancybox: true,
+  Snackbar: undefined,
+  baiduPush: false,
+  highlightCopy: true,
+  highlightLang: true,
+  highlightShrink: 'false',
+  isFontAwesomeV5: false,
+  isPhotoFigcaption: false
+  
+}</script><script>var GLOBAL_CONFIG_SITE = { 
+  isPost: true,
+  isHome: false,
+  isSidebar: true  
+  }</script><noscript><style>
+#page-header {
+  opacity: 1
+}
+.justified-gallery img{
+  opacity: 1
+}
+</style></noscript><meta name="generator" content="Hexo 4.2.0"><link rel="alternate" href="/atom.xml" title="衷深学习" type="application/atom+xml">
+</head><body><canvas class="fireworks"></canvas><div id="mobile-sidebar"><div id="menu_mask"></div><div id="mobile-sidebar-menus"><div class="mobile_author_icon"><img class="avatar-img" src="/img/avatar_reader.jpg" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="mobile_post_data"><div class="mobile_data_item is-center"><div class="mobile_data_link"><a href="/archives/"><div class="headline">文章</div><div class="length_num">219</div></a></div></div><div class="mobile_data_item is-center">      <div class="mobile_data_link"><a href="/tags/"><div class="headline">标签</div><div class="length_num">159</div></a></div></div><div class="mobile_data_item is-center">     <div class="mobile_data_link"><a href="/categories/"><div class="headline">分类</div><div class="length_num">24</div></a></div></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fa fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fa fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fa fa-list" aria-hidden="true"></i><span> 导航</span><i class="fa fa-chevron-down menus-expand" aria-hidden="true"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/categories/"><i class="fa-fw fa fa-folder-open"></i><span> 分类</span></a></li><li><a class="site-page" href="/tags/"><i class="fa-fw fa fa-tags"></i><span> 标签</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fa fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fa fa-heart"></i><span> 关于</span></a></div></div></div></div><i class="fa fa-arrow-right on" id="toggle-sidebar" aria-hidden="true">     </i><div id="sidebar"><div class="sidebar-toc"><div class="sidebar-toc__title">目录</div><div class="sidebar-toc__progress"><span class="progress-notice">你已经读了</span><span class="progress-num">0</span><span class="progress-percentage">%</span><div class="sidebar-toc__progress-bar">     </div></div><div class="sidebar-toc__content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#&#x4F7F;&#x7528;Github-jsDelivr-CDN-PicGo-&#x642D;&#x5EFA;&#x81EA;&#x5DF1;&#x7684;&#x514D;&#x8D39;&#x56FE;&#x5E8A;"><span class="toc-number">1.</span> <span class="toc-text">&amp;#x4F7F;&amp;#x7528;Github + jsDelivr CDN + PicGo &amp;#x642D;&amp;#x5EFA;&amp;#x81EA;&amp;#x5DF1;&amp;#x7684;&amp;#x514D;&amp;#x8D39;&amp;#x56FE;&amp;#x5E8A;</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#Github&#x914D;&#x7F6E;"><span class="toc-number">1.1.</span> <span class="toc-text">Github&amp;#x914D;&amp;#x7F6E;</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#PicGo-&#x914D;&#x7F6E;"><span class="toc-number">1.2.</span> <span class="toc-text">PicGo &amp;#x914D;&amp;#x7F6E;</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#VS-code&#x914D;&#x7F6E;"><span class="toc-number">1.3.</span> <span class="toc-text">VS code&amp;#x914D;&amp;#x7F6E;</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#&#x5728;Typora-&#x4E0A;&#x4F7F;&#x7528;PicGo&#x56FE;&#x5E8A;"><span class="toc-number">1.4.</span> <span class="toc-text">&amp;#x5728;Typora &amp;#x4E0A;&amp;#x4F7F;&amp;#x7528;PicGo&amp;#x56FE;&amp;#x5E8A;</span></a></li></ol></li></ol></div></div></div><div id="body-wrap"><div class="post-bg" id="nav" style="background-image: url(https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/picbed_cover.png)"><div id="page-header"><span class="pull_left" id="blog_name"><a class="blog_title" id="site-name" href="/">衷深学习</a></span><span class="pull_right menus"><div id="search_button"><a class="site-page social-icon search"><i class="fa fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fa fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fa fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fa fa-list" aria-hidden="true"></i><span> 导航</span><i class="fa fa-chevron-down menus-expand" aria-hidden="true"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/categories/"><i class="fa-fw fa fa-folder-open"></i><span> 分类</span></a></li><li><a class="site-page" href="/tags/"><i class="fa-fw fa fa-tags"></i><span> 标签</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fa fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fa fa-heart"></i><span> 关于</span></a></div></div><span class="toggle-menu close"><a class="site-page"><i class="fa fa-bars fa-fw" aria-hidden="true"></i></a></span></span></div><div id="post-info"><div id="post-title"><div class="posttitle">免费图床</div></div><div id="post-meta"><div class="meta-firstline"><time class="post-meta__date"><span class="post-meta__date-created" title="发表于 2020-02-06 21:42:49"><i class="fa fa-calendar" aria-hidden="true"></i> 发表于 2020-02-06</span><span class="post-meta__separator">|</span><span class="post-meta__date-updated" title="更新于 2020-03-27 12:55:42"><i class="fa fa-history" aria-hidden="true"></i> 更新于 2020-03-27</span></time><span class="post-meta__categories"><span class="post-meta__separator">|</span><i class="fa fa-inbox post-meta__icon" aria-hidden="true"></i><a class="post-meta__categories" href="/categories/%E5%8D%9A%E5%AE%A2/">博客</a></span></div><div class="meta-secondline"> <span class="post-meta-wordcount"><i class="post-meta__icon fa fa-file-word-o" aria-hidden="true"></i><span>字数总计:</span><span class="word-count">872</span><span class="post-meta__separator">|</span><i class="post-meta__icon fa fa-clock-o" aria-hidden="true"></i><span>阅读时长: 5 分钟</span></span></div><div class="meta-thirdline"><span class="post-meta-pv-cv"><span class="post-meta__separator">|</span><i class="fa fa-eye post-meta__icon" aria-hidden="true"> </i><span>阅读量:</span><span id="busuanzi_value_page_pv"></span></span><span class="post-meta-commentcount"><span class="post-meta__separator">|</span><i class="post-meta__icon fa fa-comment-o" aria-hidden="true"></i><span>评论数:</span><a href="/2020/02/06/%E5%85%8D%E8%B4%B9%E5%9B%BE%E5%BA%8A/#post-comment" itemprop="discussionUrl"><span class="valine-comment-count comment-count" data-xid="/2020/02/06/%E5%85%8D%E8%B4%B9%E5%9B%BE%E5%BA%8A/" itemprop="commentCount"></span></a></span></div></div></div></div><main class="layout_post" id="content-inner"><article id="post"><div id="article-container"><h1 id="&#x4F7F;&#x7528;Github-jsDelivr-CDN-PicGo-&#x642D;&#x5EFA;&#x81EA;&#x5DF1;&#x7684;&#x514D;&#x8D39;&#x56FE;&#x5E8A;"><a href="#&#x4F7F;&#x7528;Github-jsDelivr-CDN-PicGo-&#x642D;&#x5EFA;&#x81EA;&#x5DF1;&#x7684;&#x514D;&#x8D39;&#x56FE;&#x5E8A;" class="headerlink" title="&#x4F7F;&#x7528;Github + jsDelivr CDN + PicGo &#x642D;&#x5EFA;&#x81EA;&#x5DF1;&#x7684;&#x514D;&#x8D39;&#x56FE;&#x5E8A;"></a>&#x4F7F;&#x7528;Github + jsDelivr CDN + PicGo &#x642D;&#x5EFA;&#x81EA;&#x5DF1;&#x7684;&#x514D;&#x8D39;&#x56FE;&#x5E8A;</h1><p>jsDelivr &#x662F;&#x56FD;&#x5916;&#x7684;&#x4E00;&#x5BB6;&#x4F18;&#x79C0;&#x7684; CDN &#x670D;&#x52A1;&#x63D0;&#x4F9B;&#x5546;&#xFF0C;&#x6D77;&#x5185;&#x5916;&#x7686;&#x53EF;&#x514D;&#x8D39;&#x4F7F;&#x7528;&#x3002;jsDelivr &#x53EF;&#x4EE5;&#x52A0;&#x901F; Github &#x4ED3;&#x5E93;&#x7684;&#x6587;&#x4EF6;&#x3002;&#x501F;&#x6B64;&#x53EF;&#x4EE5;&#x5728;Github&#x4E0A;&#x642D;&#x5EFA;&#x4E00;&#x4E2A;jsDelivr&#x52A0;&#x901F;&#x7684;&#x514D;&#x8D39;&#x3001;&#x5168;&#x7403;&#x8BBF;&#x95EE;&#x901F;&#x5EA6;&#x5FEB;&#x7684;&#x56FE;&#x5E8A;&#x3002;</p>
+<h2 id="Github&#x914D;&#x7F6E;"><a href="#Github&#x914D;&#x7F6E;" class="headerlink" title="Github&#x914D;&#x7F6E;"></a>Github&#x914D;&#x7F6E;</h2><ol>
+<li>&#x521B;&#x5EFA;&#x4E00;&#x4E2A;public&#x7684;&#x4ED3;&#x5E93;</li>
+<li>&#x5728;&#x4ED3;&#x5E93;&#x7684;<code>Developer setting</code> &#x91CC;&#x70B9;&#x51FB;&#x53F3;&#x4FA7;<code>Personal acess tokens</code>,&#x5728;&#x53F3;&#x4E0A;&#x65B9;&#x70B9;&#x51FB;<code>Generate token</code> &#x65B0;&#x5EFA;&#x4E00;&#x4E2A;token&#xFF08;&#x8BA9;&#x7A0B;&#x5E8F;&#x62E5;&#x6709;&#x63A7;&#x5236;&#x4ED3;&#x5E93;&#x7684;&#x6743;&#x9650;&#xFF09;</li>
+<li>&#x8BBE;&#x7F6E;&#x91CC;<code>Note</code>&#x53EF;&#x4EE5;&#x7B80;&#x5355;&#x63CF;&#x8FF0;&#x4E00;&#x4E0B;&#x8FD9;&#x4E2A;token&#x7684;&#x7528;&#x9014;&#xFF08;&#x968F;&#x4FBF;&#x5199;&#xFF0C;&#x81EA;&#x5DF1;&#x77E5;&#x9053;&#x662F;&#x4EC0;&#x4E48;&#x610F;&#x601D;&#x5C31;&#x597D;&#xFF09;&#xFF0C;&#x7136;&#x540E;&#x518D;<code>Select scopes</code>&#x91CC;&#x5C06;<code>repo</code>&#x52FE;&#x9009;&#x4E0A;&#xFF0C;&#x5176;&#x5B50;&#x7C7B;&#x4E5F;&#x5C06;&#x81EA;&#x52A8;&#x88AB;&#x52FE;&#x9009;&#x4E0A;&#x3002;</li>
+<li>&#x7136;&#x540E;&#x70B9;&#x51FB;<code>Generate token</code>,&#x751F;&#x6210;&#x540E;Github&#x4F1A;&#x63D0;&#x793A;token&#x53EA;&#x4F1A;&#x663E;&#x793A;&#x4E00;&#x6B21;&#xFF0C;&#x590D;&#x5236;&#x5E76;&#x505A;&#x597D;&#x5907;&#x4EFD;&#x3002;</li>
+</ol>
+<h2 id="PicGo-&#x914D;&#x7F6E;"><a href="#PicGo-&#x914D;&#x7F6E;" class="headerlink" title="PicGo &#x914D;&#x7F6E;"></a>PicGo &#x914D;&#x7F6E;</h2><ol>
+<li>&#x5728;&#x6B64;&#x5904;&#x4E0B;&#x8F7D;PicGo&#x8F6F;&#x4EF6;&#x5E76;&#x5B89;&#x88C5;&#xFF1A;<a href="https://github.com/Molunerfinn/PicGo/releases" target="_blank" rel="noopener">https://github.com/Molunerfinn/PicGo/releases</a></li>
+<li>&#x6253;&#x5F00;&#x8F6F;&#x4EF6;&#x8BBE;&#x7F6E;Github&#x56FE;&#x5E8A;</li>
+</ol>
+<ul>
+<li><p>&#x8BBE;&#x5B9A;&#x4ED3;&#x5E93;&#x540D;&#xFF1A;&#x586B;&#x5199;&#x683C;&#x5F0F;&#x4E3A;&#xFF1A;&#x7528;&#x6237;&#x540D;/&#x4ED3;&#x5E93;&#x540D;&#xFF1B;</p>
+</li>
+<li><p>&#x8BBE;&#x5B9A;&#x5206;&#x652F;&#x540D;&#xFF1A;&#x4E00;&#x822C;&#x586B;&#x5199; <code>master</code> &#x5C31;&#x884C;&#x4E86;&#xFF08;&#x67E5;&#x770B;&#x4F60;&#x7684;Github&#x4ED3;&#x5E93;&#x67E5;&#x770B;&#x5206;&#x652F;&#x540D;&#xFF0C;&#x5982;&#x679C;&#x53EA;&#x6709;&#x4E00;&#x4E2A;&#x5206;&#x652F;&#x4E00;&#x822C;&#x4E3A;master,&#x76F4;&#x63A5;&#x586B;&#x5199;&#x5373;&#x53EF;&#xFF0C;&#x4E0D;&#x7528;&#x8BBE;&#x7F6E;&#xFF09;&#xFF1B;</p>
+</li>
+<li><p>&#x8BBE;&#x5B9A; Token&#xFF1A;&#x5C06; Github &#x4E2D;&#x521A;&#x624D;&#x914D;&#x7F6E;&#x7684; Token &#x7C98;&#x8D34;&#x8FDB;&#x53BB;&#xFF1B;</p>
+</li>
+<li><p>&#x6307;&#x5B9A;&#x5B58;&#x50A8;&#x8DEF;&#x5F84;&#xFF1A;&#x5982;img/&#x4F1A;&#x81EA;&#x52A8;&#x5728;&#x8BE5;&#x4ED3;&#x5E93;&#x81EA;&#x52A8;&#x521B;&#x5EFA;img&#x76EE;&#x5F55;&#xFF0C;&#x56FE;&#x7247;&#x5219;&#x81EA;&#x52A8;&#x50A8;&#x5B58;&#x5728;&#x8BE5;&#x76EE;&#x5F55;&#x4E0B;&#x3002;</p>
+</li>
+<li><p>&#x8BBE;&#x5B9A;&#x81EA;&#x5B9A;&#x4E49;&#x57DF;&#x540D;&#xFF1A;<a href="https://cdn.jsdelivr.net/gh/&#x7528;&#x6237;&#x540D;/&#x4ED3;&#x5E93;&#x540D;" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/&#x7528;&#x6237;&#x540D;/&#x4ED3;&#x5E93;&#x540D;</a></p>
+<p>gh&#x8868;&#x793A;Github&#x4ED3;&#x5E93;</p>
+</li>
+</ul>
+<h2 id="VS-code&#x914D;&#x7F6E;"><a href="#VS-code&#x914D;&#x7F6E;" class="headerlink" title="VS code&#x914D;&#x7F6E;"></a>VS code&#x914D;&#x7F6E;</h2><ol>
+<li><p>&#x542F;&#x52A8; VS code, &#x5FEB;&#x6377;&#x952E;<code>Ctrl + Shift + X</code> &#x6253;&#x5F00; extensions &#x754C;&#x9762;&#x641C;&#x7D22;PicGo&#x5B89;&#x88C5;</p>
+</li>
+<li><p><img src="/" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/pvs_set.png"  alt="picgo vs set"></p>
+</li>
+<li><p><img src="/" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/picgo_vs_set1.png"  alt="picgo_vs_set"></p>
+<p><img src="/" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/picgo_vs_set2.png"  alt="token"></p>
+</li>
+</ol>
+<p>VS code &#x7684;&#x914D;&#x7F6E;&#x548C;PicGo&#x7684;&#x914D;&#x7F6E;&#x4E00;&#x6837;&#xFF0C;&#x53EA;&#x4E0D;&#x8FC7;VS code&#x91CC;&#x7684;&#x662F;&#x82F1;&#x6587;&#xFF0C;&#x5C06;&#x5728;PicGo&#x4E2D;&#x586B;&#x5199;&#x7684;&#x53C2;&#x6570;&#x5728;VS code&#x4E2D;&#x4E00;&#x6837;&#x586B;&#x5199;&#x4E00;&#x904D;&#x5C31;&#x53EF;&#x4EE5;&#x4E86;&#x3002;</p>
+<p>&#x5FEB;&#x6377;&#x952E;&#x64CD;&#x4F5C;&#xFF1A;</p>
+<p><img src="/" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/20200213221119.png"  alt="&#x5FEB;&#x6377;&#x952E;"></p>
+<p>VS code&#x652F;&#x6301;markerdown&#x4F7F;&#x7528;&#x5FEB;&#x6377;&#x952E;&#x63D2;&#x5165;&#x56FE;&#x7247;&#x6BD4;&#x8F83;&#x65B9;&#x4FBF;&#xFF0C;&#x4F46;&#x662F;&#x4E0D;&#x80FD;&#x91CD;&#x547D;&#x540D;&#x56FE;&#x7247;&#xFF0C;&#x5728;PicGo&#x8F6F;&#x4EF6;&#x4E2D;&#x4E0A;&#x4F20;&#x56FE;&#x7247;&#x662F;&#x652F;&#x6301;&#x91CD;&#x547D;&#x540D;&#x7684;&#xFF0C;&#x8FD9;&#x6837;&#x4ED3;&#x5E93;&#x91CC;&#x7684;&#x56FE;&#x7247;&#x4F1A;&#x6BD4;&#x8F83;&#x89C4;&#x6574;&#x6709;&#x5E8F;&#x3002;&#x4E24;&#x79CD;&#x65B9;&#x5F0F;&#x5404;&#x6709;&#x4F18;&#x7F3A;&#x70B9;&#x3002;</p>
+<h2 id="&#x5728;Typora-&#x4E0A;&#x4F7F;&#x7528;PicGo&#x56FE;&#x5E8A;"><a href="#&#x5728;Typora-&#x4E0A;&#x4F7F;&#x7528;PicGo&#x56FE;&#x5E8A;" class="headerlink" title="&#x5728;Typora &#x4E0A;&#x4F7F;&#x7528;PicGo&#x56FE;&#x5E8A;"></a>&#x5728;Typora &#x4E0A;&#x4F7F;&#x7528;PicGo&#x56FE;&#x5E8A;</h2><p>Typora&#x662F;&#x6211;&#x6700;&#x5E38;&#x7528;&#x7684;markdown&#x5199;&#x4F5C;&#x8F6F;&#x4EF6;&#xFF0C;&#x754C;&#x9762;&#x6E05;&#x65B0;&#x6574;&#x6D01;&#xFF0C;&#x4F46;&#x662F;&#x6709;&#x4E00;&#x4E2A;&#x7F3A;&#x70B9;&#xFF0C;&#x5C31;&#x662F;&#x4E0D;&#x652F;&#x6301;&#x56FE;&#x7247;&#x4E0A;&#x4F20;&#xFF0C;&#x4E00;&#x76F4;&#x5E0C;&#x671B;&#x5176;&#x5728;windows&#x4E0A;&#x63A8;&#x51FA;&#x56FE;&#x7247;&#x4E0A;&#x4F20;&#x529F;&#x80FD;&#x3002;</p>
+<p>&#x4ECA;&#x5929;&#x66F4;&#x65B0;Typora&#x5230;0.9.84&#x6700;&#x65B0;&#x7248;&#x7684;&#x65F6;&#x5019;&#xFF0C;&#x53D1;&#x73B0;changelog&#x91CC;&#x652F;&#x6301;PicGo&#x56FE;&#x5E8A;&#xFF0C;&#x8D76;&#x7D27;&#x66F4;&#x65B0;&#x8BD5;&#x4E86;&#x4E00;&#x4E0B;&#xFF0C;&#x4F46;&#x662F;&#x4E00;&#x6253;&#x5F00;&#x8F6F;&#x4EF6;&#x5C31;&#x81EA;&#x52A8;&#x9000;&#x51FA;&#x5D29;&#x6E83;&#x4E86;&#xFF0C;&#x9042;&#x5C06;&#x95EE;&#x9898;&#x63D0;&#x4EA4;&#x5230;Typora-issues,&#x6CA1;&#x60F3;&#x5230;&#x6CA1;&#x8FC7;&#x51E0;&#x4E2A;&#x5C0F;&#x65F6;&#xFF0C;&#x5C31;&#x6536;&#x5230;&#x4E86;Typora&#x7684;&#x5F00;&#x53D1;&#x4EBA;&#x5458;&#x7684;&#x56DE;&#x590D;&#xFF0C;&#x4FEE;&#x590D;&#x4E86;&#x8FD9;&#x4E2A;bug&#xFF0C;&#x5E76;&#x505A;&#x4E86;&#x4E00;&#x6B21;&#x5C0F;&#x7684;&#x7248;&#x672C;&#x66F4;&#x65B0;&#x3002;&#x5347;&#x7EA7;&#x5230;&#x6700;&#x65B0;&#x7248;0.9.85&#x7684;&#x65F6;&#x5019;&#x5C31;&#x6CA1;&#x6709;&#x8FD9;&#x4E2A;&#x95EE;&#x9898;&#x4E86;&#x3002;</p>
+<p><img src="/" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/typora_issues.png"  alt="image-20200226232621695"></p>
+<p>&#x5728;Typora&#x4E0A;&#x914D;&#x7F6E;PicGo&#x56FE;&#x5E8A;&#x975E;&#x5E38;&#x7B80;&#x5355;&#xFF0C;&#x53EA;&#x9700;&#x8981;&#x5728;&#x504F;&#x597D;&#x8BBE;&#x7F6E;&#x4E2D;&#x7B80;&#x5355;&#x8BBE;&#x7F6E;&#x5373;&#x53EF;&#xFF0C;&#x5982;&#x4E0B;&#x56FE;&#x6240;&#x793A;&#xFF1A;</p>
+<p><img src="/" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/typora_picgo_set.png"  alt="image-20200226233509742"></p>
+<ul>
+<li>&#x9A8C;&#x8BC1;&#x56FE;&#x7247;&#x4E0A;&#x4F20;&#x9009;&#x9879;&#x65F6;&#x9700;&#x8981;&#x5148;&#x6253;&#x5F00;PicGo&#xFF0C;&#x6BCF;&#x6B21;&#x4E0A;&#x4F20;&#x56FE;&#x7247;&#x524D;&#x90FD;&#x9700;&#x8981;PicGo&#x5728;&#x8FD0;&#x884C;&#x624D;&#x53EF;&#x4EE5;&#xFF1B;</li>
+<li>&#x9009;&#x62E9;PicGo(app)&#x4E0A;&#x4F20;&#x670D;&#x52A1;&#x65F6;&#xFF0C;&#x652F;&#x6301;&#x56FE;&#x7247;&#x91CD;&#x547D;&#x540D;&#xFF0C;&#x5728;&#x6587;&#x7AE0;&#x4E2D;&#x7684;&#x56FE;&#x7247;&#x53F3;&#x952E;&#x4E0A;&#x4F20;&#x56FE;&#x7247;&#x5373;&#x53EF;&#x3002;</li>
+</ul>
+<p>Reference&#xFF1A;</p>
+<p><a href="https://blog.iljw.me/2019/05/jsdelivr-cdn-github.html" target="_blank" rel="noopener">&#x4F7F;&#x7528;jsDelivr CDN &#x52A0;&#x901F;Github &#x4ED3;&#x5E93;&#x7684;&#x56FE;&#x7247;&#xFF0C;&#x4EE5;&#x4F5C;&#x4E3A;&#x535A;&#x5BA2;&#x7684;&#x56FE;&#x5E8A;</a></p>
+<p><a href="https://picgo.github.io/PicGo-Doc/zh/guide/config.html#%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C%E9%A2%84%E8%A7%88" target="_blank" rel="noopener">PicGo&#x6587;&#x6863;</a></p>
+</div><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:2583551979@qq.com">石晓强</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://steven-shixq.github.io/2020/02/06/%E5%85%8D%E8%B4%B9%E5%9B%BE%E5%BA%8A/">https://steven-shixq.github.io/2020/02/06/%E5%85%8D%E8%B4%B9%E5%9B%BE%E5%BA%8A/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://steven-shixq.github.io" target="_blank">衷深学习</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E5%9B%BE%E5%BA%8A/">图床</a></div><div class="post_share"><div class="social-share" data-image="https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/default.png" data-sites="wechat,weibo,qq,facebook,twitter"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-share.js/dist/css/share.min.css"/><script src="https://cdn.jsdelivr.net/npm/social-share.js/dist/js/social-share.min.js"></script></div></div><div class="post-reward"><a class="reward-button button--primary button--animated"> <i class="fa fa-qrcode"></i> 打赏<div class="reward-main"><ul class="reward-all"><li class="reward-item"><img class="lazyload post-qr-code__img" src="/img/wechat.jpg" alt="微信"/><div class="post-qr-code__desc">微信</div></li><li class="reward-item"><img class="lazyload post-qr-code__img" src="/img/alipay.jpg" alt="支付寶"/><div class="post-qr-code__desc">支付寶</div></li></ul></div></a></div><nav class="pagination_post" id="pagination"><div class="prev-post pull_left"><a href="/2020/02/07/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB1/"><img class="prev_cover lazyload" data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/每日外闻1.png" onerror="onerror=null;src='/img/404.jpg'"><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">每日外闻1</div></div></a></div><div class="next-post pull_right"><a href="/2020/02/04/%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%9B%B8%E5%86%8C/"><img class="next_cover lazyload" data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/木板刻字.png" onerror="onerror=null;src='/img/404.jpg'"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">第一个相册</div></div></a></div></nav><hr><div id="post-comment"><div class="comment_headling"><i class="fa fa-comments fa-fw" aria-hidden="true"></i><span> 评论</span></div><div class="vcomment" id="vcomment"></div><script src="https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js"></script><script>var requestSetting = function (from,set) {
+  var from = from
+  var setting = set.split(',').filter(function(item){
+  return from.indexOf(item) > -1
+  });
+  setting = setting.length == 0 ? from :setting;
+  return setting
+}
+
+var guestInfo = requestSetting(['nick','mail','link'],'nick,mail,link')
+var requiredFields = requestSetting(['nick','mail','link'],'nick,mail')
+
+window.valine = new Valine({
+  el:'#vcomment',
+  appId: 'NFoxKw5kAkzXk9OujXdPn1Qp-gzGzoHsz',
+  appKey: '9awzk7TAM6SBvkG1Sn28h7Qf',
+  notify: false,
+  verify: false,
+  placeholder: '留下你的足迹吧',
+  avatar: 'monsterid',
+  meta: guestInfo,
+  pageSize: '10',
+  lang: 'zh-cn',
+  recordIP: false,
+  serverURLs: '',
+  emojiCDN: '',
+  emojiMaps: "",
+  enableQQ: false,
+  requiredFields: requiredFields
+});</script></div></article></main><footer id="footer" data-type="color"><div id="footer-wrap"><div class="copyright">&copy;2020 By 石晓强</div><div class="footer_custom_text">菜鸟一枚</div></div></footer></div><section class="rightside" id="rightside"><div id="rightside-config-hide"><i class="fa fa-book" id="readmode" title="阅读模式"></i><i class="fa fa-plus" id="font_plus" title="放大字体"></i><i class="fa fa-minus" id="font_minus" title="缩小字体"></i><i class="darkmode fa fa-moon-o" id="darkmode" title="夜间模式"></i></div><div id="rightside-config-show"><div id="rightside_config" title="设置"><i class="fa fa-cog" aria-hidden="true"></i></div><a id="to_comment" href="#post-comment" title="直达评论"><i class="scroll_to_comment fa fa-comments">  </i></a><i class="fa fa-list-ul close" id="mobile-toc-button" title="目录" aria-hidden="true"></i><i class="fa fa-arrow-up" id="go-up" title="回到顶部" aria-hidden="true"></i></div></section><div class="search-dialog" id="local-search"><div class="search-dialog__title" id="local-search-title">本地搜索</div><div id="local-input-panel"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div></div><hr/><div id="local-search-results"><div id="local-hits"></div><div id="local-stats"><div class="local-search-stats__hr" id="hr"><span>由</span> <a href="https://github.com/wzpan/hexo-generator-search" target="_blank" rel="noopener" style="color:#49B1F5;">hexo-generator-search</a>
+ <span>提供支持</span></div></div></div><span class="search-close-button"><i class="fa fa-times"></i></span></div><div class="search-mask"></div><script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.js"></script><script src="https://cdn.jsdelivr.net/npm/animejs@latest/anime.min.js"></script><script src="/js/third-party/fireworks.js"></script><script id="canvas_nest" color="0,176,240" opacity="0.7" zIndex="-1" count="90" mobile="true" src="/js/third-party/canvas-nest.js"></script><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><script src="https://cdn.jsdelivr.net/npm/instant.page@latest/instantpage.min.js" type="module"></script><script src="https://cdn.jsdelivr.net/npm/lazysizes@latest/lazysizes.min.js" async=""></script><script src="/js/search/local-search.js"></script><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/wanko.model.json"},"display":{"position":"right","width":150,"height":300},"mobile":{"show":true},"react":{"opacity":0.7},"log":false});</script></body></html>
