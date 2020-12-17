@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://steven-shixq.github.io/"/>
-  <updated>2020-12-16T09:38:46.031Z</updated>
+  <updated>2020-12-17T02:04:45.782Z</updated>
   <id>https://steven-shixq.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MY 100-Day English -2</title>
+    <link href="https://steven-shixq.github.io/2020/12/17/MY-100-Day-English-2/"/>
+    <id>https://steven-shixq.github.io/2020/12/17/MY-100-Day-English-2/</id>
+    <published>2020-12-17T01:47:57.000Z</published>
+    <updated>2020-12-17T02:04:45.782Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://www.nature.com/articles/s41467-019-10679-y" target="_blank" rel="noopener">Mendelian randomisation analysis of the effect of educational attainment and cognitive ability on smoking behaviour</a></p></blockquote><p>Recent analyses have shown educational attainment to be associated with a number of health outcomes. This association may, in part, be due to an effect of educational attainment on smoking behaviour. In this study, we apply a multivariable Mendelian randomisation design to determine whether the effect of educational attainment on smoking behaviour is due to educational attainment or general cognitive ability. We use individual data from the UK Biobank study (N= 120,050) and summary data from large GWA studies of educational attainment, cognitive ability and smoking behaviour. Our results show that more years of education are associated with a reduced likelihood of smoking that is not due to an effect of general cognitive ability on smoking behaviour. Given the considerable physical harms associated with smoking, the effect of educational attainment on smoking is likely to contribute to the health inequalities associated with differences in educational attainment.</p><hr><p>&#x672C;&#x6587;&#x4F5C;&#x8005;&#x4F7F;&#x7528;&#x591A;&#x53D8;&#x91CF;MR&#x5206;&#x6790;&#x7684;&#x65B9;&#x6CD5;&#x6765;&#x786E;&#x5B9A;&#x6559;&#x80B2;&#x7A0B;&#x5EA6;&#x5BF9;&#x5438;&#x70DF;&#x884C;&#x4E3A;&#x7684;&#x5F71;&#x54CD;&#x662F;&#x7531;&#x4E8E;&#x6559;&#x80B2;&#x7A0B;&#x5EA6;&#x8FD8;&#x662F;&#x4E00;&#x822C;&#x8BA4;&#x77E5;&#x80FD;&#x529B;&#x6240;&#x81F4;&#x3002;&#x6587;&#x4E2D;&#x4F7F;&#x7528; UKB 12&#x4E07;&#x4EBA;&#x7684;&#x6837;&#x672C;&#x548C;&#x516C;&#x5171;&#x6570;&#x636E;&#x5E93;&#x7684;GWAS&#x70DF;&#x9A8C;&#x8BC1;&#x8FD9;&#x4E00;&#x5047;&#x8BBE;&#x3002;&#x7ED3;&#x679C;&#x8868;&#x660E;&#xFF0C;&#x53D7;&#x6559;&#x80B2;&#x5E74;&#x9650;&#x4E0E;&#x5438;&#x70DF;&#x53EF;&#x80FD;&#x6027;&#x964D;&#x4F4E;&#x6709;&#x5173;&#xFF0C;&#x8FD9;&#x5E76;&#x4E0D;&#x662F;&#x7531;&#x4E8E;&#x4E00;&#x822C;&#x8BA4;&#x77E5;&#x80FD;&#x529B;&#x5BF9;&#x5438;&#x70DF;&#x884C;&#x4E3A;&#x7684;&#x5F71;&#x54CD;&#x3002;&#x8003;&#x8651;&#x5230;&#x5438;&#x70DF;&#x5BF9;&#x8EAB;&#x4F53;&#x7684;&#x5DE8;&#x5927;&#x5371;&#x5BB3;&#xFF0C;&#x53D7;&#x6559;&#x80B2;&#x7A0B;&#x5EA6;&#x5BF9;&#x5438;&#x70DF;&#x7684;&#x5F71;&#x54CD;&#x53EF;&#x80FD;&#x4F1A;&#x5BFC;&#x81F4;&#x4E0E;&#x53D7;&#x6559;&#x80B2;&#x7A0B;&#x5EA6;&#x5DEE;&#x5F02;&#x6709;&#x5173;&#x7684;&#x5065;&#x5EB7;&#x4E0D;&#x5E73;&#x7B49;&#x3002;</p><hr><p><em>See you tomorrow</em></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+    
+      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
+    
+      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
+    
+      <category term="My 100-Day English" scheme="https://steven-shixq.github.io/tags/My-100-Day-English/"/>
+    
+  </entry>
   
   <entry>
     <title>My 100-Day English -1</title>
@@ -566,35 +598,6 @@
       <category term="Nature" scheme="https://steven-shixq.github.io/tags/Nature/"/>
     
       <category term="Molecular Psychiatry" scheme="https://steven-shixq.github.io/tags/Molecular-Psychiatry/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>每日外闻157</title>
-    <link href="https://steven-shixq.github.io/2020/07/12/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB157/"/>
-    <id>https://steven-shixq.github.io/2020/07/12/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB157/</id>
-    <published>2020-07-12T15:33:58.000Z</published>
-    <updated>2020-07-12T17:22:21.891Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Steven-Shixq/imagerepository/img/20200712113728.png"  alt></p><p>We are living in a different world compared to just three months ago. Critical parts of our lives have been uprooted and turned upside down, which has led to a further spiral of worry and stress. We want to be helpful, so we tend to share information that comforts and reassures us - however, this doesn&#x2019;t necessarily mean it&#x2019;s accurate, and in fact, it often contributes to the growing uncertainty.</p><p>The spread of false information during the coronavirus outbreak has been rapid, with well-meaning friends and family sharing messages on WhatsApp and Facebook warning of everything from premature government lockdowns to unusual home remedies that claim to beat the virus. </p><p>&#x201C;We&#x2019;re not just fighting an epidemic; we&#x2019;re fighting an infodemic,&#x201D; said Tedros Adhanom Ghebreyesus, Director General of the World Health Organisation. &#x201C;Fake news spreads faster and more easily than this virus, and is just as dangerous.&#x201D;</p><p>It&#x2019;s likely we all know someone who has unfortunately shared inaccurate information about the risk of the outbreak, however, according to research, it likely wasn&#x2019;t intentional.</p><p>Studies indicate that 46 percent of Internet-using adults in the UK viewed false or misleading information about the virus in the first week of the country&#x2019;s lockdown. Furthermore, researchers at King&#x2019;s College London questioned people about Covid-19 conspiracy theories, such as the false idea that the virus was linked to the rollout of 5G mobile networks. Those who believed these theories were less likely to believe there was a good reason for the lockdown in the UK, potentially increasing the risk to their health if they chose to ignore government instructions.</p><p>These forwarded messages may contain useless, incorrect, or even harmful information and advice, which can hamper the public health response and add to social disorder and division.</p><p>Even within our own community, the temporary closure of our Jamatkhana spaces has resulted in the appearance of &#x201C;virtual Jamatkhanas,&#x201D; the details of which were forwarded onto many others without a second thought. These virtual gatherings are not appropriate, as Jamatkhana may only be established by the Imam-of-the-Time, through his institutions and appointed Mukhi-Kamadias.</p><p>Additionally, a recent report from one province in Iran found that hundreds of people had died from drinking industrial-strength methanol &#x2014; based on a false claim that it could protect from contracting Covid-19.</p><p>Regardless of the consequences of taking notice of fake news, the &#x201C;infodemic&#x201D; will likely continue. While companies such as Instagram, Facebook, and Twitter have introduced new measures (Facebook recently introduced an Information Centre with a mix of curated information and medical advice), we must be proactive and act rationally, with prudence and sound judgment. </p><p>In East Africa in 2016, Mawlana Hazar Imam explained that digital mediums have produced a global flood of voices in the form of websites, blogs, and social media, saying that, &#x201C;The result is often a wild mix of messages: good information and bad information, superficial impressions, fleeting images, and a good deal of confusion and conflict. And this is true all over the world.&#x201D;</p><p>At a time of intensifying emotions and growing polarisation, this is resulting in a society in which people feel &#x201C;entitled to their own facts.&#x201D;</p><p>&#x201C;In such a world, it is absolutely critical &#x2013; more than ever &#x2013; that the public should have somewhere to turn for reliable, balanced, objective, and accurate information,&#x201D; Hazar Imam continued.</p><p>In a world filled with a mixture of information, what do these dramatic changes mean for the Jamat worldwide? Here are some research-backed suggestions to combat misinformation:</p><ul><li><strong>Source:</strong> Question the source - references have been made to lots of institutions and experts during this outbreak. Check on official mainstream media to see if the story is repeated there. If it was forwarded from a &#x201C;friend of a friend,&#x201D; assume it&#x2019;s a rumour, unless proven otherwise. </li><li><strong>Use fact-checking websites</strong>: Websites like APFactCheck and FullFact separate out true claims from false ones. While it&#x2019;s far easier to just forward a WhatsApp message that someone else sent to you, a quick search on fact-checking sites will inform you if it&#x2019;s been flagged as fake news by more trusted sources.</li><li><strong>Over-encouragement to share:</strong> Be wary if the message asks you to share - this is how viral messaging works. </li><li><strong>Listen to advice from official institutions:</strong> the best places to go for health information about Covid-19 are government health websites and the World Health Organisation website. </li></ul><hr><p><em>See you tomorrow</em></p>]]></content>
-    
-    <summary type="html">
-    
-      Writing-Fake news_ How to deal with misinformation
-    
-    </summary>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/categories/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/categories/English/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-    
-      <category term="English" scheme="https://steven-shixq.github.io/tags/English/"/>
-    
-      <category term="每日外闻" scheme="https://steven-shixq.github.io/tags/%E6%AF%8F%E6%97%A5%E5%A4%96%E9%97%BB/"/>
-    
-      <category term="Journal" scheme="https://steven-shixq.github.io/tags/Journal/"/>
     
   </entry>
   
