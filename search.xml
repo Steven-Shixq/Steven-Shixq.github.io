@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>MY 100-Day English -50</title>
+      <link href="/2021/02/03/MY-100-Day-English-50/"/>
+      <url>/2021/02/03/MY-100-Day-English-50/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://www.nature.com/articles/d41586-020-03572-y" target="_blank" rel="noopener">Artificial intelligence accelerated by light</a></p></blockquote><p>The explosive growth of artificial intelligence calls for rapidly increasing computing power. Two reported photonic (&#x5149;&#x5B50;&#x6676;&#x4F53;) processors could meet these power requirements and revolutionize artificial-intelligence hardware.</p><p><img src="/" class="lazyload" data-src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-020-03070-1/MediaObjects/41586_2020_3070_Fig1_HTML.png"  alt="Fig. 1"></p><p><em>Continuous</em></p><p>Feldmann and colleagues independently made an integrated photonic processor that performs a convolution involving optical signals that span two dimensions. The device uses optical frequency combs in an &#x2018;in-memory (&#x5185;&#x5B58;)&#x2019; computing architecture that is based on a phase-change material (a material that can switch between an <strong>amorphous</strong> (&#x65E0;&#x5B9A;&#x578B;&#x7684;&#xFF0C;&#x975E;&#x6676;&#x8D28;&#x7684;) phase and a <strong>crystalline</strong> (&#x7ED3;&#x6676;&#x7684;) phase). The authors fully parallelized the input data through wavelength multiplexing and conducted <strong>analogue</strong> (&#x7C7B;&#x4F3C;&#x7269;) matrix&#x2013;vector multiplication using an array of integrated cells of the phase-change material.</p><p>Such a highly parallelized framework can potentially process an entire image in a single step and at high speed. Moreover, in principle, the system can be substantially scaled up using commercial manufacturing procedures and aid <em>in situ</em> machine learning in the near future. Because the convolution process involves passive transmission, the calculations of the photonic processing core can, in theory, be performed at the speed of light and with low power consumption. This ability would be extremely valuable for <strong>energy-intensive</strong> (&#x80FD;&#x6E90;&#x5BC6;&#x96C6;&#x578B;&#x7684;) applications, such as cloud computing.</p><p>Given the challenges facing conventional electronic computing approaches, it is exciting to see the emergence of integrated photonics as a potential <strong>successor</strong> (&#x7EE7;&#x627F;&#x8005;) to achieve <strong>unprecedented</strong> (&#x7A7A;&#x524D;&#x7684;&#xFF1B;&#x65E0;&#x524D;&#x4F8B;&#x7684;) performance for future computing architectures. However, building a practical optical computer will require extensive <strong>interdisciplinary</strong> (&#x8DE8;&#x5B66;&#x79D1;&#x7684;&#xFF0C;&#x8DE8;&#x9886;&#x57DF;&#x7684;) efforts and collaborations between researchers in materials science, photonics, electronics and so on. Although the reported photonic processors have high computing power per unit area and potential <strong>scalability</strong> (&#x53EF;&#x6269;&#x5C55;&#x6027;), the all-optical computing scale (the number of optical artificial neurons) remains small. Moreover, the energy efficiency is limited by the presence of computing elements that <strong>inherently</strong> (&#x5185;&#x5728;&#x7684;&#xFF0C;&#x56FA;&#x6709;&#x7684;) absorb light and because electrical and optical signals frequently need to be <strong>interconverted</strong> (&#x4E92;&#x6362;).</p><p>Another <strong>avenue</strong> (&#x9014;&#x5F84;&#xFF0C;&#x624B;&#x6BB5;&#xFF0C;&#x6797;&#x836B;&#x5927;&#x9053;) of research is the development of advanced nonlinear integrated photonic computing architectures, rather than one- or two-dimensional linear convolutions (&#x4E00;&#x7EF4;&#x6216;&#x8005;&#x4E8C;&#x7EF4;&#x7684;&#x7EBF;&#x6027;&#x5377;&#x79EF;). By integrating electronic circuits and thousands or millions of photonic processors into a suitable architecture, a hybrid optical&#x2013;electronic framework that takes advantage of both photonic and electronic processors could revolutionize AI hardware in the near future. Such hardware would have important applications in areas such as communication, data-centre operation and cloud computing.</p><hr><p><em>See you tomorrow</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> English </category>
+          
+          <category> 每日外闻 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> English </tag>
+            
+            <tag> 每日外闻 </tag>
+            
+            <tag> My 100-Day English </tag>
+            
+            <tag> Nature </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MY 100-Day English -49</title>
       <link href="/2021/02/02/MY-100-Day-English-49/"/>
       <url>/2021/02/02/MY-100-Day-English-49/</url>
