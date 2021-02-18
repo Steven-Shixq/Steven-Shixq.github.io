@@ -4,11 +4,296 @@
   
     
     <entry>
+      <title>MY 100-Day English -65</title>
+      <link href="/2021/02/18/MY-100-Day-English-65/"/>
+      <url>/2021/02/18/MY-100-Day-English-65/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://care.diabetesjournals.org/content/early/2021/01/06/dc20-1721" target="_blank" rel="noopener">The Effect of BMI and Type 2 Diabetes on Socioeconomic Status: A Two-Sample Multivariable Mendelian Randomization Study</a></p></blockquote><p><img src="/" class="lazyload" data-src="https://gitee.com/XiaoqiangShi/imagehosts/raw/master/20210216115638.png"  alt></p><p><strong>CONCLUSIONS</strong> </p><p>In this study, we estimated the independent effects of BMI and T2D on household income and regional deprivation using a novel multivariable MR technique (8). Our results indicate negative effects of BMI but no effect of diabetes. </p><p>&#x200B;    These findings strengthen the evidence of the <strong>deleterious</strong> (&#x6709;&#x6BD2;&#x7684;&#xFF0C;&#x6709;&#x5BB3;&#x7684;) role of BMI on income and regional deprivation reported in previous observational and one-sample MR studies (1,4&#x2013;6). The potential underlying mechanisms include a lower ability to work, higher absenteeism, higher probability of <strong>musculoskeletal</strong> (&#x808C;&#x8089;&#x9AA8;&#x9ABC;) injuries, and higher <strong>discrimination</strong> (&#x6B67;&#x89C6;), which may lead to poorer career prospects, decreasing labor market participation, and lower income (1). A lower income could in turn affect living standards, leading individuals to self-select into more deprived areas with more affordable housing and food options. </p><p>&#x200B;    Similar to a previous one-sample MR study (5), our results did not show any significant effect of T2D on household income or regional deprivation. In contrast, other studies that did not use a multivariate two-sample MR approach showed a negative effect of diabetes on socioeconomic outcomes (2,3). This result should be object of further studies, aiming at establishing whether this null effect can be replicated or whether it is mainly due to methodological shortcomings in our study. </p><p>&#x200B;    In fact, this study has some methodological limitations. First, despite the fact that genetic characteristics are independent of possible confounders, high BMI or diabetes genetic risk of parents might be an unmeasured confounder, causing a &#x201C;dynastic bias&#x201D; (15). Second, although the relevance assumption of our IVs is satisfied, the <u>explanatory power</u> (&#x89E3;&#x91CA;&#x529B;) of the set of SNPs used in the analysis for both the exposures and the outcomes is limited (10,11). Finally, because the UK Biobank population is a selected one (13), our results might suffer from selection bias. </p><p>&#x200B;    In conclusion, the current study provides evidence of a negative causal effect of higher BMI on income and regional deprivation, controlling for diabetes (&#x5E76;&#x63A7;&#x5236;&#x4E86;&#x7CD6;&#x5C3F;&#x75C5;&#x8FD9;&#x4E2A;&#x53D8;&#x91CF;). In contrast, T2D does not have an effect on these two socioeconomic outcomes. Further studies should investigate this result, using new generations of GWAS with a higher explanatory power and including a more representative population. Furthermore, applied research may help to improve the understanding for the underlying mechanisms and to create targeted strategies to break the negative connection between BMI and socioeconomic outcomes.</p><hr><p><em>See you tomorrow</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> English </category>
+          
+          <category> 每日外闻 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> English </tag>
+            
+            <tag> 每日外闻 </tag>
+            
+            <tag> My 100-Day English </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MY 100-Day English -64</title>
+      <link href="/2021/02/17/MY-100-Day-English-64/"/>
+      <url>/2021/02/17/MY-100-Day-English-64/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://care.diabetesjournals.org/content/early/2021/01/06/dc20-1721" target="_blank" rel="noopener">The Effect of BMI and Type 2 Diabetes on Socioeconomic Status: A Two-Sample Multivariable Mendelian Randomization Study</a></p></blockquote><p><img src="/" class="lazyload" data-src="https://gitee.com/XiaoqiangShi/imagehosts/raw/master/20210216115638.png"  alt></p><p><strong>RESULTS</strong> </p><p>In total, we included 69 SNPs for BMI and 42 SNPs for T2D, which overlapped at two distinct loci: FTO and TCF7L2 (Supplementary Table 2). Results of the univariable MR analysis indicated that a higher BMI was associated with a lower household income (&#x3B2;=20.092; 95% CI 20.138; 20.047) and with a higher regional deprivation (&#x3B2;=0.051; 95% CI 0.022; 0.079) (Table 1). </p><p><img src="/" class="lazyload" data-src="https://gitee.com/XiaoqiangShi/imagehosts/raw/master/20210218122036.png"  alt></p><p>Diabetes did not have any effect on the socioeconomic outcomes considered. All analyses, except for BMI on income, presented low to middle levels of <strong>heterogeneity</strong> (&#x5F02;&#x8D28;&#x6027;&#xFF0C;&#x4E0D;&#x5747;&#x4E00;&#x6027;) (I 2 5 0&#x2013;57%), indicating good validity of the instruments. The difference between MR Egger and IVW estimates and a significant MR Egger intercept indicated the presence of horizontal pleiotropy, highlighting the need for multivariable MR analysis. The resulting effects from the multivariable MR analysis (Table 1) revealed that the direct effect of BMI controlling for diabetes was lower than in the univariable setting but still significant for both household income (b 5 20.089; 95% CI 20.13; 20.048) and regional deprivation (b 5 0.049; 95% CI 0.023; 0.075). Again, no effect of diabetes on socioeconomic outcomes could be observed. The results from the MR Egger regression were almost identical to the estimates resulting from the IVW regression, indicating that the multivariable approach successfully accounted for the bias resulting from horizontal pleiotropy in the univariable setting. All results were robust to the use of alternative estimation methods (Supplementary Material 3) and to the exclusion of other potentially pleiotropic SNPs (Supplementary Material 4).</p><hr><p><em>See you tomorrow</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> English </category>
+          
+          <category> 每日外闻 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> English </tag>
+            
+            <tag> 每日外闻 </tag>
+            
+            <tag> My 100-Day English </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MY 100-Day English -63</title>
+      <link href="/2021/02/16/MY-100-Day-English-63/"/>
+      <url>/2021/02/16/MY-100-Day-English-63/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://care.diabetesjournals.org/content/early/2021/01/06/dc20-1721" target="_blank" rel="noopener">The Effect of BMI and Type 2 Diabetes on Socioeconomic Status: A Two-Sample Multivariable Mendelian Randomization Study</a></p></blockquote><p><img src="/" class="lazyload" data-src="https://gitee.com/XiaoqiangShi/imagehosts/raw/master/20210216115638.png"  alt></p><p><strong>Data</strong> </p><p>For the associations between SNPs and socioeconomic outcomes, we used publicly available summary-level data from a GWAS of UK Biobank data (12,13), including 464,708 individuals of European ancestry. Our outcomes were household income, defined as the average total household income before tax, and regional deprivation, defined using the Townsend deprivation index (14) (Supplementary Material 1). Regarding the exposures, we used summary-level data on the associations between SNPs and BMI or T2D from published meta-analyses of GWAS (10,11), excluding UK Biobank participants, because independency of data of the SNP-exposure and SNP-outcome association is a key <strong>prerequisite</strong> (&#x5148;&#x51B3;&#x6761;&#x4EF6;) for the validity of the two-sample MR approach (9) (Supplementary Materials 1 and 2).</p><p><strong>Statistical Analysis</strong> </p><p>First, we performed a univariable MR analysis, testing the single effects of BMI and diabetes on the outcomes (8). Second, we estimated two-sample multivariable MR analysis of the effects of BMI and diabetes on the outcomes, using the set of overlapping SNPs as instruments (10,11). We estimated the effects using the inverse-variance weighted (IVW)method (9). Furthermore, we tested their <strong>robustness</strong> (&#x7A33;&#x5065;&#x6027;) against other estimation methods, including median-based (&#x57FA;&#x4E8E;&#x4E2D;&#x503C;&#x7684;&#x65B9;&#x6CD5;), MR Egger, and MR-robust adjusted profile score (RAPS) methods (Supplementary Materials 1 and 3). Moreover, we tested the sensitivity of the results by excluding other potentially pleiotropic SNPs (Supplementary Material 4). In both the univariable and the multivariable analyses, we tested the effects of two exposures on two outcomes. We therefore assumed a conservative Bonferroni-corrected P value for statistical significance of 0.05/4 5 0.0125.</p><hr><p><em>See you tomorrow</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> English </category>
+          
+          <category> 每日外闻 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> English </tag>
+            
+            <tag> 每日外闻 </tag>
+            
+            <tag> My 100-Day English </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MY 100-Day English -62</title>
+      <link href="/2021/02/15/MY-100-Day-English-62/"/>
+      <url>/2021/02/15/MY-100-Day-English-62/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://care.diabetesjournals.org/content/early/2021/01/06/dc20-1721" target="_blank" rel="noopener">The Effect of BMI and Type 2 Diabetes on Socioeconomic Status: A Two-Sample Multivariable Mendelian Randomization Study</a></p></blockquote><p><img src="/" class="lazyload" data-src="https://gitee.com/XiaoqiangShi/imagehosts/raw/master/20210216115638.png"  alt></p><p>Previous evidence indicates that high BMI and type 2 diabetes (T2D) are associated with poorer labor market prospects, lower productivity, and higher <strong>absenteeism</strong> (&#x65F7;&#x8BFE;) (1&#x2013;6). These disadvantages may accumulate over time and affect income and living circumstances, leading to a selection of individuals in more regionally deprived areas. However, identifying the causal effect of BMI or diabetes on socioeconomic outcomes is challenging, mainly due to intrinsic problems of unmeasured confounding and reverse causation (1&#x2013;3). Earlier approaches focused on the use of instrumental variable (IV) methods, exploiting the disease status of biological parents as IV (1&#x2013;3). Recent studies have used genetic characteristics in one-sample Mendelian randomization (MR) approaches and showed an effect of BMI on socioeconomic status (4&#x2013;6), while no effect of diabetes could be revealed (5). This study aims at estimating the causal effect of BMI and T2D on household income and regional deprivation using a multivariable two-sample MR approach. <u>This approach allows considering the shared genetic components of BMI and diabetes (7) to jointly estimate their causal effects on these socioeconomic outcomes</u> (8).</p><p><strong>RESEARCH DESIGN AND METHODS</strong> </p><p><strong>MR</strong> </p><p>The principle of MR roots in Mendel&#x2019;s laws of inheritance (i.e., the individual genotype is largely independent of external factors and therefore independent of potential confounders). In MR techniques, significant single nucleotide polymorphisms (SNPs) that are associated with the exposure are <strong>exploited</strong> (&#x5229;&#x7528;) as <strong>exogenous</strong> (&#x5916;&#x751F;&#x7684;&#xFF0C;&#x5916;&#x6E90;&#x7684;) genetic variation in the form of IVs (8,9). Genome-wide association studies (GWAS) have shown significant independent associations between several SNPs and BMI or T2D (10,11) but also the presence of distinct signals influencing both conditions (7). While the relevance assumption and exclusion criteria are satisfied for our data (see SupplementaryMaterial 1), this overlap could lead to horizontal pleiotropy that violates the exchangeability (&#x53EF;&#x66FF;&#x6362;&#x6027;) assumption (i.e., the same SNP independently influences multiple phenotypes) and could result in biased estimates (9). Horizontal pleiotropy can be overcome by using multivariable MR methods (i.e., by considering the overlapping instruments directly in the estimation) (8).</p><hr><p><em>See you tomorrow</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> English </category>
+          
+          <category> 每日外闻 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> English </tag>
+            
+            <tag> 每日外闻 </tag>
+            
+            <tag> My 100-Day English </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MY 100-Day English -61</title>
+      <link href="/2021/02/14/MY-100-Day-English-61/"/>
+      <url>/2021/02/14/MY-100-Day-English-61/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://care.diabetesjournals.org/content/early/2021/01/06/dc20-1721" target="_blank" rel="noopener">The Effect of BMI and Type 2 Diabetes on Socioeconomic Status: A Two-Sample Multivariable Mendelian Randomization Study</a></p></blockquote><p><img src="/" class="lazyload" data-src="https://gitee.com/XiaoqiangShi/imagehosts/raw/master/20210216115638.png"  alt></p><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p><strong>OBJECTIVE</strong> To assess the independent causal effect of BMI and type 2 diabetes (T2D) on socioeconomic (&#x793E;&#x4F1A;&#x7ECF;&#x6D4E;&#x7684;) outcomes by applying two-sample Mendelian randomization (MR) analysis.</p><p><strong>RESEARCH DESIGN AND METHODS</strong> We performed univariable (&#x5355;&#x53D8;&#x91CF;) and multivariable two-sample MR to jointly (&#x5171;&#x540C;&#x7684;) assess the effect BMI and T2D on socioeconomic outcomes. We used overlapping genome-wide significant single nucleotide polymorphisms for BMI and T2D as instrumental variables. Their causal impact on household income and regional <strong>deprivation</strong> (&#x5265;&#x593A;&#xFF0C;&#x8D2B;&#x56F0;) was assessed using summary-level data from the UK Biobank.</p><p><strong>RESULTS</strong> In the univariable analysis, higher BMI was related to lower income (<u>marginal effect</u> (&#x8FB9;&#x9645;&#x6548;&#x5E94;) of 1-SD increase in BMI [&#x3B2; = &#x2212;0.092; 95% CI &#x2212;0.138; &#x2212;0.047]) and higher deprivation (&#x3B2; = 0.051; 95% CI 0.022; 0.079). In the multivariable MR, the effect of BMI controlling for diabetes was slightly lower for income and deprivation. Diabetes was not associated with these outcomes.</p><p><strong>CONCLUSIONS</strong> High BMI, but not diabetes, shows a causal link with socioeconomic outcomes.</p><hr><p><em>See you tomorrow</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> English </category>
+          
+          <category> 每日外闻 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> English </tag>
+            
+            <tag> 每日外闻 </tag>
+            
+            <tag> My 100-Day English </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MY 100-Day English -60</title>
+      <link href="/2021/02/13/MY-100-Day-English-60/"/>
+      <url>/2021/02/13/MY-100-Day-English-60/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/" class="lazyload" data-src="https://gitee.com/XiaoqiangShi/imagehosts/raw/master/20210216121635.png"  alt></p><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p><strong>Objective</strong> To determine whether height and body mass index (BMI) have a causal role in five measures of socioeconomic status.</p><p><strong>Design</strong> Mendelian randomisation study to test for causal effects of differences in <strong>stature</strong> (&#x8EAB;&#x6750;&#xFF0C;&#x8EAB;&#x9AD8;) and BMI on five measures of socioeconomic status. Mendelian randomisation <strong>exploits</strong> (&#x5229;&#x7528;) the fact that genotypes are randomly assigned at <strong>conception</strong> (&#x6000;&#x5B55;&#xFF1B;&#x6982;&#x5FF5;) and thus not confounded by non-genetic factors.</p><p><strong>Setting</strong> UK Biobank.</p><p><strong>Participants</strong> 119 669 men and women of British ancestry, aged between 37 and 73 years.</p><p><strong>Main outcome measures</strong> Age completed full time education, degree level education, job class, annual household income, and Townsend deprivation index.</p><p><strong>Results</strong> In the UK Biobank study, shorter stature and higher BMI were observationally associated with several measures of lower socioeconomic status. The associations between shorter stature and lower socioeconomic status tended to be stronger in men, and the associations between higher BMI and lower socioeconomic status tended to be stronger in women. </p><p>For example, a 1 standard deviation (SD) higher BMI was associated with a &#xA3;210 (&#x20AC;276; $300; 95% confidence interval &#xA3;84 to &#xA3;420; P=6&#xD7;10&#x2212;3) lower annual household income in men and a &#xA3;1890 (&#xA3;1680 to &#xA3;2100; P=6&#xD7;10&#x2212;15) lower annual household income in women. Genetic analysis provided evidence that these associations were partly causal.</p><p>BMI&#x9AD8;&#x4E00;&#x4E2A;&#x6807;&#x51C6;&#x5DEE;&#x4E0E;&#x7537;&#x751F;&#x5BB6;&#x5EAD;&#x5E74;&#x6536;&#x5165;&#x5C11;210&#x82F1;&#x9551;&#x76F8;&#x5173;&#x8054;&#xFF0C;&#x4E0E;&#x5973;&#x751F;&#x5E74;&#x6536;&#x5165;&#x4F4E;1890&#x82F1;&#x9551;&#x76F8;&#x5173;&#x8054;&#x3002;&#x9057;&#x4F20;&#x5206;&#x6790;&#x8868;&#x660E;&#x8FD9;&#x79CD;&#x5173;&#x8054;&#x662F;&#x5B58;&#x5728;&#x56E0;&#x679C;&#x5173;&#x7CFB;&#x7684;&#x3002;</p><p>A genetically determined 1 SD (6.3 cm) taller stature caused a 0.06 (0.02 to 0.09) year older age of completing full time education (P=0.01), a 1.12 (1.07 to 1.18) times higher odds of working in a skilled profession (P=6&#xD7;10&#x2212;7), and a &#xA3;1130 (&#xA3;680 to &#xA3;1580) higher annual household income (P=4&#xD7;10&#x2212;8). Associations were stronger in men.</p><p>&#x8EAB;&#x9AD8;&#x9AD8;&#x4E00;&#x4E2A;&#x6807;&#x51C6;&#x5DEE;&#x5BFC;&#x81F4;&#x591A;0.06&#x7684;&#x6559;&#x80B2;&#x5E74;&#xFF0C;1.12&#x500D;&#x9AD8;&#x7684;&#x51E0;&#x7387;&#x8EAB;&#x5904;&#x9700;&#x8981;&#x6280;&#x80FD;&#x7684;&#x5DE5;&#x4F5C;&#x5C97;&#x4F4D;&#x4E2D;&#xFF0C;&#x5E74;&#x6536;&#x5165;&#x9AD8;1130&#x82F1;&#x9551;&#x3002;&#x8FD9;&#x79CD;&#x5173;&#x8054;&#x5728;&#x7537;&#x751F;&#x4E2D;&#x5173;&#x8054;&#x6BD4;&#x5973;&#x751F;&#x4E2D;&#x5F3A;&#x3002;</p><p>A genetically determined 1 SD higher BMI (4.6 kg/m2) caused a &#xA3;2940 (&#xA3;1680 to &#xA3;4200; P=1&#xD7;10&#x2212;5) lower annual household income and a 0.10 (0.04 to 0.16) SD (P=0.001) higher level of deprivation in women only.</p><p>&#x7531;&#x9057;&#x4F20;&#x51B3;&#x5B9A;&#x7684;BMI&#x9AD8;&#x4E00;&#x4E2A;&#x6807;&#x51C6;&#x5DEE; (4.6 kg/m2) &#xFF0C;&#x5BFC;&#x81F4;2940&#x82F1;&#x9551;&#x7684;&#x5BB6;&#x5EAD;&#x6536;&#x5165;&#x4E0B;&#x964D;&#xFF0C;&#x4EC5;&#x5728;&#x5973;&#x751F;&#x7FA4;&#x4F53;&#x4E2D;&#x9AD8;0.1&#x4E2A;SD&#x7684;&#x5265;&#x593A;&#x6307;&#x6570;&#xFF08;&#x8861;&#x91CF;&#x8D2B;&#x56F0;&#x7A0B;&#x5EA6;&#x7684;&#x6307;&#x6570;&#xFF09;</p><p><strong>Conclusions</strong> These data support evidence that height and BMI play an important partial role in determining several aspects of a person&#x2019;s socioeconomic status, especially women&#x2019;s BMI for income and deprivation and men&#x2019;s height for education, income, and job class. These findings have important social and health implications, supporting evidence that overweight people, especially women, are at a disadvantage and that taller people, especially men, are at an advantage.</p><hr><p><em>See you tomorrow</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> English </category>
+          
+          <category> 每日外闻 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> English </tag>
+            
+            <tag> 每日外闻 </tag>
+            
+            <tag> My 100-Day English </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MY 100-Day English -59</title>
+      <link href="/2021/02/12/MY-100-Day-English-59/"/>
+      <url>/2021/02/12/MY-100-Day-English-59/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://hbr.org/2021/01/the-secret-to-building-resilience" target="_blank" rel="noopener">The Secret to Building Resilience</a></p></blockquote><p><img src="/" class="lazyload" data-src="https://hbr.org/resources/images/article_assets/2021/01/Jan21_29_1125019608.jpg"  alt="img"></p><h3 id="Step-2-Plan-how-to-expand-your-network"><a href="#Step-2-Plan-how-to-expand-your-network" class="headerlink" title="Step 2: Plan how to expand your network."></a>Step 2: Plan how to expand your network.</h3><p>Reflecting on the top three resilience needs you indicated, place the names of people or groups that you could invest in to further cultivate sources of resilience. Connections that yield resilience can be <strong>intentionally</strong> (&#x6545;&#x610F;&#x7684;) cultivated in two ways. First, we can broaden existing relationships by, for example, exploring non-work interests with a teammate or strengthening mutually beneficial relationships with influential work colleagues that help us <strong><u>push back</u></strong> (&#x63A8;&#x8FDF;). Second, we can initiate engagement with new groups or people to cultivate important elements of resilience &#x2014; for example spiritual groups that remind us of our purpose, or <strong>affinity</strong> (&#x4EB2;&#x5BC6;&#x5173;&#x7CFB;&#xFF0C;&#x5438;&#x5F15;&#x529B;) groups that allow us to laugh. Broadening our network helps us develop dimensionality in our lives &#x2014; a rich variety of relationships and connections that help us grow, that can provide perspective on our struggles, and that can offer us a stronger sense of purpose.</p><p>These groups may come from any and all walks of life &#x2014; athletic pursuits, spiritual associations, nonprofit board work, community organizing groups around social, environmental, or political issues, etc. Engaging in nonwork groups (particularly board work, social action, and community organizing groups) helps us develop resilience in our work life as well. Exposure to a diverse group of people allows us to learn different ways of managing, leading, and handling crises, and helps us develop different relational skills such as negotiating with various <strong>stakeholders</strong> (&#x5229;&#x76CA;&#x76F8;&#x5173;&#x8005;). It also helps us cultivate empathy and perspective that we carry back into our work, among other benefits. In summary, meaningful investment in non-work relationships broadens the toolkit one can rely upon to manage setbacks when they arise.</p><p>One critical insight from our interviews is that relying on your network <u><strong>in times of</strong></u> (&#x5728;&#x2026;&#x7684;&#x65F6;&#x5019;&#xFF1B;&#x5728;&#x2026;&#x7684;&#x65F6;&#x671F;) transition <u><strong>matters a great deal</strong></u> (&#x5173;&#x7CFB;&#x91CD;&#x5927;&#xFF0C;&#x6781;&#x4E3A;&#x91CD;&#x8981;). When people told us stories of significant transitions &#x2014; moves, job losses, role expansions, or family changes &#x2014; they tended to separate into one of two groups. One group tended to lean into the transition and relied on existing relationships to work through the <strong>ambiguity</strong> (&#x542B;&#x7CCA;&#xFF0C;&#x4E0D;&#x660E;&#x786E;) and anxiety they were experiencing. This group also used the transition to reach out to one or two new groups such as a working parents group, a newcomers group, or a work-based coaching circle. In contrast, the second group operated with a <strong>mindset</strong> (&#x5FC3;&#x6001;&#xFF1B;&#x503E;&#x5411;&#xFF1B;&#x4E60;&#x60EF;) that they just needed to absorb the transition and closed in on their circle. They felt overwhelmed and said they would lean into activities when they had time in the future. Over the <strong>ensuing</strong> (&#x56E0;&#x800C;&#x53D1;&#x751F;&#x7684;&#xFF0C;&#x968F;&#x540E;&#x7684;) 18 months, this group became a smaller version of themselves and often <strong>drifted</strong> (&#x6F02;&#x6CCA;&#xFF0C;&#x6F02;&#x6D41;) away from the connections that had been so important to their lives.</p><p>Covid has created a significant transition for us all. The importance of building and maintaining your connections has never been clearer. For most of us, the challenges and setbacks we are experiencing in work and life during this pandemic have been <strong>relentless</strong> (&#x65E0;&#x60C5;&#x7684;&#xFF1B;&#x6B8B;&#x9177;&#x7684;&#xFF1B;&#x4E0D;&#x95F4;&#x65AD;&#x7684;). But you&#x2019;re not alone in this battle. You can build resilience. Start by understanding the critical importance of growing, maintaining, and <u>tapping a diverse network</u> (&#x5229;&#x7528;&#x591A;&#x6837;&#x5316;&#x7684;&#x7F51;&#x7EDC;) to help you <u><strong>ride out</strong></u> (&#x5B89;&#x5168;&#x6E21;&#x8FC7;) the storm.</p><hr><p><em>See you tomorrow</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> English </category>
+          
+          <category> 每日外闻 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> English </tag>
+            
+            <tag> 每日外闻 </tag>
+            
+            <tag> My 100-Day English </tag>
+            
+            <tag> HBR </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MY 100-Day English -58</title>
+      <link href="/2021/02/11/MY-100-Day-English-58/"/>
+      <url>/2021/02/11/MY-100-Day-English-58/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://hbr.org/2021/01/the-secret-to-building-resilience" target="_blank" rel="noopener">The Secret to Building Resilience</a></p></blockquote><p><img src="/" class="lazyload" data-src="https://hbr.org/resources/images/article_assets/2021/01/Jan21_29_1125019608.jpg"  alt="img"></p><p>But such a network won&#x2019;t <strong>materialize</strong> (&#x5B9E;&#x73B0;&#xFF0C;&#x6210;&#x578B;&#xFF0C;&#x4F7F;&#x5177;&#x4F53;&#x5316;) overnight. When we talk to people who have shown exceptional resilience, it&#x2019;s clear that they often have cultivated and maintained <strong>authentic</strong> connections that come from many parts of their life &#x2014; not only through work, but through <strong>athletic</strong> (&#x8FD0;&#x52A8;&#x7684;) pursuits, volunteer work, civic (&#x516C;&#x6C11;&#x7684;&#xFF0C;&#x5E02;&#x6C11;&#x7684;) or religious communities, book or dinner clubs, communities of parents they&#x2019;ve met through their children, and so on. Interactions in these spheres provide critical &#x201C;<strong>dimensionality</strong> (&#x7EF4;&#x5EA6;)&#x201D;, broadening their identity and &#x201C;opening the <strong>aperture</strong> (&#x5B54;&#x5F84;&#xFF0C;&#x5149;&#x5708;&#xFF0C;&#x89C6;&#x91CE;)&#x201D; on how they look at their lives. We become more (or less) resilient through our interactions with others.</p><p>Are your relationships broad and deep enough to help support you when you hit setbacks? Here&#x2019;s an exercise to help you think that through.</p><h3 id="Step-1-Identify-your-top-resilience-needs"><a href="#Step-1-Identify-your-top-resilience-needs" class="headerlink" title="Step 1: Identify your top resilience needs."></a><strong>Step 1:</strong> <strong>Identify your top resilience needs</strong>.</h3><p>Below are eight common relational sources of resilience, the same ones we noted above. Our research shows that these sources are not universally or equally important to everyone. For example, some people value laughter, while others prefer empathy. In short, our resilience needs are personal and are shaped by our unique history, personality, and professional/personal <strong>context</strong> (&#x73AF;&#x5883;&#xFF1B;&#x4E0A;&#x4E0B;&#x6587;). But collectively, the relationships we develop are a toolbox that we can turn to in our most difficult times, which we can rely upon to help us navigate day-to-day life challenges.</p><p>Using the framework below, identify the top three sources of resilience that you would <strong><em>most like to strengthen in your life</em></strong>. Make a note of those that are most important for you to work on developing.</p><p><img src="/" class="lazyload" data-src="https://hbr.org/resources/images/article_assets/2021/01/W201215_CROSS_RESILIENCE.png"  alt="img"></p><p>&#x7406;&#x89E3;&#xFF0C;&#x4E86;&#x89E3;&#xFF1A;make sense of</p><p>pushback  vision  perspective</p><hr><p><em>See you tomorrow</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> English </category>
+          
+          <category> 每日外闻 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> English </tag>
+            
+            <tag> 每日外闻 </tag>
+            
+            <tag> My 100-Day English </tag>
+            
+            <tag> HBR </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MY 100-Day English -57</title>
+      <link href="/2021/02/10/MY-100-Day-English-57/"/>
+      <url>/2021/02/10/MY-100-Day-English-57/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://hbr.org/2021/01/the-secret-to-building-resilience" target="_blank" rel="noopener">The Secret to Building Resilience</a></p></blockquote><p><img src="/" class="lazyload" data-src="https://hbr.org/resources/images/article_assets/2021/01/Jan21_29_1125019608.jpg"  alt="img"></p><p>While, clearly, a portion of Jacob&#x2019;s <strong>fortitude</strong> (&#x575A;&#x97E7;) came from personal strength, our discussion with him revealed a number of ways that relationships <strong>bolstered</strong> (&#x652F;&#x6491;&#x7740;&#x7684;&#xFF1B;&#x52A0;&#x56FA;&#x7684;) his resilience. A <strong>patchwork</strong> (&#x62FC;&#x51D1;&#x800C;&#x6210;) of different people in his network collectively played a critical role in helping Jacob navigate and survive this extraordinary period &#x2014; each offering a different perspective or <strong><u>helping hand</u></strong> (&#x63F4;&#x52A9;&#x4E4B;&#x624B;) <strong><u>in some way</u></strong> (&#x5728;&#x67D0;&#x4E9B;&#x65B9;&#x9762;&#xFF1B;&#x5728;&#x67D0;&#x79CD;&#x7A0B;&#x5EA6;&#x4E0A;). First, his boss was a continual source of input and validation, boosting Jacob&#x2019;s confidence as he faced unprecedented medical and leadership challenges. &#x201C;She always made herself available and these interactions helped me quit worrying endlessly about different decisions.&#x201D; In addition, he <u>tapped into</u> (&#x63A5;&#x8FD1;) the strong working relationship he had with another <u><strong>department head</strong></u> (&#x90E8;&#x95E8;&#x4E3B;&#x7BA1;&#xFF0C;&#x7CFB;&#x4E3B;&#x4EFB;) to <strong>jointly</strong> (&#x5171;&#x540C;&#x5730;) manage surges in workload. The resources he was able to &#x201C;borrow&#x201D; from this colleague enabled him to <strong><u>push back</u></strong> (&#x5411;&#x540E;&#x63A8;&#xFF0C;&#x63A8;&#x8FDF;) on non-essential work, as well as bypass typical <strong>bureaucratic</strong> (&#x5B98;&#x50DA;&#x7684;) <strong>gridlock</strong> (&#x4EA4;&#x901A;&#x5835;&#x585E;, &#x50F5;&#x5C40;) to <strong>secure</strong> (&#x4FDD;&#x62A4;&#xFF0C;&#x83B7;&#x5F97;) resources. &#x201C;At a couple of really important <strong>junctures</strong> (&#x63A5;&#x7F1D;&#xFF1B;&#x8FDE;&#x63A5;&#xFF1B;&#x63A5;&#x5408;), this helped us from getting over-run.&#x201D; And a very strong <u>chief of staff</u> (&#x53C2;&#x8C0B;&#x957F;&#xFF0C;&#x529E;&#x516C;&#x5BA4;&#x4E3B;&#x4EFB;) stepped in and took ownership of several work-streams put in place to help deal with Covid. For Jacob, knowing that this reliable person had those domains in hand &#x201C;took stress from a 10 to an 8 many times.&#x201D; Even his daily <strong>exchanges</strong> (&#x4EA4;&#x6D41;) with his office manager played a critical role &#x2014; she was able to find ways to laugh with him even under this stress. &#x201C;It wasn&#x2019;t <u>gallows humor</u> (&#x5145;&#x6EE1;&#x6028;&#x6068;&#x7684;&#x5E7D;&#x9ED8;&#xFF1B;&#x5316;&#x89E3;&#x4E25;&#x91CD;&#x573A;&#x9762;&#x6216;&#x50F5;&#x5C40;&#x7684;&#x5E7D;&#x9ED8;), but <strong>sarcastic</strong> (&#x6316;&#x82E6;&#x7684;) comments about difficult people or situations that lightened things for us and made us feel on the same team,&#x201D; he recalled.</p><p>Jacob was also lucky in that his home was a critical <strong>refuge</strong> (&#x907F;&#x96BE;&#xFF1B;&#x907F;&#x96BE;&#x6240;) for him through this time. His wife, who also had a medical background, provided an outlet to <strong>vent</strong> (&#x8868;&#x8FBE;&#xFF0C;&#x53D1;&#x6CC4;) that yielded both empathy and possible solutions. His children even played a role that he did not realize until past the early crisis: &#x201C;They were proud of me. They would tell me this, and it was better than anything else to help me <strong><u>buckle down</u></strong> (&#x503E;&#x5168;&#x529B;&#xFF1B;&#x5F00;&#x59CB;&#x8BA4;&#x771F;&#x4ECE;&#x4E8B;) and keep pushing through.&#x201D;</p><p>In short, Jacob shows us that resilience is found not just in having a network of supporters, but in truly connecting with them when you need them most. It&#x2019;s in the <em>actual interactions themselves</em> &#x2014; the conversations that validate your plans, reframe your perspective on a situation, help you laugh and feel <strong>authentic</strong> (&#x771F;&#x5B9E;&#x7684;&#xFF1B;&#x53EF;&#x4FE1;&#x7684;) with others, or just encourage you to <u>get back up</u> (&#x91CD;&#x65B0;&#x7AD9;&#x8D77;&#x6765;) and try again because the battle is a worthy one &#x2014; that we become resilient. Yes, we&#x2019;re all told to build a network to help further our careers, but what&#x2019;s important to understand is how essential these relationships can also be to our day-to-day emotional well-being &#x2014; if we are building these relationships in the right way as we progress through our careers. Relationships may be our most undervalued resources.</p><p>&#x63F4;&#x52A9;&#x4E4B;&#x624B;&#xFF1A;helping hand</p><p>&#x5728;&#x67D0;&#x79CD;&#x7A0B;&#x5EA6;&#x4E0A;&#xFF1A;in some way</p><p>&#x90E8;&#x95E8;&#x4E3B;&#x7BA1;&#xFF0C;&#x7CFB;&#x4E3B;&#x4EFB;&#xFF1A;department head</p><p>&#x503E;&#x5C3D;&#x5168;&#x529B;&#x8BA4;&#x771F;&#x505A;&#x4E8B;&#xFF1A;buckle down</p><hr><p><em>See you tomorrow</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> English </category>
+          
+          <category> 每日外闻 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> English </tag>
+            
+            <tag> 每日外闻 </tag>
+            
+            <tag> My 100-Day English </tag>
+            
+            <tag> HBR </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MY 100-Day English -56</title>
       <link href="/2021/02/09/MY-100-Day-English-56/"/>
       <url>/2021/02/09/MY-100-Day-English-56/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://hbr.org/2021/01/the-secret-to-building-resilience" target="_blank" rel="noopener">The Secret to Building Resilience</a></p></blockquote><p><img src="/" class="lazyload" data-src="https://hbr.org/resources/images/article_assets/2021/01/Jan21_29_1125019608.jpg"  alt="img"></p><p><code>resilience&#x4E0D;&#x662F;&#x7EAF;&#x7CB9;&#x662F;&#x4E00;&#x79CD;&#x4E2A;&#x4EBA;&#x7684;&#x7279;&#x5F81;&#xFF0C;&#x5F3A;&#x5927;&#x7684;&#x4EBA;&#x9645;&#x5173;&#x7CFB;&#x548C;&#x7F51;&#x7EDC;&#x4E5F;&#x5728;&#x5F88;&#x5927;&#x7684;&#x7A0B;&#x5EA6;&#x4E0A;&#x4FC3;&#x8FDB;&#x4E86;&#x8FD9;&#x79CD;&#x97E7;&#x6027;</code></p><p><span style="color:red"><strong>The ability to bounce back from setbacks is often described as the difference between successful and unsuccessful people.</strong></span> Resilience has been shown to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3126102/" target="_blank" rel="noopener">positively influence work satisfaction and engagement</a>, as well as <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?referer=&amp;httpsredir=1&amp;article=1010&amp;context=leadershipfacpub" target="_blank" rel="noopener">overall well-being</a>, and can <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5110375/" target="_blank" rel="noopener">lower depression</a> levels. There is even evidence that resilience can help protect us from <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1348/135910707X186994" target="_blank" rel="noopener">physical illness</a>. But resilience, conventional thinking assumes, is something we find within ourselves only when we are tested (&#x7ECF;&#x53D7;&#x8003;&#x9A8C;&#x7684;&#x65F6;&#x5019;) &#x2014; a kind of solitary internal &#x201C;grit&#x201D; that allows those of us who are strong to bounce back.</p><p>But that&#x2019;s not necessarily true. Our research (which is not yet published) shows <u>that resilience is not purely an individual characteristic, but is also heavily enabled by strong relationships and networks</u>. We can nurture and build our resilience through a wide variety of interactions with people in our personal and professional lives. These interactions can help us to shift or push back on work demands and alter the <strong>magnitude</strong> (&#x5927;&#x5C0F;&#xFF1B;&#x91CF;&#x7EA7;) of the challenge we&#x2019;re facing. They can help <strong>crystalize</strong> the meaningful purpose in what we are doing or help us see a path forward to overcome a setback &#x2014; these are the kinds of interactions that motivate us to persist. People in our support systems can provide empathy or simply help us laugh and <strong>bolster</strong> (&#x652F;&#x6301;,&#x652F;&#x6491;) our resilience by shifting perspective and reminding us we are not alone in the fight. In short, resilience is not something we need to find deep down inside ourselves: we can actually become more resilient in the process of connecting with others in our most challenging times.</p><p>Based on in-depth interviews with 150 leaders (five men and five women from 15 different organizations who were considered to be among their &#x201C;most successful&#x201D; leaders), we have defined how connections can help us become more resilient when we encounter (&#x906D;&#x9047;&#xFF1B;&#x9082;&#x9005;&#xFF1B;&#x9047;&#x5230;) major life or professional challenges. A well-developed network of relationships can help us rebound from setbacks by:</p><ul><li>Helping us <em>shift work or manage surges</em></li><li>Helping us to <em><u>make sense of</u> (&#x7406;&#x89E3;) people or politics in a given situation</em></li><li>Helping us find the confidence to <em>push back</em> and <em>self advocate (&#x4E3B;&#x5F20;&#xFF0C;&#x62E5;&#x62A4;&#xFF0C;&#x5021;&#x5BFC;)</em></li><li>Helping us see <em><u>a path forward</u> (&#x524D;&#x8FDB;&#x7684;&#x9053;&#x8DEF;)</em></li><li>Providing <em>empathic support so we can release negative emotions</em></li><li>Helping us to <em>laugh at ourselves and the situation</em></li><li>Reminding us of the <em>purpose or meaning</em> in our work</li><li>Broadening us as individuals so that we maintain <em>perspective</em> when setbacks happen</li></ul><p>As Jacob (who was among those we interviewed) learned in what was unquestionably the toughest period of his entire career, resilience is a team sport.</p><p>&#x7406;&#x89E3;&#xFF0C;&#x641E;&#x6E05;&#x695A;&#x2026;&#x7684;&#x610F;&#x601D;: make sense of</p><hr><p><em>See you tomorrow</em></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p><a href="https://hbr.org/2021/01/the-secret-to-building-resilience" target="_blank" rel="noopener">The Secret to Building Resilience</a></p></blockquote><p><img src="/" class="lazyload" data-src="https://hbr.org/resources/images/article_assets/2021/01/Jan21_29_1125019608.jpg"  alt="img"></p><p><code>resilience&#x4E0D;&#x662F;&#x7EAF;&#x7CB9;&#x662F;&#x4E00;&#x79CD;&#x4E2A;&#x4EBA;&#x7684;&#x7279;&#x5F81;&#xFF0C;&#x5F3A;&#x5927;&#x7684;&#x4EBA;&#x9645;&#x5173;&#x7CFB;&#x548C;&#x7F51;&#x7EDC;&#x4E5F;&#x5728;&#x5F88;&#x5927;&#x7684;&#x7A0B;&#x5EA6;&#x4E0A;&#x4FC3;&#x8FDB;&#x4E86;&#x8FD9;&#x79CD;&#x97E7;&#x6027;</code></p><p><span style="color:red"><strong>The ability to bounce back from setbacks is often described as the difference between successful and unsuccessful people.</strong></span> Resilience has been shown to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3126102/" target="_blank" rel="noopener">positively influence work satisfaction and engagement</a>, as well as <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?referer=&amp;httpsredir=1&amp;article=1010&amp;context=leadershipfacpub" target="_blank" rel="noopener">overall well-being</a>, and can <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5110375/" target="_blank" rel="noopener">lower depression</a> levels. There is even evidence that resilience can help protect us from <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1348/135910707X186994" target="_blank" rel="noopener">physical illness</a>. But resilience, conventional thinking assumes, is something we find within ourselves only when we are tested (&#x7ECF;&#x53D7;&#x8003;&#x9A8C;&#x7684;&#x65F6;&#x5019;) &#x2014; a kind of solitary internal &#x201C;grit&#x201D; that allows those of us who are strong to bounce back.</p><p>But that&#x2019;s not necessarily true. Our research (which is not yet published) shows <u>that resilience is not purely an individual characteristic, but is also heavily enabled by strong relationships and networks</u>. We can nurture and build our resilience through a wide variety of interactions with people in our personal and professional lives. These interactions can help us to shift or push back on work demands and alter the <strong>magnitude</strong> (&#x5927;&#x5C0F;&#xFF1B;&#x91CF;&#x7EA7;) of the challenge we&#x2019;re facing. They can help <strong>crystalize</strong> the meaningful purpose in what we are doing or help us see a path forward to overcome a setback &#x2014; these are the kinds of interactions that motivate us to persist. People in our support systems can provide empathy or simply help us laugh and <strong>bolster</strong> (&#x652F;&#x6301;,&#x652F;&#x6491;) our resilience by shifting perspective and reminding us we are not alone in the fight. In short, resilience is not something we need to find deep down inside ourselves: we can actually become more resilient in the process of connecting with others in our most challenging times.</p><p>Based on in-depth interviews with 150 leaders (five men and five women from 15 different organizations who were considered to be among their &#x201C;most successful&#x201D; leaders), we have defined how connections can help us become more resilient when we encounter (&#x906D;&#x9047;&#xFF1B;&#x9082;&#x9005;&#xFF1B;&#x9047;&#x5230;) major life or professional challenges. A well-developed network of relationships can help us rebound from setbacks by:</p><ul><li>Helping us <em>shift work or manage surges</em></li><li>Helping us to *<u>make sense of</u> (&#x7406;&#x89E3;) people or politics in a given situation*</li><li>Helping us find the confidence to <em>push back</em> and <em>self advocate (&#x4E3B;&#x5F20;&#xFF0C;&#x62E5;&#x62A4;&#xFF0C;&#x5021;&#x5BFC;)</em></li><li>Helping us see *<u>a path forward</u> (&#x524D;&#x8FDB;&#x7684;&#x9053;&#x8DEF;)*</li><li>Providing <em>empathic support so we can release negative emotions</em></li><li>Helping us to <em>laugh at ourselves and the situation</em></li><li>Reminding us of the <em>purpose or meaning</em> in our work</li><li>Broadening us as individuals so that we maintain <em>perspective</em> when setbacks happen</li></ul><p>As Jacob (who was among those we interviewed) learned in what was unquestionably the toughest period of his entire career, resilience is a team sport.</p><p>&#x7406;&#x89E3;&#xFF0C;&#x641E;&#x6E05;&#x695A;&#x2026;&#x7684;&#x610F;&#x601D;: make sense of</p><hr><p><em>See you tomorrow</em></p>]]></content>
       
       
       <categories>
